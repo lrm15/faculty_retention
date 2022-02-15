@@ -14,6 +14,7 @@ lines = []
 with open ('catalog_2018-19.txt') as f: 
     lines = f.readlines()
 
+cleaned = []
 for line in lines: 
     # print('\n')
     line = line.split(',', maxsplit=2)
@@ -30,7 +31,7 @@ for line in lines:
             if ("on leave 2018-2019" in line[2]): 
                 line.append('y')
                 line[2] = line[2].replace(", on leave 2018-2019", '') 
-            print(line)
+            # print(line)
         else: 
             line.append('n')
     if (len(line) == 2): 
@@ -40,16 +41,28 @@ for line in lines:
         line.append("none")
         line.append("none")
         line.append('n')
+    cleaned.append(line)
 
-    # with open('faculty2018-19.csv', 'w') as f: 
-    #     writer = csv.writer(f)
-    #     writer.writerows(line)
-
-
-
-
-
-        
+names = []
+titles = []
+degrees = []
+leave = []
+for faculty in cleaned: 
+    # check that each individual faculty member has 4 fields of data
+    if (len(faculty) < 4): 
+        print("error: the following faculty member does not have 4 fields")
+        print(faculty)
+        break 
     
-    # print(len(line))
-    # print(line)
+    names.append(faculty[0])
+    titles.append(faculty[1])
+    degrees.append(faculty[2])
+    leave.append(faculty[3])
+
+df = pd.DataFrame()
+df['name'] = names
+df['title'] = titles 
+df['degrees'] = degrees 
+df['leave'] = leave
+
+print(df)
