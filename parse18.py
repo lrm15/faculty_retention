@@ -4,7 +4,7 @@ import csv
 
 # text = ''
 # for i in range(62, 90): 
-#     with pdfplumber.open('/Users/laurenmccarey/math308/catalog_2018-19.pdf') as temp: 
+#     with pdfplumber.open('/Users/laurenmccarey/math308/18-19/catalog_2018-19.pdf') as temp: 
 #         page = temp.pages[i]
 #         text = page.extract_text()
 #     with open ('catalog_2018-19.txt', 'a') as f: 
