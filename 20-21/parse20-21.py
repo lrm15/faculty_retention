@@ -11,35 +11,34 @@ from pathlib import Path
 #     with open ('catalog_2020-21.txt', 'a') as f: 
 #         f.write(text)
 
-lines = []
-with open ('catalog_2020-21.txt') as f: 
-    lines = f.readlines()
+# lines = []
+# with open ('catalog_2020-21.txt') as f: 
+#     lines = f.readlines()
 
-for line in lines: 
-    print(line)
-    for c in line: 
-        if (c == ";"):
-            c = ","
-    print(line)
-    break 
+# new_lines = []
+# for line in lines: 
+#     new = line.replace(";", ",")
+#     new_lines.append(new)
+
+# # print(new_lines[0])
 
 # cleaned = []
-# for line in lines: 
+# for line in new_lines: 
 #     # print('\n')
 #     line = line.split(',', maxsplit=2)
 #     line = [item.strip(' \n') for item in line]
 
 #     if (len(line) == 3): 
 #         if ("on leave" in line[2]): 
-#             if ("on leave Fall 2019" in line[2]): 
+#             if ("on leave Fall 2020" in line[2]): 
 #                 line.append('f') 
-#                 line[2] = line[2].replace(", on leave Fall 2019", '')
-#             if ("on leave Spring 2020" in line[2]): 
+#                 line[2] = line[2].replace(", on leave Fall 2020", '')
+#             if ("on leave Spring 2021" in line[2]): 
 #                 line.append('s')
-#                 line[2] = line[2].replace(";, on leave Spring 2020", '')
-#             if ("on leave 2019-2020" in line[2]): 
+#                 line[2] = line[2].replace(";, on leave Spring 2021", '')
+#             if ("on leave 2020-2021" in line[2]): 
 #                 line.append('y')
-#                 line[2] = line[2].replace(", on leave 2019-2020", '') 
+#                 line[2] = line[2].replace(", on leave 2020-2021", '') 
 #             # print(line)
 #         else: 
 #             line.append('n')
@@ -51,6 +50,8 @@ for line in lines:
 #         line.append("none")
 #         line.append('n')
 #     cleaned.append(line)
+
+# # print(cleaned)
 
 # names = []
 # titles = []
@@ -75,6 +76,6 @@ for line in lines:
 # df['leave'] = leave
 
 # # print(df)
-# filepath = Path('/Users/laurenmccarey/math308/19-20/faculty19-20.csv')  
+# filepath = Path('/Users/laurenmccarey/math308/20-21/faculty20-21.csv')  
 # filepath.parent.mkdir(parents=True, exist_ok=True)  
 # df.to_csv(filepath)  
