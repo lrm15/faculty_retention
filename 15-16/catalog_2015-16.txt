@@ -1,10 +1,3 @@
-FACULTY 2015-2016 
- 
-     *  On leave 2015-2016  
-   * *  On leave first semester   
-   * * * On leave second semester   
-      + Visitor first semester 
-      + + Visitor second semester  
 Cruz,Joseph L., Philosophy Department 
 *Curulla,Annelle M., Romance Languages Department
 Dankmeyer,Erica, Dance Department  
@@ -442,5 +435,4 @@ Williamson,Lauren L., Psychology Department
 Wobus,Bud, Geosciences Department 
 Wong,Scott, History Department 
 **Wood,James B., History Department 
-Wootters,William K., Physics Department 
- 
+Wootters,William K., Physics Department

@@ -3,55 +3,67 @@ import pandas as pd
 import csv
 from pathlib import Path 
 
-text = ''
-for i in range(393, 398): 
-    with pdfplumber.open('/Users/laurenmccarey/math308/15-16/catalog_2015-16.pdf') as temp: 
-        page = temp.pages[i]
-        text = page.extract_text()
-    with open ('catalog_2015-16.txt', 'a') as f: 
-        f.write(text)
+# text = ''
+# for i in range(393, 398): 
+#     with pdfplumber.open('/Users/laurenmccarey/math308/15-16/catalog_2015-16.pdf') as temp: 
+#         page = temp.pages[i]
+#         text = page.extract_text()
+#     with open ('catalog_2015-16.txt', 'a') as f: 
+#         f.write(text)
 
-# lines = []
-# with open ('catalog_2020-21.txt') as f: 
-#     lines = f.readlines()
+# *  On leave 2015-2016  
+# * *  On leave first semester   
+# * * * On leave second semester   
+# + Visitor first semester 
+# + + Visitor second semester 
 
-# new_lines = []
-# for line in lines: 
-#     new = line.replace(";", ",")
-#     new_lines.append(new)
+lines = []
+with open ('catalog_2015-16.txt') as f: 
+    lines = f.readlines()
 
-# # print(new_lines[0])
+cleaned = []
+for line in lines: 
 
-# cleaned = []
-# for line in new_lines: 
-#     # print('\n')
-#     line = line.split(',', maxsplit=2)
-#     line = [item.strip(' \n') for item in line]
+    # this phrase contains a comma - replace with abbreviation so we can split by comma reliably 
+    if ("Women, Gender & Sexuality Stdy" in line): 
+        line = line.replace("Women, Gender & Sexuality Stdy", "WGGS")
 
-#     if (len(line) == 3): 
-#         if ("on leave" in line[2]): 
-#             if ("on leave Fall 2020" in line[2]): 
-#                 line.append('f') 
-#                 line[2] = line[2].replace(", on leave Fall 2020", '')
-#             if ("on leave Spring 2021" in line[2]): 
-#                 line.append('s')
-#                 line[2] = line[2].replace(";, on leave Spring 2021", '')
-#             if ("on leave 2020-2021" in line[2]): 
-#                 line.append('y')
-#                 line[2] = line[2].replace(", on leave 2020-2021", '') 
-#             # print(line)
-#         else: 
-#             line.append('n')
-#     if (len(line) == 2): 
-#         line.append('none')
-#         line.append('n')
-#     if (len(line) == 1): 
-#         line.append("none")
-#         line.append("none")
-#         line.append('n')
-#     cleaned.append(line)
+    line = line.split(',')
+    line = [item.strip() for item in line]
+    
+    # make sure all fields are present in all entries 
+    if (len(line) < 3):
+        print(line) 
+        break
 
-# # print(cleaned)
+    # code s if the faculty member is on leave in the spring, f if on leave in fall, y if on leave all year, and n if not on leave 
+    if (line[0][0:3] == "***"): 
+        line.append('s') 
+        line[0] = line[0].replace("***", '')        
+    elif (line[0][0:2] == "**"): 
+        line.append('f')             
+        line[0] = line[0].replace("**", '')
+    elif (line[0][0:1] == "*"): 
+        line.append('y')
+        line[0] = line[0].replace("*", '')
+    else: 
+        line.append('n')
+
+    # code 1 if the faculty member is visiting and 0 otherwise 
+    if ("+" in line[0]): 
+        line.append(1)
+        line[0] = line[0].strip('+')
+    else: 
+        line.append(0)
+
+    # make sure all lines have 5 fields 
+    if (len(line) != 5): 
+        print(line)
+        break
+
+    cleaned.append(line)
+
+print(cleaned)
 
 # names = []
 # titles = []
