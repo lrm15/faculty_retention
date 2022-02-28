@@ -1,0 +1,439 @@
+,last,first,middle,dept,leave,visiting
+7,Aalberts,Daniel,P.,Physics Department,n,0
+9,Acha,Beverly,D.,Art Department,n,1
+11,Adams,Colin,C.,Mathematics and Statistics,n,0
+13,Adhami,Zaid,,Religion Department,n,0
+15,Adler Mandelbaum,Sara,E.,Economics Department,n,0
+17,Albrecht,Jeannie,R,Computer Science Department,n,0
+19,Ali,Laylah,,Art Department,n,0
+21,Aliev,Baktygul,,German and Russian Department,n,0
+25,Allen,Sarah,M.,Comparative Literature Program,n,1
+23,Allen,Kris,,Music Department,n,0
+27,Alvarez Millan,Cristina,,Religion Department,n,1
+31,Apotsos,Michelle,M.,Art Department,n,0
+29,Apotsos,Alex,A.,Geosciences Department,n,0
+33,App,Kevin,M.,Athletics Department,n,0
+35,Art,Henry,W.,Biology Department,s,0
+37,Ashraf,Quamrul,H.,Economics Department,n,0
+39,Bailey,Duane,A.,Computer Science Department,n,0
+41,Baker-White,Robert,E.,Theatre Department,n,0
+43,Bakija,Jon,M.,Economics Department,n,0
+45,Balguerie,Valentine,,Romance Languages Department,n,0
+47,Banta,Lois,M.,Biology Department,n,0
+49,Barber,Patrick,S.,Chemistry Department,n,0
+51,Barnes,Ashley,C.,English Department,n,1
+55,Barrale,Bill,,Athletics Department,n,0
+53,Barrale,Alix,H.,Athletics Department,n,0
+57,Barrett,Andrea,,English Department,n,0
+59,Barry,Melissa,J.,Philosophy Department,f,0
+61,Beaver,Donald,deB.,History of Science Department,n,0
+63,Beck,Kirsten,,Comparative Literature Program,n,0
+67,Bell,Robert,H.,English Department,n,0
+65,Bell,Ilona,D.,English Department,n,0
+69,Bell-Villada,Gene,H.,Romance Languages Department,s,0
+71,Benedict,Ben,,Art Department,n,0
+73,Bernhardsson,Magnus,T.,History Department,n,0
+75,Best,Stephen,,English Department,n,1
+77,Bingemann,Dieter,,Chemistry Department,n,0
+79,Blackwood,Julie,C.,Mathematics and Statistics,n,0
+81,Blair,Jimmy,A.,Chemistry Department,y,0
+83,Bloxam,Jennifer,,Music Department,n,0
+85,Bolton,Christopher,A.,Comparative Literature Program,n,0
+87,Bolton,Sarah,R.,Physics Department,n,0
+89,Bradburd,Ralph,M.,Economics Department,n,0
+91,Braggs,Rashida,K.,Africana Studies,n,0
+93,Brakke,David,,Religion Department,n,1
+95,Bravo,Janis,E.,Biology Department,n,1
+97,Brothers,Deborah,A.,Theatre Department,n,0
+99,Brown,Katherine,A.,Romance Languages Department,n,0
+101,Brown,Leslie,,History Department,n,0
+103,Buell,Denise,K.,Religion Department,n,0
+105,Burton,Sandra,L.,Dance Department,n,0
+107,Campbell,Corinna,S.,Music Department,n,0
+109,Caprio,Gerard,,Economics Department,n,0
+111,Carone,Benjamin,R.,Biology Department,n,0
+113,Carone,Dawn,M.,Biology Department,n,0
+115,Carter,Matt,E.,Biology Department,n,0
+117,Case,Alison,A.,English Department,n,0
+119,Cassiday,Julie,A.,German and Russian Department,n,0
+121,Cassuto,David,N.,Ctr-Environmental Studies,n,1
+123,Catalano,Cosmo,A.,Theatre Department,n,0
+125,Cepeda,Maria,Elena,Latina/o Studies Program,n,0
+127,Chandler,Chip,,Leadership Studies Program,n,0
+129,Chang,Cecilia,,Asian Studies Department,n,0
+131,Chang,Jinhwa,,Asian Studies Department,n,0
+133,Chao,Matthew,,Economics Department,n,0
+135,Chapman,Jessica,,History Department,s,0
+137,Chavoya,C.,Ondine,Art Department,n,0
+139,Childs,Lauren,M.,Mathematics and Statistics,n,1
+141,Christensen,Kerry,A.,Classics Department,n,0
+143,Chuks,Jennifer,E.,Athletics Department,n,0
+145,Clarke,Jay,A.,Graduate Program-Art History,n,1
+147,Cleghorn,Cassandra,J.,English Department,n,0
+149,Cohen,Phoebe,A.,Geosciences Department,y,0
+151,Cone,Jeremy,D.,Psychology Department,n,0
+153,Conforti,Michael,P.,Graduate Program-Art History,n,0
+155,Cook,Mea,S.,Geosciences Department,n,0
+157,Cowden,Margaux,E.,WGGS,n,0
+159,Cox,Ronadh,,Geosciences Department,n,0
+161,Crane,George,T.,Political Science Department,n,0
+163,Creighton,Marshall,K.,Athletics Department,n,0
+165,Crowe,Justin,,Political Science Department,n,0
+0,Cruz,Joseph,L.,Philosophy Department,n,0
+1,Curulla,Annelle,M.,Romance Languages Department,y,0
+2,Dankmeyer,Erica,,Dance Department,n,0
+3,Danyluk,Andrea,,Computer Science Department,y,0
+4,Das,Joanna,Dee,Dance Department,n,0
+5,De Gooyer,Alan,W.,English Department,n,0
+6,De Veaux,Richard,D.,Mathematics and Statistics,n,0
+8,Dean,Derek,,Biology Department,n,0
+10,Dekel,Edan,,Classics Department,y,0
+12,Demianski,Marek,,Astronomy Department,n,1
+14,Desrosiers,Nicole,S.,Graduate Program-Art History,n,0
+16,Dethier,David,P.,Geosciences Department,n,0
+18,Devadoss,Satyan,L.,Mathematics and Statistics,y,0
+20,Dew,Charles,B.,History Department,s,0
+22,Doret,Charlie,,Physics Department,n,0
+24,Dreyfus,Georges,B.,Religion Department,n,0
+26,Druxes,Helga,,German and Russian Department,n,0
+28,Dubow,Sara,,History Department,n,0
+30,Dudley,William,C.,Philosophy Department,n,0
+32,Dunn,Susan,,Humanities Department,n,0
+34,Edwards,David,B.,Anthropology and Sociology,n,0
+36,Edwards,Holly,,Art Department,n,0
+38,Edwards,Joan,,Biology Department,n,0
+40,Engel,Alex,C.,Biology Department,n,0
+42,Engel,Susan,L.,Psychology Department,n,0
+44,Ephraim,Laura,D.,Political Science Department,y,0
+46,Eppel,David,,Theatre Department,y,0
+48,Epping,Ed,,Art Department,n,0
+50,Eqeiq,Amal,,Comparative Literature Program,n,0
+52,Falk,Adam,F.,Physics Department,n,0
+54,Farwell,Pete,,Athletics Department,n,0
+56,Fein,Steven,,Psychology Department,f,0
+58,Feldman,Ronald,L.,Music Department,n,0
+60,Filipczak,Zirka,Z.,Art Department,n,0
+62,Fisher,Jessica,M.,English Department,n,0
+64,Fix,Stephen,,English Department,f,0
+66,Foias,Antonia,E.,Anthropology and Sociology,n,0
+68,Ford,VaNatta,S.,Africana Studies,n,0
+70,Forkey,Kevin,R.,Physics Department,n,0
+72,Fortunato,Michael,,Economics Department,n,1
+74,Fox,Soledad,,Romance Languages Department,s,0
+76,French,Jennifer,L.,Romance Languages Department,n,0
+78,Freund,Stephen,N.,Computer Science Department,n,0
+80,Friedman,Rachel,A.,Comparative Literature Program,n,0
+82,Garbarini,Alexandra,,History Department,n,0
+84,Gardner,Sarah,,Ctr-Environmental Studies,n,0
+86,Garrity,Thomas,A.,Mathematics and Statistics,n,0
+88,Gehring,Amy,,Chemistry Department,n,0
+90,Gentry,William,M.,Economics Department,y,0
+92,Gerrard,Steven,B.,Philosophy Department,n,0
+94,Gholz,Eugene,,Leadership Studies Program,n,0
+96,Gibson,Matthew,,Economics Department,n,0
+98,Gilbert,Lisa,A.,Geosciences Department,n,0
+100,Gillis,Meghan,K.,Athletics Department,n,0
+102,Glier,Michael,A.,Art Department,y,0
+104,Godlonton,Susan,,Economics Department,n,0
+106,Goh,Christopher,,Chemistry Department,n,0
+108,Goh,Sarah,L.,Chemistry Department,n,0
+110,Goldmakher,Leo,,Mathematics and Statistics,n,0
+114,Goldstein,Darra,J.,German and Russian Department,n,0
+112,Goldstein,Barry,,Humanities Department,n,1
+116,Gollin,Ed,,Music Department,y,0
+118,Gordinier,Glenn,S.,Williams-Mystic Program,n,0
+120,Gotlieb,Marc,,Graduate Program-Art History,n,0
+122,Granado,Alma,M.,Latina/o Studies Program,n,0
+124,Greenberg,Daniel,R.,Athletics Department,n,0
+126,Greenstein,Judd,,Music Department,n,1
+128,Guowei,Wang,,Music Department,n,0
+130,Gurcay-Morris,David,,Theatre Department,n,0
+132,Gutschow,Kim,,Religion Department,n,0
+134,Hall,Catherine,Robinson,Williams-Mystic Program,n,0
+136,Hane,Amie,A.,Psychology Department,n,0
+138,Hanson,Jim,A.,Economics Department,n,1
+140,Harrill,J.,Albert,Religion Department,n,1
+142,Harrington,Nicole,T.,Psychology Department,n,1
+144,Hatakeyama,Mamoru,,Asian Studies Department,n,0
+146,Haut,Kristen,M.,Psychology Department,n,0
+148,Haxthausen,Mark,,Art Department,n,0
+150,He,Man,,Asian Studies Department,n,0
+152,Heatherington,Laurie,,Psychology Department,s,0
+154,Hedreen,Guy,M.,Art Department,n,0
+156,Heeringa,Brent,A.,Computer Science Department,n,0
+158,Heggeseth,Brianna,C.,Mathematics and Statistics,s,0
+160,Heller,Peter,S.,Economics Department,n,1
+162,Herman,Kris,,Athletics Department,n,0
+164,Heuer,Christopher,,Graduate Program-Art History,n,1
+166,Hidalgo,Jacqueline,,Religion Department,n,0
+167,Hillman,Josh,D.,Athletics Department,n,0
+169,Hirsch,Alan,,Humanities Department,n,0
+171,Hirsch,Marjorie,W.,Music Department,n,0
+173,Hoey,Nate,D.,Athletics Department,n,0
+175,Holzapfel,Amy,S.,Theatre Department,f,0
+177,Honderich,Kiaran,,WGGS,n,0
+179,Honecker,Scott,D.,Athletics Department,n,0
+181,Hoppin,Meredith,C.,Classics Department,n,0
+183,Howe,Catherine,N.,Art Department,n,0
+185,Howe,Nicolas,C.,Ctr-Environmental Studies,n,0
+187,Huang,Vivian,L.,WGGS,n,0
+189,Huguet,Joan,C.,Music Department,n,0
+191,Israel,Jeffrey,I.,Religion Department,n,0
+193,Jackall,Robert,,Anthropology and Sociology,n,0
+195,Jackson,Frank,,Art Department,n,0
+197,Jacobson,Sarah,A.,Economics Department,n,0
+199,Jaffe,Andrew,W.,Music Department,n,0
+201,James,Joy,A.,Humanities Department,s,0
+203,Jang,Ju-Yu,Scarlett,Art Department,f,0
+209,Johnson,Liza,,Art Department,f,0
+205,Johnson,Cathy,M.,Political Science Department,n,0
+207,Johnson,Eugene,J.,Art Department,n,0
+211,Johnson,Stewart,D.,Mathematics and Statistics,y,0
+213,Johnson-DeBaufre,Melanie,,Religion Department,n,1
+215,Johnston,Walter,,English Department,n,0
+217,Jones,Kevin,M.,Physics Department,n,0
+219,Josephson,Jason,,Religion Department,y,0
+221,Just,Peter,,Anthropology and Sociology,n,0
+223,Kagaya,Shinko,,Asian Studies Department,n,0
+225,Kangas,William,R.,Athletics Department,n,0
+227,Kapadia,Aparna,,History Department,n,0
+229,Kaplan,Lawrence,J.,Chemistry Department,n,0
+231,Karabinos,Paul,M.,Geosciences Department,n,0
+233,Kassin,Saul,M.,Psychology Department,n,0
+235,Kelanic,Rosemary,A.,Political Science Department,n,0
+237,Kelsey,Christi,L.,Athletics Department,n,0
+239,Kelton,Aaron,E.,Athletics Department,n,0
+241,Kent,Kathryn,R.,English Department,n,0
+243,Kieffer,Bruce,,German and Russian Department,n,0
+245,Kieffer,Elizabeth,A.,German and Russian Department,n,0
+247,Kiel,Doug,,American Studies Program,n,0
+249,King,Richard,J.,Williams-Mystic Program,n,0
+251,Kirby,Kris,N.,Psychology Department,s,0
+253,Kittleson,Roger,A.,History Department,n,0
+255,Kleiner,John,E.,English Department,n,0
+257,Klingenberg,Bernhard,,Mathematics and Statistics,n,0
+259,Knibbs,Eric,,History Department,y,0
+261,Kohler,Pia,M.,Ctr-Environmental Studies,n,0
+263,Kohut,Thomas,A.,History Department,f,0
+265,Kolbert,Elizabeth,,Ctr-Environmental Studies,n,0
+267,Kone,Christophe,A.,German and Russian Department,n,0
+269,Kornell,Nate,,Psychology Department,n,0
+271,Kowalski,Julia,L.,Anthropology and Sociology,n,1
+273,Kubler,Cornelius,C.,Asian Studies Department,y,0
+275,Kurkowicz,Joanna,,Music Department,n,0
+277,Kuster,Steven,J.,Athletics Department,n,0
+279,Kuttner,Kenneth,N.,Economics Department,n,0
+281,Kwitter,Karen,B.,Astronomy Department,n,0
+285,LaLumia,Sara,,Economics Department,n,0
+283,Laleian,Aida,,Art Department,s,0
+287,Lawrence,Edwin,I.,Music Department,n,0
+289,Lebestky,Tim,J.,Biology Department,n,0
+293,Lee,Seulghee,,English Department,n,0
+291,Lee,Joel,,Anthropology and Sociology,n,1
+295,Leight,Jessica,E.,Economics Department,n,0
+297,Lemieux,Jason,,Athletics Department,n,0
+299,Lenhart,William,J.,Computer Science Department,n,0
+301,Levin,Steven,P.,Art Department,s,0
+303,Levine,Kelsey,,Athletics Department,n,0
+305,Levy,Zafi,,Athletics Department,n,0
+307,Lewis,Michael,J.,Art Department,n,0
+309,Lewis,Scott,A.,Athletics Department,n,0
+311,Li,Nini,,Asian Studies Department,n,0
+313,Limon,John,K.,English Department,n,0
+315,Lindo,Haydee,M.,Mathematics and Statistics,n,0
+317,Livingstone,Rob,,Athletics Department,n,0
+319,Loepp,Susan,R.,Mathematics and Statistics,y,0
+321,Long,Gretchen,,History Department,n,0
+323,Love,David,A.,Economics Department,f,0
+325,Lovett Jr.,Charles,M.,Chemistry Department,n,0
+327,Low,Peter,D.,Art Department,n,0
+329,Lynch,Daniel,V.,Biology Department,n,0
+331,MacDonald,Michael,D.,Political Science Department,n,0
+333,MacIntire,Jenna,L.,Biology Department,n,0
+335,Mahon Jr.,James,E.,Political Science Department,s,0
+337,Majumder,Protik,K.,Physics Department,n,0
+339,Maloney,Kate,,Athletics Department,n,0
+341,Manigault-Bryant,James,A.,Africana Studies,n,0
+168,Manigault-Bryant,Rhon,S.,Africana Studies,n,0
+170,Manning,Patricia,M.,Athletics Department,n,0
+172,Marcisz,Christopher,,Anthropology and Sociology,n,1
+174,Marcus,George,E.,Political Science Department,n,0
+176,Maroja,Luana,S.,Biology Department,f,0
+178,Marsit,Matthew,M.,Music Department,n,0
+180,Martin,Brian,,Romance Languages Department,y,0
+182,Martinez-Raguso,Michael,,Romance Languages Department,n,0
+184,Marvin,Martha,J.,Neuroscience Program,n,0
+186,Mason,Christine,L.,Athletics Department,n,0
+188,McAllister,James,,Political Science Department,n,0
+190,McCormack,George,M.,Athletics Department,n,0
+192,McGowan,Elizabeth,P.,Art Department,n,0
+194,McGuire,Morgan,,Computer Science Department,n,0
+196,McPartland,Keith,E.,Philosophy Department,n,0
+198,McWeeny,Gage,C.,English Department,n,0
+200,Melendy,Lisa,M.,Athletics Department,n,0
+202,Mellow,Nicole,E.,Political Science Department,n,0
+204,Merrill,Karen,R.,History Department,n,0
+206,Mientkiewicz,Jason,,Art Department,n,0
+208,Miles,Carolyn,D.,Athletics Department,n,0
+210,Miller,Steven,J.,Mathematics and Statistics,s,0
+212,Mitchell,Gregory,C.,WGGS,y,0
+214,Mladenovic,Bojana,,Philosophy Department,n,0
+218,Moher,Mariko,,Psychology Department,n,0
+216,Moher,Jeff,,Psychology Department,n,0
+220,Montiel,Peter,J.,Economics Department,n,0
+222,Morales,Manuel,A.,Biology Department,s,0
+224,Morgan,Frank,,Mathematics and Statistics,n,0
+226,Munemo,Ngonidzashe,,Political Science Department,n,0
+228,Muparutsa,Tendai,,Music Department,n,0
+230,Murphy,Peter,T.,English Department,y,0
+232,Murtagh,Thomas,P.,Computer Science Department,n,0
+234,Mutongi,Kenda,B.,History Department,n,0
+236,Nafziger,Steven,E.,Economics Department,n,0
+238,Nduwumwami,Asvelt,J.,Chemistry Department,n,0
+240,Newman,Gail,M.,German and Russian Department,n,0
+242,Nicastro,Anthony,J.,Romance Languages Department,n,0
+244,Nishizaki,Michael,T.,Williams-Mystic Program,n,0
+246,Njoya,Nimu,,Political Science Department,n,0
+248,Nolan Jr.,James,L.,Anthropology and Sociology,f,0
+250,Nugent,Christopher,M.,Asian Studies Department,n,0
+252,Ockman,Carol,,Art Department,f,0
+254,Oehlrich,Kristen,,Graduate Program-Art History,n,0
+256,Olney,Will,,Economics Department,n,0
+258,Olson Blair,Brooke,,Chemistry Department,n,0
+260,Pacelli,Allison,,Mathematics and Statistics,n,0
+262,Palsson,Eyvindur,A.,Mathematics and Statistics,n,0
+266,Park,Paul,C.,English Department,n,0
+264,Park,Lee,Y.,Chemistry Department,n,0
+268,Parker,Janine,,Dance Department,n,0
+270,Parra,Jamie,L.,American Studies Program,n,0
+272,Pasachoff,Jay,M.,Astronomy Department,s,0
+274,Paul,Darel,E.,Political Science Department,n,0
+276,Peacock-Lopez,Enrique,,Chemistry Department,n,0
+278,Pedersen,Lori,A.,Mathematics and Statistics,n,1
+280,Pedroni,Julie,A.,Philosophy Department,n,0
+282,Pedroni,Peter,L.,Economics Department,n,0
+286,Perez,Elena,,Art Department,n,0
+284,Perez Velazquez,Ileana,,Music Department,n,0
+288,Pethica,James,L.,English Department,s,0
+290,Phelan,Greg,,Economics Department,n,0
+292,Pieprzak,Katarzyna,M.,Romance Languages Department,n,0
+294,Pinard,Michelyne,J.,Athletics Department,n,0
+296,Podmore,Amy,D.,Art Department,n,0
+298,Prindle,Daniel,E.,Music Department,n,0
+300,Pye,Christopher,L.,English Department,s,0
+302,Raab,Lawrence,E.,English Department,n,0
+304,Rai,Ashok,S.,Economics Department,f,0
+306,Rawls,Will,,Dance Department,n,1
+308,Raza Kolb,Anjuli,F.,English Department,n,0
+310,Regan,Colin,D.,Athletics Department,n,0
+312,Reinhardt,Anne,,History Department,n,0
+314,Reinhardt,Mark,T.,Political Science Department,n,0
+316,Rhie,Bernard,J.,English Department,y,0
+318,Richardson,David,P.,Chemistry Department,f,0
+320,Ringer-Hilfinger,Kathryn,,Romance Languages Department,n,0
+324,Roberts,Neil,,Africana Studies,n,0
+322,Roberts,Mary,,Graduate Program-Art History,n,0
+326,Robin,Natalie,,Theatre Department,n,1
+328,Rodriguez,Mari,,Art Department,n,0
+330,Romero,Adam,M.,Ctr-Environmental Studies,n,0
+332,Rosenheim,Shawn,J.,English Department,n,0
+334,Rouhi,Leyla,,Romance Languages Department,n,0
+336,Royston,Reginold,A.,Africana Studies,n,0
+338,Rua,Merida,,Latina/o Studies Program,f,0
+340,Rubin,Benjamin,B.,Classics Department,n,0
+342,Rulikova,Marketa,,Anthropology and Sociology,n,1
+343,Saint-Just,Sophie,F.,Romance Languages Department,n,0
+345,Samson,Michael,,Economics Department,n,0
+347,Sandstrom,Marlene,J.,Psychology Department,n,0
+349,Sandstrom,Noah,J.,Psychology Department,n,0
+351,Sangare,Omar,A.,Theatre Department,n,0
+353,Sarria,Alejandro,,Mathematics and Statistics,n,0
+355,Savage,Robert,M.,Biology Department,n,0
+357,Savitsky,Kenneth,K.,Psychology Department,n,0
+358,Sawicki,Jana,,Philosophy Department,n,0
+359,Schmidt,Lucie,,Economics Department,y,0
+360,Sen,Arunava,,Economics Department,n,1
+361,Shaddock,Justin,B.,Philosophy Department,n,0
+362,Shanks,Cheryl,,Political Science Department,y,0
+364,Shepard,Karen,L.,English Department,n,0
+363,Shepard,James,R.,English Department,s,0
+365,Sheppard,Stephen,C.,Economics Department,s,0
+366,Sheppard,W.,Anthony,Music Department,f,0
+367,Shevchenko,Olga,,Anthropology and Sociology,n,0
+368,Shin,Heeryoon,,Art Department,n,0
+369,Shoffstall,Grant,,Anthropology and Sociology,n,0
+370,Shore-Sheppard,Lara,D.,Economics Department,s,0
+371,Silander,Charlotte,,Global Studies,n,1
+372,Silva,Cesar,E.,Mathematics and Statistics,n,0
+373,Simko,Christina,,Anthropology and Sociology,n,0
+374,Simmons,Aishah,Shahidah,Africana Studies,n,1
+375,Simpson,Marc,A.,Graduate Program-Art History,n,1
+376,Singh,Kavita,,Oakley Ctr for Human & Soc Sci,n,0
+377,Singham,Shanti,M.,History Department,n,0
+378,Siniawer,Eiko,Maruko,History Department,y,0
+379,Skinner,Anne,R.,Chemistry Department,n,1
+380,Smalarz,Laura,,Psychology Department,n,0
+381,Smesko,Kyle,W.,Athletics Department,n,0
+382,Smith,David,C.,Biology Department,n,0
+383,Smith,David,L.,English Department,s,0
+384,Smith,Thomas,E.,Chemistry Department,n,0
+385,Sokolsky,Anita,R.,English Department,n,0
+386,Solomon,Paul,R.,Psychology Department,n,0
+387,Solum,Stefanie,,Art Department,n,0
+388,Souza,Steven,P.,Astronomy Department,n,0
+389,Spero,Patrick,K.,History Department,y,0
+390,Spindler,Fredrika,I.,Philosophy Department,n,1
+391,Steele,Kameron,H.,Theatre Department,n,1
+392,Stevenson,Doris,J.,Music Department,n,0
+393,Stoiciu,Mihai,,Mathematics and Statistics,n,0
+394,Strait,Jefferson,,Physics Department,s,0
+395,Strauch,Frederick,W.,Physics Department,y,0
+396,Strauch,Laura,R.,Chemistry Department,n,0
+397,Stroud,Catherine,B.,Psychology Department,s,0
+398,Sullivan,Erin,,Athletics Department,n,0
+399,Swain,Alison,M.,Athletics Department,n,0
+400,Swamy,Anand,V.,Economics Department,n,0
+401,Swann,Karen,E.,English Department,n,0
+402,Swift,Jane,M.,Leadership Studies Program,n,1
+403,Swoap,Steven,J.,Biology Department,y,0
+404,Takenaga,Barbara,E.,Art Department,n,0
+405,Taurog,Rebecca,E.,Chemistry Department,n,0
+406,Thoman Jr.,John,W.,Chemistry Department,n,0
+407,Thorne,Christian,,English Department,f,0
+408,Tifft,Stephen,J.,English Department,n,0
+409,Timberlake,Anicia,C.,Music Department,n,0
+410,Ting,Claire,S.,Biology Department,n,0
+411,Traven,David,J.,Political Science Department,n,0
+412,Truman,Edwin,M.,Economics Department,n,1
+413,Tucker-Smith,David,R.,Physics Department,n,0
+414,Turner,Damian,,Biology Department,n,0
+417,Vandiver,Joshua,,Political Science Department,n,0
+418,Vargas,Armando,,Comparative Literature Program,n,0
+419,Vasiliauskas,Emily,,English Department,n,0
+420,Vena,Natalie,B.,Anthropology and Sociology,n,0
+421,Wadsworth,Zachary,,Music Department,n,0
+422,Wagner,William,G.,History Department,n,0
+423,Wang,Dorothy,J.,American Studies Program,n,0
+424,Waters,Chris,,History Department,n,0
+425,Watson,Tara,E.,Economics Department,y,0
+427,Wells,Peter,S.,Athletics Department,n,0
+426,Wells,Brad,,Music Department,n,0
+428,Whalen,Carmen,T.,History Department,n,0
+429,White,Alan,,Philosophy Department,s,0
+430,Wilcox,Amanda,R.,Classics Department,n,0
+432,Williams,Mason,B.,Leadership Studies Program,n,0
+431,Williams,Heather,,Biology Department,n,0
+433,Williamson,Lauren,L.,Psychology Department,n,0
+434,Wobus,Bud,,Geosciences Department,n,0
+435,Wong,Scott,,History Department,n,0
+436,Wood,James,B.,History Department,f,0
+437,Wootters,William,K.,Physics Department,n,0
+344,Yacoob,Saadia,,Religion Department,n,0
+346,Yamamoto,Kasumi,,Asian Studies Department,s,0
+348,Yesnowitz,Joshua,C.,Political Science Department,n,0
+350,Yu,Li,,Asian Studies Department,n,0
+352,Zaki,Safa,R.,Psychology Department,y,0
+354,Zimmerberg,Betty,,Psychology Department,n,0
+356,Zimmerman,David,J.,Economics Department,s,0
+416,van Ginhoven,Kristen,,Theatre Department,n,1
+415,van de Stadt,Janneke,,German and Russian Department,n,0
