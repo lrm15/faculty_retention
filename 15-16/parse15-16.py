@@ -73,7 +73,7 @@ from pathlib import Path
 #     # else: 
 #     #     line.append("")
 
-#     # # make sure all lines have 5 fields 
+#     # # make sure all lines have 6 fields 
 #     # if (len(line) != 6): 
 #     #     print("line length not equal to 6")
 #     #     print(line)
