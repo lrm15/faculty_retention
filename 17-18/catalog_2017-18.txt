@@ -1,717 +1,429 @@
- 
-FACULTY EMERITI  
-Marsha I. Altschuler  Professor of Biology, Emerita  maltschu@williams.edu 
-Donald deB. Beaver  Professor of History of Science, Emeritus  dbeaver@williams.edu 
-Ilona D. Bell  Samuel Fessenden Clarke Professor of English, Emerita  ibell@williams.edu 
-Roger E. Bolton  William Brough Professor of Economics, Emeritus  rbolton@williams.edu 
-James R. Briggs  Assistant Professor of Physical Education, Emeritus  jbriggs@williams.edu 
-Fielding Brown  Charles L. Macmillan Professor of Physics, Emeritus  fb3@williams.edu 
-Michael F. Brown  James N. Lambert '39 Professor of Anthropology and Latin American Studies, Emeritus  mbrown@williams.edu 
-Kim B. Bruce  Frederick Latimer Wells Professor of Computer Science, Emeritus  kbb1@williams.edu 
-Jean-Bernard Bucky  William Dwight Whitney Professor of Arts and Theatre, Emeritus  bbucky@williams.edu 
-Lynda K. Bundtzen  Herbert H. Lehman Professor of English, Emerita  lbundtze@williams.edu 
-James T. Carlton  Professor of Marine Sciences, Emeritus  jcarlton@williams.edu 
-Phebe Cramer  Professor of Psychology, Emerita  pcramer@williams.edu 
-Stuart J. B. Crampton  Barclay Jermain Professor of Natural Philosophy, Emeritus  scrampto@williams.edu 
-Andrew B. Crider  Mary A. & William Wirt Warren Professor of Psychology, Emeritus  acrider@williams.edu 
-Robert F. Dalzell  Fred Rudolph Professor of American Culture, Emeritus  rdalzell@williams.edu 
-William R. Darrow  Cluett Professor of Religion, Emeritus  wdarrow@williams.edu 
-Samuel Y. Edgerton  Amos Lawrence Professor of Art, Emeritus  sedgerto@williams.edu 
-Edward A. Epping  Alexander Falck Class of 1899 Professor of Art, Emeritus  eepping@williams.edu 
-Richard J. Farley  Assistant Professor of Physical Education, Emeritus  rfarley@williams.edu 
-Robert L. Fisher  Assistant Professor of Physical Education, Emeritus  rfisher@williams.edu 
-William T. Fox  Edward Brust Professor of Geology and Mineralogy, Emeritus  wfox@williams.edu 
-Peter K. Frost  Frederich L. Schuman Professor of International Relations, Emeritus  pkf1@williams.edu 
-Charles J. Fuqua  Garfield Professor of Ancient Languages, Emeritus  cfuqua@williams.edu 
-Antonio Gimenez  Professor of Romance Languages, Emeritus  ag14@williams.edu 
-George R. Goethals  Dennis A. Meenan '54 Professor of Leadership Studies, Emeritus  agoethal@williams.edu 
-Darra J. Goldstein  Willcox B. and Harriet M. Adsit Professor of Russian, Emerita  dgoldste@williams.edu 
-William C. Grant  Samuel Fessenden Clarke Professor of Biology, Emeritus  wcg2@williams.edu 
-Suzanne L. Graver  John Hawley Roberts Professor of English, Emerita  sgraver@williams.edu 
-Fred Greene  A. Barton Hepburn Professor of Government, Emeritus  fg2@williams.edu 
-Edward S. Grees  Assistant Professor of Physical Education, Emeritus  egrees@williams.edu 
-Eva U. Grudin  Senior Lecturer in Art, Emerita  egrudin@williams.edu 
-Charles W. Haxthausen  Robert Sterling Clark Professor of Art History, Emeritus  chaxthau@williams.edu 
-Meredith C. Hoppin  Frank M. Gagliardi Professor of Classics, Emerita  mhoppin@williams.edu 
-John M. Hyde  Brown Professor of History, Emeritus  jhyde@williams.edu 
-Andrew W. Jaffe  Lyell B. Clay Artist in Residence in Jazz and Senior Lecturer in Music, Emeritus  ajaffe@williams.edu 
-Eugene J. Johnson  Amos Lawrence Professor of Art, Emeritus  ejohnson@williams.edu 
-Markes E. Johnson  Charles L. Macmillan Professor of Natural Science, Emeritus  mjohnson@williams.edu 
-Saul M. Kassin  Massachusetts Professor of Psychology, Emeritus  skassin@williams.edu 
-Robert D. Kavanaugh  Hales Professor of Psychology, Emeritus  rkavanau@williams.edu 
-David S. Kechley  Professor of Music, Emeritus  dkechley@williams.edu 
-Bruce Kieffer  Professor of German, Emeritus  bkieffer@williams.edu 
-Sherron E. Knopp  John Hawley Roberts Professor of English, Emeritus  sknopp@williams.edu 
-Benjamin W. Labaree  Professor of History and Environmental Studies, Emeritus  benlabsr@williams.edu 
-Aida Laleian  Professor of Art, Emerita  alaleian@williams.edu 
-Renzie W. Lamb  Assistant Professor of Physical Education, Emeritus  rlamb@williams.edu 
-Kai N. Lee  Rosenburg Professor of Environmental Studies, Emeritus  klee@williams.edu 
-Steven P. Levin  Professor of Art, Emeritus  slevin@williams.edu 
-H. Ganse Little  Cluett Professor of Religion, Emeritus  hlittle@williams.edu 
-Christine L. Mason  Assistant Professor of Physical Education, Emerita  cmason@williams.edu 
-William E. McCormick  Assistant Professor of Physical Education, Emeritus  wem3@williams.edu 
-Thomas E. McGill  Hales Professor of Psychology, Emeritus  tem1@williams.edu 
-Douglas B. Moore  Mary A. and William Wirt Warren Professor of Music, Emeritus  dmoore@williams.edu 
-Frank Morgan  Chair and Webster Atwell Class of 1921 Professor of Math, Emeritus  fmorgan@williams.edu 
-Glyn P. Norton  Willcox B. and Harriet M. Adsit Professor of International Studies, Emeritus  gnorton@williams.edu 
-Daniel D. O'Connor  Mark Hopkins Professor of Intellectual and Moral Philosophy, Emeritus  doconnor@williams.edu 
-Robert R. Peck  Director of Athletics, Emeritus  rrp1@williams.edu 
-Norman R. Petersen  Washington Gladden 1859 Professor of Religion, Emeritus  nrp2@williams.edu 
-C. Ballard Pierce  Professor of Physics, Emeritus  cbp1@williams.edu 
-Kenneth C. Roberts  A. Barton Hepburn Professor of Music, Emeritus  kroberts@williams.edu 
-T. Michael Russo  Assistant Professor of Physical Education, Emeritus  trusso@williams.edu 
-Carl R. Samuelson  Assistant Professor of Physical Education, Emeritus  crs3@williams.edu 
-John B. Sheahan  William Brough Professor of Economics, Emeritus  jsheahan@williams.edu 
-Harry C. Sheehy  Director of Athletics and Assistant Professor of Physical Education, Emeritus  hsheehy@williams.edu 
-Anne R. Skinner  Senior Lecturer in Chemistry, Emerita  askinner@williams.edu 
-Guilford L. Spencer  Frederic Latimer Wells Professor of Mathematics, Emeritus  gls5@williams.edu 
-Richard H. Stamelman  Professor of Comparative Literature, Emeritus  rstamelm@williams.edu 
-Jefferson Strait  Professor of Physics, Emeritus  jstrait@williams.edu 
-Karen E. Swann  Morris Professor of Rhetoric, Emerita  kswann@williams.edu 
-Kurt P. Tauber  Class of 1924 Professor of Political Science, Emeritus  ktauber@williams.edu 
-Mark C. Taylor  Cluett Professor of Humanities, Emeritus  mtaylor@williams.edu 
-William G. Wagner  Brown Professor of History, Emeritus  wwagner@williams.edu 
-Alex W. Willingham  Professor of Political Science, Emeritus  awilling@williams.edu 
-James B. Wood  Charles R. Keller Professor of History, Emeritus  jwood@williams.edu 
-William K. Wootters  Barclay Jermain Professor of Natural Philosophy, Emeritus  wwootter@williams.edu 
-Reiko Yamada  Professor of Japanese, Emerita  ryamada@williams.edu 
-Steven J. Zottoli  Howard B. Schow '50 Professor of Biology, Emeritus  szottoli@williams.edu 
-54 5  
-FACULTY 2017-2018  University of CA, Davis  
-Leave information is noted.  James Abellera Blair, Assistant Professor of Chemistry: 2002, B.A., Carleton 
-  College, 2008, Ph.D., University of CA, Berkeley 
-Daniel P. Aalberts, Professor of Physics: 1989, B.S., MA Institute of  Mary Jennifer Bloxam, Herbert H Lehman Professor of Music: 1979, B.M., 
-Technology, 1994, Ph.D., MA Institute of Technology  University of IL, 1982, M.A., Yale University, 1987, Ph.D., Yale University 
-Tomas F. Adalsteinsson, Assistant Professor of Physical Education and Head  Thomas P. Blumenauer, Lecturer in Physical Education, Assistant Football 
-Women's Golf Coach   Coach: 2007, B.S., Ithaca College, 2012, M.Ed., Saint Lawrence University 
-Colin C. Adams, Thomas T. Read Professor of Mathematics: 1978, B.S., MA  Christopher A. Bolton, Professor of Comparative and Japanese Literature: 
-Institute of Technology, 1983, Ph.D., University of WI, Madison  1989, B.A., Harvard University, 1998, Ph.D., Stanford University 
-Zaid R. Adhami, Assistant Professor of Religion: 2010, B.A., Stanford  William D. Bowers, Visiting Lecturer in Theatre, Spring 2018 
-University, 2010, M.A., Stanford University  Ralph M. Bradburd, Chair of CES and David A. Wells Professor of Political 
-Jeannie R Albrecht, Chair and Professor of Computer Science: 2001, B.S.,  Economy: 1970, B.A., Columbia College, 1975, M.A., Columbia University, 
-Gettysburg College, 2003, M.S., Duke University, 2007, Ph.D., University  1976, Ph.D., Columbia University 
-of CA, San Diego  Rashida K. Braggs, Associate Professor of Africana Studies and Faculty 
-Laylah Ali, Professor of Art: 1991, B.A., Williams College, 1994, M.F.A.,  Affiliate in Comparative Literature and American Studies: 1998, B.A., Yale 
-Washington University  University, 2000, M.S., Boston College, 2006, Ph.D., Northwestern 
-Baktygul A. Aliev, Assistant Professor of Russian: 2000, B.A., American  University 
-University of Central Asia, 2007, M.A., McGill University, 2014, Ph.D.,  Janis E. Bravo, Instructor in Biology: 1980, B.S., Cornell University, 1990, 
-McGill University  Ph.D., Rutgers University 
-Kristopher D. Allen, Lyell B. Clay Artist in Residence in Jazz  Victoria J. Brooks, Visiting Lecturer in the Graduate Program in Art History: 
-Activities/Lecturer in Music, Director of the Jazz Ensemble: 1998, B.M.,  2001, B.A., University of Bristol, 2006, M.A., Royal College of Art 
-University of Hartford, 2004, M.M., State University of NY, Purchase  Deborah A. Brothers, Costume Director and Lecturer in Theatre: 1976, 
-Sarah M. Allen, Associate Professor of Comparative Literature: 1992, A.B.,  B.F.A., University of New Orleans, 1979, M.F.A., CA Inst of the Arts 
-Harvard University, 1996, M.A., University of MI, 2003, Ph.D., Harvard  Nicole G. Brown, Assistant Professor of Classics: 2001, B.A., Mount Holyoke 
-University  College, 2003, M.A., Princeton University, 2017, Ph.D., Princeton 
-Alex A. Apotsos, Lecturer in Geosciences: 1999, B.S., Duke University, 2007,  University 
-Ph.D., MA Institute of Technology, on leave 2017-2018  Denise K. Buell, Cluett Professor of Religion: 1987, B.A., Princeton 
-Michelle M. Apotsos, Assistant Professor of Art: 1999, B.A., University of NC,  University, 1990, M.Div., Harvard University, 1995, Ph.D., Harvard 
-Chapel Hill, 2006, M.A., Tufts University, 2013, Ph.D., Stanford University,  University, on leave 2017-2018 
-on leave 2017-2018  Sandra L. Burton, Lipp Family Director of Dance and Senior Lecturer in 
-Kevin M. App, Assistant Professor of Physical Education and Head Men's  Dance: 1983, B.A., City College of NY, 1987, M.F.A., Bennington College 
-Basketball Coach: 2007, B.S., Cornell University  Andrew T. Bydlon, Visiting Assistant Professor of Mathematics: 2012, B.S., 
-Zakary D. Arctander, Visiting Assistant Professor of Art: 2010, B.F.A.,  PA State University, 2017, Ph.D., University of UT 
-University of IL, 2015, M.F.A., Yale University  Corinna S. Campbell, Assistant Professor of Music: 2003, B.M., Northwestern 
-Henry W. Art, Rosenburg Professor of Environmental Studies and Biology:  University, 2005, M.M., Bowling Green State University, 2012, Ph.D., 
-1966, B.A., Dartmouth College, 1969, M.Phil., Yale University, 1971, Ph.D.,  Harvard University, on leave 2017-2018 
-Yale University, on leave Fall 2017  Gerard Caprio Jr., Chair of the Executive Committee for the Center of 
-Quamrul H. Ashraf, Associate Professor of Economics: 1999, B.A., Trinity  Development Economics and William Brough Professor of Economics: 
-College, 2004, M.A., Brown University, 2009, Ph.D., Brown University  1972, B.A., Williams College, 1974, M.A., University of MI, 1976, Ph.D., 
-Duane A. Bailey, Professor of Computer Science: 1982, B.A., Amherst  University of MI 
-College, 1984, M.S., University of MA, Amherst, 1988, Ph.D., University of  Donald R. Carlson, Class of 1946 Visiting Distinguished Professor of 
-MA, Amherst  Environmental Studies: 1983, B.A., Williams College, 1986, J.D., Harvard 
-Robert E. Baker-White, Professor of Theatre: 1980, B.A., Williams College,  University, Fall 2017 
-1983, M.F.A., University of WA, 1990, Ph.D., Stanford University, on leave  Anthony J. Carrasquillo, Assistant Professor of Chemistry: 2007, B.A., 
-Fall 2017  Bowdoin College, 2015, Ph.D., MA Institute of Technology 
-Jon M. Bakija, Professor of Economics: 1990, B.A., Wesleyan University,  Matthew E. Carter, Assistant Professor of Biology: 2000, B.A., Whitman 
-1995, M.A., University of MI, 2000, Ph.D., University of MI  College, 2010, Ph.D., Stanford University 
-Lois M. Banta, Professor of Biology: 1983, B.A., Johns Hopkins University,  Alison A. Case, Professor of English: 1984, B.A., Oberlin College, 1988, M.A., 
-1990, Ph.D., CA Institute of Technology, on leave Spring 2018  Cornell University, 1991, Ph.D., Cornell University, on leave Fall 2017 
-Daniel W. Barowy, Assistant Professor of Computer Science: 2010, B.S.,  Julie A. Cassiday, Willcox B. and Harriet M. Adsit Professor of Russian: 1986, 
-Boston University, 2013, M.S., Boston University, 2017, Ph.D., University  B.A., Grinnell College, 1990, M.A., Stanford University, 1995, Ph.D., 
-of MA, Amherst  Stanford University, on leave 2017-2018 
-Alix H. Barrale, Assistant Professor of Physical Education and Head Field  Maria Elena Cepeda, Professor of Latina/o Studies: 1995, B.A., Kenyon 
-Hockey Coach: 1993, B.A., Williams College, 1996, M.S., Smith College  College, 1997, M.A., University of MI, 2003, Ph.D., University of MI, on 
-William Barrale, Assistant Professor of Physical Education, Head Baseball  leave Spring 2018 
-Coach: 1994, B.S., Northeastern University, 2004, M.A., Rowan University  G. Donald Chandler, George R. Goethals Distinguished Visiting Professor of 
-Andrea Barrett, Senior Lecturer in English: 1974, B.S., Union College  Leadership Studies: 1972, B.A., Williams College, 1978, M.B.A., Harvard 
-Ethan M. Barron, Assistant Professor of Physical Education, Head Men's  University 
-Track & Field Coach: 2001, B.A., Tufts University, 2005, M.Ed., Middlebury  Cecilia Chang, Professor of Chinese: 1981, B.A., Fu-Jen University, 1987, 
-College  M.A., University of CA, LA, 2004, Ph.D., University of MA, Amherst 
-Melissa J. Barry, Chair and Professor of Philosophy: 1988, B.A., Wheaton  Jinhwa Chang, Visiting Lecturer in Japanese: 1994, B.A., Kyungpook 
-College, 1998, Ph.D., University of Notre Dame  National University 
-Ronald D. Bassar, Assistant Professor of Biology: 2001, B.A., Prescott  Matthew C. Chao, Assistant Professor of Economics: 2006, B.A., Dartmouth 
-College, 2011, Ph.D., University of CA, Riverside  College, 2015, Ph.D., CA Institute of Technology 
-Kirsten S. Beck, Visiting Assistant Professor of Arabic Studies: 2006, B.A.,  Jessica M. Chapman, Associate Professor of History: 1999, B.A., Valparaiso 
-Barnard College, 2007, M.A., Columbia University, 2016, Ph.D., University  University, 2001, M.A., University of CA, Santa Barbara, 2006, Ph.D., 
-of TX, Austin  University of CA, Santa Barbara, on leave 2017-2018 
-Leslie E. Beldo Jr., Mellon Postdoctoral Fellow in Environmental Studies:  C. Ondine L. Chavoya, Professor of Art: 1992, B.A., University of CA, Santa 
-2003, B.S., Central MI University, 2014, Ph.D., University of Chicago  Cruz, 1996, M.A., University of Rochester, 2002, Ph.D., University of 
-Esther S. Bell, Lecturer in the Graduate Program in Art History, Spring 2018  Rochester 
-Robert H. Bell, Frederick Latimer Wells Professor of English: 1967, B.A.,  Pei-Wen Chen, Assistant Professor of Biology: 2001, B.S., National Yang-
-Dartmouth College, 1968, M.A., Harvard University, 1972, Ph.D., Harvard  Ming University, 2003, M.S., Albert Einstein College of Medicine, 2008, 
-University  Ph.D., Albert Einstein College of Medicine 
-Gene H. Bell-Villada, Professor of Romance Languages: 1963, B.A.,  Shayok Chowdhury, Arthur Levitt, Jr. '52 Artist-in-Residence: 2007, B.A., 
-University of AZ, 1967, M.A., University of CA, Berkeley, 1974, Ph.D.,  Stanford University, 2016, M.F.A., Columbia University 
-Harvard University  Kerry A. Christensen, Garfield Professor of Ancient Languages: 1981, B.A., 
-Henry H. Benedict III, Lecturer in Art: 1973, B.A., Yale University, 1976,  Swarthmore College, 1983, M.A., Princeton University, 1993, Ph.D., 
-M.Arch., Yale University  Princeton University 
-Mary K. Bercaw Edwards, Visiting Associate Professor at Williams-Mystic:  Jennifer E. Chuks, Assistant Professor of Physical Education and Assistant 
-1979, B.A., Northeastern University, 1981, M.A., Northeastern University,  Athletic Director/Student Athlete Services: 2006, B.A., University of 
-1984, Ph.D., Northeastern University  Hartford, 2009, M.B.A., University of New Haven 
-Magnus T. Bernhardsson, Brown Professor of History and Faculty Affiliate in  Allana M. Clarke, Visiting Assistant Professor of Art  
-Arabic Studies, Leadership Studies and Religion: 1990, B.A., University of  Jay A. Clarke, Lecturer in the Graduate Program in Art History: 1988, B.A., 
-Iceland, 1992, M.A., Yale University, 1999, Ph.D., Yale University, on leave  Holy Cross College, 1991, M.A., Brown University, 1999, Ph.D., Brown 
-Spring 2018  University, Spring 2018 
-Alexander Bevilacqua, Assistant Professor of History: 2007, B.A., Harvard  Cassandra J. Cleghorn, Senior Lecturer in English and American Studies: 
-University, 2010, M.A., Princeton University  1983, B.A., University of CA, Santa Cruz, 1988, M.A., Yale University, 
-Maria T. Binnie, Assistant Professor of Art: 2005, B.A., Northwestern  1995, Ph.D., Yale University 
-University, 2011, M.A., University of TX, Austin  Phoebe A. Cohen, Assistant Professor of Geosciences: 2002, B.A., Cornell 
-Julie C. Blackwood, Assistant Professor of Mathematics: 2010, Ph.D.,  University, 2010, Ph.D., Harvard University, on leave Fall 2017 
-54 6  
-Cory H. Colbert, Gaius Charles Bolin Fellow in Mathematics: 2011, B.S., VA  Laura D. Ephraim, Assistant Professor of Political Science: 2000, B.A., 
-Commonwealth University, 2013, M.A., University of TX, Austin  Pomona College, 2010, Ph.D., Northwestern University 
-Meredith F. Coleman-Tobias, Gaius Charles Bolin Fellow in Religion and  David Eppel, Professor of Theatre: 1971, B.A., University of Cape Town, 
-Africana Studies: 2006, B.A., Spelman College, 2009, M.Div., Yale Divinity  1986, M.F.A., Columbia University 
-School  Amal Eqeiq, Assistant Professor of Comparative Literature: 1997, B.A., 
-Marguerite A. Conan, Visiting Lecturer in Physical Education and Head  Hebrew University-Jerusalem, 2006, M.A., University of OR, 2013, Ph.D., 
-Women's Crew Coach, Fall 2017  University of WA 
-Jeremy D. Cone, Assistant Professor of Psychology: 2012, Ph.D., Cornell  Kimberly Anne Faler, Visiting Lecturer in Art: 2002, B.F.A., OH Wesleyan 
-University   University, 2008, M.F.A., Cranbrook Academy of Art, Fall 2017 
-Michael P. Conforti, Lecturer in the Graduate Program in Art History: 1968,  Adam F. Falk, Professor of Physics: 1987, B.S., University of NC, Chapel Hill, 
-B.A., Trinity College, 1973, M.A., Harvard University, 1977, Ph.D., Harvard  1989, M.A., Harvard University, 1991, Ph.D., Harvard University 
-University  Peter K. Farwell, Assistant Professor of Physical Education, Head Cross 
-José A. Constantine, Assistant Professor of Geosciences: 1999, B.S.,  Country Coach, and Assistant Coach Men's and Women's Track: 1973, 
-College of William and Mary, 2002, M.S., University of CA, Davis, 2008,  B.A., Williams College, 1990, M.A., Central MI University 
-Ph.D., University of CA, Santa Barbara  Steven Fein, Chair and Professor of Psychology: 1986, A.B., Princeton 
-Mea S. Cook, Associate Professor of Geosciences: 1999, B.A., Princeton  University, 1991, Ph.D., University of MI 
-University, 2006, Ph.D., MA Institute of Technology  Thomas P. Feist, Visiting Instructor in Chemistry: 1985, B.A., Williams 
-Andrew R. Cornell, Visiting Assistant Professor of American Studies: 2000,  College, 1990, Ph.D., University of PA 
-B.A., University of MI, 2011, Ph.D., NY University  Ezra D. Feldman, Visiting Assistant Professor of English: 2002, A.B., Harvard 
-Ronadh Cox, Chair and Professor of Geosciences: 1985, B.S., University  University, 2008, M.F.A., Cornell University, 2017, Ph.D., Cornell University 
-College Dublin, 1993, Ph.D., Stanford University  Ronald L. Feldman, Artist in Residence in Orchestral and Instrumental 
-Stephen P. Cramer, Visiting Professor of Chemistry, Spring 2018  Activities/Lecturer in Music, Director of the Berkshire Symphony: 1971, 
-George T. Crane, W. Van Alan Clark '41 Third Century Professor in the  B.M., Boston University 
-Social Sciences: 1979, B.A., State University of NY, Purchase, 1981, M.A.,  Zirka Z. Filipczak, J. Kirk T. Varnedoe '67 Professor of Art: 1964, B.A., 
-University of WI, Madison, 1986, Ph.D., University of WI, Madison, on  Barnard College, 1965, M.A., Harvard University, 1973, Ph.D., Harvard 
-leave 2017-2018  University 
-Marshall K. Creighton, Lecturer in Physical Education and Assistant Strength  Jessica M. Fisher, Assistant Professor of English: 1998, B.A., Swarthmore 
-& Conditioning Coach: 2002, B.A., Williams College  College, 2003, M.A., University of CA, Berkeley, 2009, Ph.D., University of 
-Justin E. Crowe, Associate Professor of Political Science: 2003, B.A.,  CA, Berkeley, on leave Fall 2017 
-Williams College, 2005, M.A., Princeton University, 2007, Ph.D., Princeton  Stephen E. Fix, Robert G Scott '68 Professor of English: 1974, B.A., Boston 
-University  College, 1977, M.A., Cornell University, 1980, Ph.D., Cornell University, on 
-Joseph L. Cruz, Professor of Philosophy: 1991, B.A., Williams College, 1999,  leave 2017-2018 
-Ph.D., University of AZ  Antonia E. Foias, Chair and Professor of Anthropology: 1987, B.A., Harvard 
-Annelle M. Curulla, Assistant Professor of French Literature and Language:  University, 1996, Ph.D., Vanderbilt University 
-1999, B.A., CT College, 2001, M.A., Middlebury College, 2012, Ph.D.,  VaNatta S. Ford, Assistant Professor of Africana Studies: 2000, B.S., IL State 
-Columbia University  University, 2005, M.Div., Howard University, 2011, Ph.D., Howard 
-Erica A. Dankmeyer, Artist-in-Residence in Dance: 1991, B.A., Williams  University 
-College  Michael Fortunato, Visiting Professor of Economics: 1976, A.B., Columbia 
-Andrea Danyluk, Dennis A. Meenan '54 Third Century Professor of Computer  University, 1982, M.A., Harvard University, 1984, Ph.D., Harvard 
-Science: 1984, A.B., Vassar College, 1986, M.S., Columbia University,  University, Fall 2017 
-1992, Ph.D., Columbia University  Soledad Fox, Professor of Romance Languages: 1990, B.A., Sarah Lawrence 
-Alan W. De Gooyer, Lecturer in English: 1987, B.A., CO State University,  College, 1997, M.A., City University of NY, 2001, Ph.D., City University of 
-1991, M.A., University of Denver, 1994, Ph.D., University of VA  NY 
-Richard D. De Veaux, C. Carlisle and Margaret Tippit Professor of Statistics:  Jennifer L. French, Chair of Romance Languages and Professor of Spanish: 
-1973, A.B., Princeton University, 1980, M.A., Stanford University, 1986,  1995, B.A., College of William and Mary, 1997, M.A., Rutgers University, 
-Ph.D., Stanford University, on leave 2017-2018  2001, Ph.D., Rutgers University 
-Derek Dean, Lecturer in Biology: 1994, B.A., Oberlin College, 2004, Ph.D.,  Stephen N. Freund, Professor of Computer Science: 1995, B.S., Stanford 
-Cornell University  University, 1998, M.S., Stanford University, 2000, Ph.D., Stanford 
-Edan Dekel, Chair and Professor of Classics: 1996, B.A., Brown University,  University, on leave 2017-2018 
-1998, M.A., University of CA, Berkeley, 2005, Ph.D., University of CA,  Alexandra Garbarini, Professor of History: 1994, B.A., Williams College, 
-Berkeley  1997, M.A., University of CA, LA, 2003, Ph.D., University of CA, LA, on 
-John P. Demos, Bennett Boskey Visiting Professor of History   leave 2017-2018 
-Nicole S. Desrosiers, Lecturer in Romance Languages: 1973, M.A.,  Thomas A. Garrity, Webster Atwell Class of 1921 Professor of Mathematics: 
-University of MA, Amherst, 1980, Ph.D., University of MA, Amherst   1981, B.S., University of TX, Austin, 1986, Ph.D., Brown University 
-David P. Dethier, Edward Brust Professor of Geology and Mineralogy: 1972,  Jackson G. Gay, Visiting Lecturer in Theatre, Spring 2018 
-A.B., Dartmouth College, 1974, M.S., University of WA, 1977, Ph.D.,  William M. Gentry, Professor of Economics: 1986, B.S., MA Institute of 
-University of WA  Technology, 1991, M.A., Princeton University, 1991, Ph.D., Princeton 
-Charles B. Dew, Ephraim Williams Professor of American History: 1958, B.A.,  University 
-Williams College, 1964, Ph.D., Johns Hopkins University  Steven B. Gerrard, Professor of Philosophy: 1978, B.A., Amherst College, 
-Stephen Charles Doret, Assistant Professor of Physics: 2002, B.A., Williams  1982, M.A., University of Chicago, 1987, Ph.D., University of Chicago 
-College, 2006, A.M., Harvard University, 2010, Ph.D., Harvard University,  Christopher P. Gibson, Stanley Kaplan Visiting Professor of American 
-on leave 2017-2018  Foreign Policy: 1986, B.A., Siena College, 1998, Ph.D., Cornell University 
-Walfrido Dorta, Visiting Assistant Professor of Spanish: 2010, M.A., University  Matthew D. Gibson, Assistant Professor of Economics: 2005, A.B., Harvard 
-of Santiago de Compostela, 2016, Ph.D., City University of NY   University, 2015, Ph.D., University of CA, San Diego 
-Kenneth M. Draper, Visiting Assistant Professor of Classics: 2005, B.A.,  Lisa A. Gilbert, Associate Professor of Geosciences and Marine Sciences at 
-Northwestern University, 2008, M.A., Indiana University, 2015, Ph.D.,  Williams-Mystic: 1997, A.B., Dartmouth College, 1999, M.S., University of 
-Indiana University  WA, 2004, Ph.D., University of WA, on leave 2017-2018 
-Georges B. Dreyfus, Jackson Professor of Religion: 1969, B.A., La Chaux-de- Meghan K. Gillis, Assistant Professor of Physical Education and Head Coach 
-Fonds, 1987, M.A., University of VA, 1991, Ph.D., University of VA  of Women's Ice Hockey: 2007, B.A., Bowdoin College, 2009, M.S., 
-Helga Druxes, Chair of German and Russian and Professor of German: 1982,  University of MA, Amherst 
-B.A., Westfalische Wilhelms-University, 1985, M.A., Brown University,  Catherine Girard, Visiting Assistant Professor of Art: 2003, B.A., University of 
-1987, Ph.D., Brown University  Montreal, 2006, M.A., University of Montreal, 2014, Ph.D., Harvard 
-Nina L. Dubin, Robert Sterling Clark Visiting Professor of Art History, Spring  University, Fall 2017 
-2018  Michael A. Glier, Alexander Falck Class of 1899 Professor of Art: 1976, B.A., 
-Sara L. Dubow, Associate Professor of History: 1991, B.A., Williams College,  Williams College, 1977, M.A., Hunter College, City University of NY 
-1996, M.A., University of MA, Amherst, 2003, Ph.D., Rutgers University, on  Susan Godlonton, Assistant Professor of Economics: 2003, B.A., University 
-leave Spring 2018  of Cape Town, 2007, M.A., University of Cape Town, 2013, Ph.D., 
-Susan Dunn, Massachusetts Professor of Humanities: 1966, B.A., Smith  University of MI, on leave 2017-2018 
-College, 1973, Ph.D., Harvard University, on leave Spring 2018  Christopher Goh, Associate Professor of Chemistry: 1989, B.S., University of 
-David B. Edwards, James N. Lambert '39 Professor of Anthropology: 1975,  Durham, 1996, Ph.D., Harvard University 
-B.A., Princeton University, 1979, M.A., University of MI, 1986, Ph.D.,  Sarah L. Goh, Professor of Chemistry: 1996, B.S., University of MI, 1998, 
-University of MI, on leave Fall 2017  M.S., University of MA, Amherst, 2004, Ph.D., University of CA, Berkeley 
-Frances C. Edwards, Senior Lecturer in Art: 1975, B.A., Princeton University,  Matthew A. Gold, Artist in Residence in Percussion and Contemporary Music 
-1981, M.A., University of MI, 1990, Ph.D., NY University Institute of Fine  Performance  
-Arts  Leo I. Goldmakher, Assistant Professor of Mathematics: 2004, B.A., 
-Joan Edwards, Chair and Samuel Fessenden Clarke Professor of Biology:  Princeton University, 2009, Ph.D., University of MI, on leave Fall 2017 
-1971, B.A., University of MI, 1972, M.S., University of MI, 1978, Ph.D.,  Barry Goldstein, Visiting Professor of Humanities: 1973, B.S., Union College, 
-University of MI  1976, M.S., University of Rochester, 1982, Ph.D., University of Rochester, 
-Susan L. Engel, Senior Lecturer in Psychology: 1980, B.A., Sarah Lawrence  Fall 2017 
-College, 1985, Ph.D., City University of NY, on leave Fall 2017  Edward Gollin, Professor of Music: 1992, B.S., MA Institute of Technology, 
-54 7  
-1995, M.A., Queens College, 2000, Ph.D., Harvard University  2001, M.A., University of Chicago, 2011, Ph.D., University of Chicago 
-Glenn S. Gordinier, Associate Professor at Williams-Mystic: 1969, B.A., West  Vladimir V. Ivantsov, Visiting Assistant Professor of Russian: 2014, Ph.D., 
-Chester University, 1981, M.A., Lehigh University, 2001, Ph.D., University  McGill University  
-of CT  G. Robert Jackall, Willmott Family Third Century Professor Sociology & 
-Marc Gotlieb, Director of the Graduate Program in Art History and Class of  Public Affairs: 1963, B.A., Fordham University, 1964, Ph.L, Woodstock 
-1955 Memorial Professor of Art: 1980, B.A., University of Toronto, 1984,  College, St. Ignatius, 1976, Ph.D., New School for Social Research 
-M.A., Johns Hopkins University, 1990, Ph.D., Johns Hopkins University, on  Charles F. Jackson, Visiting Lecturer in Art: 1984, B.F.A., VA Commonwealth 
-leave Fall 2017  University, 1990, M.F.A., University of CA, Davis, Spring 2018 
-Kai M. Green, Assistant Professor of Women's, Gender and Sexuality Studies   Sarah A. Jacobson, Associate Professor of Economics: 1998, B.S., Harvey 
-Daniel R. Greenberg, Assistant Professor of Physical Education and Head  Mudd College, 2005, M.A., GA State University, 2010, Ph.D., GA State 
-Coach of Men's Tennis: 2008, B.A., Williams College, 2013, M.Ed., MA  University, on leave Spring 2018 
-College of Liberal Arts  Joy A. James, Francis Christopher Oakley Third Century Professor of 
-David E. Gurcay-Morris, Associate Professor of Theatre: 1996, B.A., Williams  Humanities: 1980, B.A., Saint Mary's University, 1982, M.A., Fordham 
-College, 2001, M.F.A., University of WA, on leave Fall 2017  University, 1987, Ph.D., Fordham University 
-Kim I. Gutschow, Lecturer in Religion and Anthropology/Sociology: 1988,  Ju-Yu Scarlett Jang, Professor of Art: 1969, B.A., National Cheng-Chih 
-B.A., Harvard University, 1995, M.A., Harvard University, 1998, Ph.D.,  University, 1984, M.A., University of CA, Berkeley, 1989, Ph.D., University 
-Harvard University  of CA, Berkeley 
-Catherine R. Hall, Associate Professor at Williams-Mystic: 1985, B.A.,  William K. Jannen, Assistant Professor of Computer Science: 2009, B.A., 
-University of RI, 1989, J.D., Vermont Law School  Williams College 
-Amie A. Hane, Associate Professor of Psychology: 1996, B.A., University of  Katharine E. Jensen, Assistant Professor of Physics: 2004, A.B., Princeton 
-MD, 1999, M.A., University of MD, 2002, Ph.D., University of MD  University, 2013, Ph.D., Harvard University 
-Rachel E. Harding, Sterling Brown '22 Visiting Professor of Africana Studies,  Cathy M. Johnson, James Phinney Baxter III Professor of Political Science: 
-Spring 2018  1979, B.A., Dartmouth College, 1986, Ph.D., University of MI 
-Nicole T. Harrington, Visiting Assistant Professor of Psychology: 1987, B.A.,  S. Elizabeth Johnson, Professor of Art: 1992, B.A., Williams College, 1995, 
-Boston College, 1995, Ph.D., University of VT, Spring 2018  M.F.A., University of CA, San Diego, , on leave 2017-2018 
-Pamela E. Harris, Assistant Professor of Mathematics: 2005, B.S., Marquette  Stewart D. Johnson, Professor of Mathematics: 1979, B.A., Fort Lewis 
-University, 2008, M.S., University of WI, Milwaukee, 2012, Ph.D.,  College, 1985, Ph.D., Stanford University 
-University of WI, Milwaukee  Walter A. Johnston, Visiting Assistant Professor of English: 2002, B.A., Bard 
-Ilana Y. Harris-Babou, Visiting Assistant Professor: 2013, B.A., Yale  College, 2007, M.A., Princeton University, 2012, Ph.D., Princeton 
-University, 2016, M.F.A., Columbia University  University 
-Kathryn M. Hart, Assistant Professor of Chemistry: 2004, B.S., Haverford  Kevin M. Jones, William Edward McElfresh Professor of Physics: 1977, B.A., 
-College, 2013, Ph.D., University of CA, Berkeley  Williams College, 1983, Ph.D., Stanford University 
-Mamoru Hatakeyama, Visiting Lecturer in Japanese: 1995, B.A., Waseda  Kelly M. Josephs, Sterling Brown '22 Visiting Professor of Africana Studies: 
-University, 2000, M.A., University of WI, Madison, 2015, Ph.D., Carnegie  1998, B.A., University of Miami, 2001, M.A., FL International University, 
-Mellon University  2006, Ph.D., Rutgers University 
-Brynn M. Hatton, Visiting Assistant Professor of Art: 2003, B.A., University of  Peter Just, Professor of Anthropology: 1972, B.A., University of Chicago, 
-CA, Berkeley, 2012, M.A., Northwestern University, 2016, Ph.D.,  1979, M.A., University of PA, 1986, Ph.D., University of PA 
-Northwestern University  Shinko Kagaya, Professor of Japanese: 1989, B.A., Aoyama Gakuin 
-Man He, Assistant Professor of Chinese: 2000, B.A., Renmin University,  University, 1991, M.A., Ohio State University, 1999, Ph.D., Ohio State 
-2009, M.A., Ohio State University, 2015, Ph.D., Ohio State University  University 
-Laurie Heatherington, Edward Dorr Griffin Professor of Psychology: 1976,  William R. Kangas, Assistant Professor of Physical Education and Head 
-B.A., Miami University, 1981, Ph.D., University of CT  Men's Ice Hockey Coach: 1982, B.A., University of VT, 1994, M.Ed., MA 
-Guy M. Hedreen, Amos Lawrence Professor of Art: 1981, B.A., Pomona  College of Liberal Arts, , on leave 2017-2018 
-College, 1983, M.A., Bryn Mawr College, 1988, Ph.D., Bryn Mawr College,  Aparna Kapadia, Assistant Professor of History: 1998, B.A., St Xavier's 
-on leave 2017-2018  College, Mumbai University, 2005, M.Phil., Jawaharlal Nehru University, 
-Brent A. Heeringa, Associate Professor of Computer Science: 1999, B.A.,  2010, Ph.D., University of London, on leave Fall 2017 
-University of MN, 2002, M.S., University of MA, Amherst, 2006, Ph.D.,  Lawrence J. Kaplan, Halford R. Clark Professor of Natural Sciences: 1964, 
-University of MA, Amherst, on leave 2017-2018  B.S., University of Pittsburgh, 1970, Ph.D., Purdue University 
-Brianna C. Heggeseth, Assistant Professor of Statistics: 2008, B.A., Saint  Paul M. Karabinos, Charles L. MacMillan Professor in Natural Sciences: 
-Olaf College, 2013, Ph.D., University of CA, Berkeley  1975, B.S., University of CT, 1981, Ph.D., Johns Hopkins University 
-Peter S. Heller, Visiting Professor of Economics: 1967, B.A., Trinity College,  Georgios Karamalegkos, Visiting Lecturer in Theatre, Fall 2017 
-1972, Ph.D., Harvard University, Spring 2018  Catherine M. Kealhofer, Assistant Professor of Physics: 2003, A.B., Princeton 
-Kristin M. Herman, Assistant Professor of Physical Education, Head Softball  University, 2013, Ph.D., Stanford University 
-Coach: 1986, B.A., Tufts University, 1989, M.A., Tufts University  Christiann L. Kelsey, Assistant Professor of Physical Education and Head 
-Christopher P. Heuer, Lecturer in the Graduate Program in Art History: 1994,  Women's Volleyball Coach: 2000, B.S., Purdue University, 2012, M.S., 
-A.B., Bowdoin College, 1997, A.M., University of Southern CA, 2003,  Northeastern University 
-Ph.D., University of CA, Berkeley, Fall 2017  Kathryn R. Kent, Chair and Professor of English: 1988, B.A., Williams 
-Jacqueline Hidalgo, Associate Professor of Latina/o Studies and Religion:  College, 1993, M.A., Duke University, 1996, Ph.D., Duke University 
-2000, B.A., Columbia University, 2003, M.A., Union Theological Seminary,  Elizabeth A. Kieffer, Lecturer in German: 1977, B.A., Rutgers University 
-2010, Ph.D., Claremont Graduate University  Anthony Kim, Visiting Assistant Professor of American Studies  
-Chad M. Higdon-Topaz, Professor of Mathematics: 1996, A.B., Harvard  Jeremy R. King, Sorkin Visiting Professor of History: 1985, B.A., Yale 
-University, 1997, M.S., Northwestern University, 2002, Ph.D., Northwestern  University, 1998, Ph.D., Columbia University, Spring 2018 
-University  Karen L. King, Croghan Bicentennial Professor in Biblical and Early Christian 
-Joshua D. Hillman, Lecturer in Physical Education and Head Men's Golf  Studies, Fall 2017 
-Coach: 2000, B.A., University of RI  Kris N. Kirby, Professor of Psychology: 1985, B.A., Marshall University, 1991, 
-Alan Hirsch, Lecturer in Humanities: 1981, B.A., Amherst College, 1985, J.D.,  Ph.D., Harvard University 
-Yale University  Roger A. Kittleson, Professor of History: 1985, B.A., Northwestern University, 
-Marjorie W. Hirsch, Chair and Professor of Music: 1982, B.A., Yale University,  1990, M.A., University of WI, Madison, 1997, Ph.D., University of WI, 
-1985, M.Phil., Yale University, 1989, Ph.D., Yale University  Madison 
-Nathan D. Hoey, Assistant Professor of Physical Education, Head Women's  John E. Kleiner, Professor of English: 1983, B.A., Amherst College, 1988, 
-Track & Field Coach: 2000, B.S., Slippery Rock University  M.A., Stanford University, 1991, Ph.D., Stanford University 
-Amy S. Holzapfel, Chair and Associate Professor of Theatre: 1996, B.A.,  Bernhard Klingenberg, Professor of Statistics: 1996, B.A., Technical 
-Brown University, 2001, M.F.A., Yale School of Drama, 2006, D.F.A., Yale  University, 1998, M.S., Technical University, 2004, Ph.D., University of FL 
-School of Drama  Eric C. Knibbs, Assistant Professor of History and Faculty Affiliate in Religion: 
-Kiaran Honderich, Lecturer in Women's, Gender and Sexuality Studies: 1983,  2004, B.A., University of PA, 2009, Ph.D., Yale University 
-B.A., Oxford University, 1984, M.A., Columbia University, 1991, Ph.D.,  Pia M. Kohler, Assistant Professor of Environmental Studies: 1998, B.S., 
-University of MA, Amherst  McGill University, 2001, M.E.S., Yale School of Forestry & Environmental 
-Scott D. Honecker, Assistant Professor of Physical Education and Head  Studies, 2006, Ph.D., MA Institute of Technology 
-Coach of Wrestling: 2010, B.S., East Carolina University  Thomas A. Kohut, Chair & Sue and Edgar Wachenheim III Professor of 
-Catherine N. Howe, Lecturer in Art: 1997, B.A., Barnard College, 2005, M.A.,  History: 1972, B.A., Oberlin College, 1975, M.A., University of MN, 1983, 
-University of CA, Santa Barbara, 2012, Ph.D., University of CA, Santa  Ph.D., University of MN 
-Barbara  Anjuli F. Kolb, Assistant Professor of English: 2003, B.A., Columbia 
-Nicolas C. Howe, Associate Professor of Environmental Studies and Faculty  University, 2008, M.Phil., Columbia University, 2013, Ph.D., Columbia 
-Affiliate in Anthropology and Sociology: 1998, B.A., Columbia University,  University, on leave Fall 2017 
-2003, M.A., University of CA, LA, 2009, Ph.D., University of CA, LA  Elizabeth R. Kolbert, Class of 1946 Environmental Fellow-in-Residence: 
-Iris K. Howley, Assistant Professor of Computer Science: 2008, B.S., Drexel  1983, B.A., Yale University 
-University, 2012, Ph.D., Carnegie Mellon University  Christophe A. Koné, Assistant Professor of German: 2006, M.A., Université 
-Vivian L. Huang, Assistant Professor of Women's, Gender, and Sexuality  Lumière Lyon 2, 2013, Ph.D., Rutgers University  
-Studies: 2008, B.A., University of CA, Berkeley, 2009, M.A., NY University  Nathan Kornell, Associate Professor of Psychology: 1996, B.A., Reed 
-Jeffrey I. Israel, Assistant Professor of Religion: 1999, B.A., Oberlin College,  College, 2001, M.A., Columbia University, 2005, Ph.D., Columbia 
-54 8  
-University  B.A., Tulane University, 2002, Ph.D., Brown University 
-Cornelius C. Kubler, Stanfield Professor of Asian Studies: 1972, B.A., Cornell  LeRhonda S. Manigault-Bryant, Associate Professor of Africana Studies and 
-University, 1978, M.A., National Taiwan University, 1981, Ph.D., Cornell  Faculty Affiliate in Religion: 1999, A.B., Duke University, 2002, M.Div., 
-University  Emory University, 2007, Ph.D., Emory University 
-Joanna Kurkowicz, Lyell B. Clay Artist in Residence, Violin and  Patricia M. Manning, Assistant Professor of Physical Education and Head 
-Concertmaster, Berkshire Symphony: 1994, M.M., University of MA,  Women's Basketball Coach: 1977, B.S., State University of NY, Cortland, 
-Amherst  1988, M.S., Smith College 
-Steven J. Kuster, Assistant Professor of Physical Education and Head Swim  Thabane V. Maphai, Class of 1955 Visiting Professor of International Studies: 
-Coach: 1993, B.A., University of PA, 1999, M.Ed., Harvard University  1976, B.Phil., Université catholique de Louvain, 1978, M.A., Université 
-Kenneth N. Kuttner, Chair Robert F. White Class of 1952 Professor of  catholique de Louvain, 1991, Ph.D., University of Natal 
-Economics: 1982, B.A., University of CA, Berkeley, 1989, Ph.D., Harvard  George E. Marcus, Professor of Political Science: 1964, B.A., Columbia 
-University  University, 1965, M.A., Northwestern University, 1968, Ph.D., Northwestern 
-Karen B. Kwitter, Chair and Ebenezer Fitch Professor of Astronomy: 1972,  University, on leave 2017-2018 
-B.A., Wellesley College, 1974, M.A., University of CA, LA, 1979, Ph.D.,  Luana S. Maroja, Associate Professor of Biology: 1999, B.S., Universidade 
-University of CA, LA  Federal do Rio de Janeiro, 2001, M.S., Universidade Federal do Rio de 
-Sara LaLumia, Associate Professor of Economics: 2000, B.A., Youngstown  Janeiro, 2008, Ph.D., Cornell University 
-State University, 2006, Ph.D., University of MI  Brian Martin, Professor of French & Comparative Literature: 1993, A.B., 
-Edwin I. Lawrence, Artist Associate in Harpsichord, Piano and Organ and  Harvard University, 1999, M.A., Harvard University, 2003, Ph.D., Harvard 
-Lecturer in Music: 1969, B.M., State University of NY, Fredonia  University 
-Tim J. Lebestky, Associate Professor of Biology: 1995, B.S., University of KS,  Laura J. Martin, Assistant Professor of Environmental Studies: 2006, S.B., 
-2002, Ph.D., University of CA, LA  Brown University, 2010, M.S., Cornell University, 2015, Ph.D., Cornell 
-Alice Lee, Assistant Professor of Physical Education and Head Women's  University 
-Lacrosse Coach: 2009, B.S., Central CT State University, 2015, M.S.,  Martha J. Marvin, Lecturer in Neuroscience: 1984, B.A., University of CA, 
-University of MA, Amherst  Berkeley, 1995, Ph.D., MA Institute of Technology 
-Joel G. Lee, Assistant Professor of Anthropology: 1998, B.A., Kenyon  Aleksandar Matovski, Mellon Postdoctoral Fellow in Political Science  
-College, 2008, M.A., Columbia University, 2015, Ph.D., Columbia  James McAllister, Chair and Fred Greene Third Century Professor of Political 
-University  Science: 1986, B.A., State University of NY, Buffalo, 1989, M.A., Columbia 
-Jason R. Lemieux, Assistant Professor of Physical Education and Head  University, 1999, Ph.D., Columbia University 
-Nordic Ski Coach: 2001, B.A., Williams College  George M. McCormack, Assistant Professor of Physical Education, Head 
-William J. Lenhart, A. Barton Hepburn Professor of Computer Science: 1977,  Men's Lacrosse Coach: 1987, B.S., Ithaca College, 2007, M.Ed., Boston 
-B.S., Saint Josephs College, 1979, M.A., Dartmouth College, 1983, Ph.D.,  University 
-Dartmouth College  Mark T. McDonough, Lecturer in Physical Education, Assistant Football 
-Kelsey Levine, Assistant Professor of Physical Education and Head Alpine  Coach: 2002, B.S., Ithaca College 
-Ski Coach: 2010, B.A., Williams College  Elizabeth P. McGowan, Professor of Art: 1979, B.A., Princeton University, 
-Chad M. Levinson, Stanley Kaplan Visiting Postdoctoral Fellow in the  1981, M.A., NY University Inst of Fine Arts, 1983, Ph.D., NY University Inst 
-Department of Political Science and Leadership Studies Program: 2017,  of Fine Arts, on leave 2017-2018 
-Ph.D., University of Chicago   Morgan S. McGuire, Associate Professor of Computer Science: 2000, B.S., 
-Zafrir Levy, Assistant Professor of Physical Education and Head Squash  MA Institute of Technology, 2003, M.S., Brown University, 2006, Ph.D., 
-Coach: 2001, B.A., Williams College  Brown University, on leave 2017-2018 
-Michael J. Lewis, Faison-Pierson-Stoddard Professor of Art History: 1980,  Keith E. McPartland, Associate Professor of Philosophy: 1994, B.A., Rutgers 
-B.A., Haverford College, 1989, Ph.D., University of PA  University, 1998, M.A., Cornell University, 2007, Ph.D., Cornell University, 
-Scott A. Lewis, Assistant Professor of Physical Education and Director of  on leave 2017-2018 
-Outing Club: 1980, B.S., Stanford, 1985, M.Ed., Stanford  Gage C. McWeeny, Professor of English: 1993, B.A., Columbia University, 
-John K. Limon, John J Gibson Professor of English: 1974, B.A., Harvard  1998, M.A., Princeton University, 2003, Ph.D., Princeton University 
-University, 1981, Ph.D., University of CA, Berkeley, on leave 2017-2018  Lisa M. Melendy, Chair, Director of Athletics and Assistant Professor in 
-Haydee M. A. Lindo, Assistant Professor of Mathematics: 2008, B.A.,  Physical Education: 1982, A.B., Smith College, 1985, M.S., University of 
-Williams College, 2012, M.S., University of NE, Lincoln, 2016, Ph.D.,  MA, Amherst 
-University of UT  Nicole E. Mellow, Professor of Political Science: 1992, B.A., Vassar College, 
-Robert A. Livingstone, Lecturer in Physical Education, Head Strength and  2003, Ph.D., University of TX, Austin, on leave Spring 2018 
-Conditioning Coach: 2000, B.S., Jacksonville State University, 2001, M.S.,  Karen R. Merrill, Frederick Rudolph '42 - Class of 1965 Professor of 
-Jacksonville State University  American Culture: 1986, B.A., Oberlin College, 1988, M.A., University of 
-David W. Loehlin, Assistant Professor of Biology: 2003, A.B., University of  Denver, 1994, Ph.D., University of MI, on leave Fall 2017 
-Chicago, 2011, Ph.D., University of Rochester  Olivier Meslay, Lecturer in the Graduate Program in Art History  
-Susan R. Loepp, Chair and Professor of Mathematics: 1989, B.S., Bethel  Brian E. Messier, Artist in Residence in Winds and Director of the Wind 
-College, 1994, Ph.D., University of TX, Austin  Ensemble: 2003, B.M., Ithaca College, 2011, M.M., University of MA, 
-Margaret G. Long, Professor of History and Director of the Williams-Exeter  Amherst, 2014, D.M., University of MN 
-Programme at Oxford University: 1989, B.A., Wesleyan University, 1994,  Carolyn D. Miles, Assistant Professor of Physical Education and Associate 
-M.A., University of Chicago, 2003, Ph.D., University of Chicago  Director/Student Athlete Services: 1998, B.S., University of NH, 2008, 
-David A. Love, Professor of Economics: 1996, B.A., University of MI, 1998,  M.S., Columbia University 
-M.A., Yale University, 2003, Ph.D., Yale University  Steven J. Miller, Associate Professor of Mathematics: 1996, B.S., Yale 
-Heather K. Love, Margaret Bundy Scott Professor of English, Spring 2018  University, 1998, M.A., Princeton University, 2002, Ph.D., Princeton 
-Kimberly S. Love, Assistant Professor of English: 2010, B.A., Tuskegee  University 
-University, 2017, Ph.D., University of VA  Marion S. Min-Barron, Visiting Assistant Professor  
-Charles M. Lovett Jr., Philip and Dorothy Schein Professor of Chemistry:  Gregory C. Mitchell, Assistant Professor of Women's, Gender and Sexuality 
-1979, B.S., CA State Polytech University, 1980, M.S., CA State Polytech  Studies and Faculty Affiliate in Anthropology/Sociology: 2000, B.S., IL 
-University, 1985, Ph.D., Cornell University  State University, 2007, M.A., University of Chicago, 2012, Ph.D., 
-Peter D. Low, Chair and Professor of Art: 1994, B.A., University of Toronto,  Northwestern University 
-1995, M.A., Johns Hopkins University, 2001, Ph.D., Johns Hopkins  Bojana Mladenovic, Professor of Philosophy: 1984, B.A., University of 
-University  Belgrade, 1987, M.A., McGill University, 1996, Ph.D., University of CA, 
-Natalie E. Lozinski-Veach, Visiting Assistant Professor of German, Spring  Berkeley, on leave 2017-2018 
-2018  Mariko Moher, Assistant Professor of Psychology: 2005, B.A., Yale 
-Daniel V. Lynch, Professor of Biology: 1979, B.S., University of MA, Lowell,  University, 2007, M.A., Johns Hopkins University, 2011, Ph.D., Johns 
-1983, Ph.D., University of TX, Austin, on leave Spring 2018  Hopkins University, on leave 2017-2018 
-Michael D. MacDonald, Frederick L. Schuman Professor of International  Michele Monserrati, Visiting Assistant Professor of Comparative Literature 
-Relations: 1972, B.A., University of CA, Berkeley, 1974, M.A., University of  and Romance Languages: 2009, M.A., Rutgers University, 2012, Ph.D., 
-CA, Berkeley, 1983, Ph.D., University of CA, Berkeley  Rutgers University  
-Jennifer L. MacIntire, Lecturer in Biology and Chemistry: 1992, B.A.,  Michael Monti, Visiting Assistant Professor of Physical Education and Head 
-University of VT  Men's Ice Hockey Coach: 2009, B.A., Western New England College, 
-James E. Mahon Jr., Woodrow Wilson Professor of Political Science: 1977,  2012, M.B.A., Western New England College 
-B.A., Dartmouth College, 1983, M.A., University of CA, Berkeley, 1989,  Peter J. Montiel, Fairleigh S. Dickinson, Jr. '41 Professor of Economics: 1973, 
-Ph.D., University of CA, Berkeley  B.A., Yale University, 1973, Ph.D., MA Institute of Technology 
-Protik K. Majumder, Barclay Jermain Professor of Natural Philosophy: 1982,  Manuel A. Morales, Professor of Biology: 1994, A.B., Kenyon College, 1999, 
-B.S., Yale University, 1989, Ph.D., Harvard University  Ph.D., University of CT 
-Shervin Malekzadeh, Visiting Assistant Professor of Political Science: 1996,  Ralph E. Morrison, Assistant Professor of Mathematics: 2010, B.A., Williams 
-A.B., Stanford University, 2006, M.A., Georgetown University  College, 2015, Ph.D., University of CA, Berkeley 
-Katherine S. Maloney, Assistant Professor of Physical Education and Head  Ngonidzashe Munemo, Associate Professor of Political Science: 2000, B.A., 
-Coach of Women's Crew: 2001, B.A., University of WA, on leave Fall 2017  Bard College, 2001, M.A., Columbia University, 2008, Ph.D., Columbia 
-Nicole W. Maloof, Visiting Assistant Professor of Art: 2006, B.F.A., Boston  University 
-University, 2015, M.F.A., Columbia University  Tendai Muparutsa, Artist in Residence in African Music Performance, 
-James A. Manigault-Bryant, Associate Professor of Africana Studies: 1995,  Lecturer in Music, Director of Zambezi, Co-Director of Kusika: 2012, Ph.D., 
-54 9  
-University of Alberta   Colgate University, 2013, Ph.D., OR State University 
-Peter T. Murphy, John Hawley Roberts Professor of English: 1981, B.A., Yale  Christopher L. Pye, Class of 1924 Professor of English: 1975, B.A., Oberlin 
-University, 1986, Ph.D., Johns Hopkins University  College, 1977, M.A., University College, 1984, Ph.D., Cornell University 
-Thomas P. Murtagh, Professor of Computer Science: 1974, A.B., Princeton  Lawrence E. Raab, Harry C. Payne Professor of Poetry: 1968, B.A., 
-University, 1976, M.S., Cornell University, 1983, Ph.D., Cornell University  Middlebury College, 1972, M.A., Syracuse University 
-Kenda B. Mutongi, Professor of History: 1989, B.A., Coe College, 1993, M.A.,  Faiz J. Ragep, Richmond Visiting Professor of Arabic Studies, Fall 2017 
-University of VA, 1996, Ph.D., University of VA, on leave 2017-2018  Ashok S. Rai, Associate Professor of Economics: 1992, B.A., Stanford 
-Steven E. Nafziger, Associate Professor of Economics: 2000, B.A.,  University, 1997, Ph.D., University of Chicago 
-Northwestern University, 2003, M.Phil., Yale University, 2006, Ph.D., Yale  Neal J. Rappaport, Visiting Assistant Professor of Economics: 1994, Ph.D., 
-University  MA Institute of Technology  
-Lama Nassif, Assistant Professor of Comparative Literature: 1994, B.A.,  Mark R. Raymond, Assistant Professor of Physical Education and Head 
-Damascus University, 2007, M.A., Middlebury Institute of International  Coach of Football 
-Studies at Monterey, 2014, Ph.D., University of TX, Austin  Anne Reinhardt, Associate Professor of History: 1990, B.A., Harvard 
-Gail M. Newman, Director of Arabic Studies and Harold J. Henry Professor of  University, 1994, M.A., University of CA, Berkeley, 2002, Ph.D., Princeton 
-German: 1976, B.A., Northwestern University, 1981, M.A., University of  University 
-MN, 1984, Ph.D., University of MN, on leave Spring 2018  Mark T. Reinhardt, Class of 1956 Professor of American Civilization: 1983, 
-Wairimu R. Njoya, Assistant Professor of Political Science: 2002, B.A.,  B.A., Wesleyan University, 1991, Ph.D., University of CA, Santa Cruz 
-Macalester College, 2004, M.A., University of Amsterdam, 2010, Ph.D.,  Bernard J. Rhie, Associate Professor of English: 1997, B.A., University of CA, 
-Rutgers University, on leave Fall 2017  Berkeley, 2001, M.A., University of PA, 2005, Ph.D., University of PA 
-James L. Nolan Jr., Washington Gladden 1859 Professor of Sociology: 1984,  David P. Richardson, William R. Kenan, Jr. Professor of Chemistry: 1979, 
-B.A., University of CA, Davis, 1992, M.A., University of VA, 1995, Ph.D.,  B.S., University of MI, 1984, Ph.D., University of CA, Berkeley 
-University of VA  Kathryn L. Ringer-Hilfinger, Visiting Assistant Professor of Spanish: 2003, 
-Daniel J. Norton, Visiting Assistant Professor of Psychology: 2005, B.A.,  B.A., State University of NY, Geneseo, 2004, M.A., Middlebury College, 
-Gordon College, 2011, M.A., Boston University, 2015, Ph.D., Boston  2013, Ph.D., State University of NY, Albany, on leave Fall 2017 
-University  Mary L. Roberts, Robert Sterling Clark Visiting Professor of Art History: 1987, 
-Christopher M. B. Nugent, Professor of Chinese: 1991, B.A., Brown  B.A., University of Sydney, 1995, Ph.D., University of Melbourne, Fall 2017 
-University, 2004, Ph.D., Harvard University  Neil Roberts, Associate Professor of Africana Studies and Faculty Affiliate in 
-Carol J. Ockman, Robert Sterling Clark Professor of Art: 1972, B.A., Stanford  Political Science: 1998, B.A., Brown University, 2003, M.A., University of 
-University, 1975, M.A., Yale University, 1982, Ph.D., Yale University  Chicago, 2007, Ph.D., University of Chicago 
-William W. Olney, Associate Professor of Economics: 2002, B.A., Wesleyan  Tyler J. Rogers, Gaius Charles Bolin Fellow in American Studies: 2012, B.A., 
-University, 2010, Ph.D., University of CO, on leave Spring 2018  Brown University, 2015, M.Phil., Yale University 
-Brooke Suzanne Olson Blair, Instructor in Chemistry: 2003, B.A., University of  Nelly A. Rosario, W. Ford Schumann Visiting Professor in Democratic 
-Saint Thomas, Houston, 2005, M.S., University of CA, Berkeley, on leave  Studies: 1994, S.B., MA Inst of Tech, 1998, M.F.A., Columbia University 
-Fall 2017  Emmelyn B. Rosen, Postdoctoral Research Fellow in the Graduate Program 
-Ianna Hawkins Owen, Assistant Professor of English: 2008, B.A., City  in Art History: 2006, B.A., Columbia University, 2009, M.A., Princeton 
-University of NY, 2010, M.A., University of CA, Berkeley, 2016, Ph.D.,  University, 2015, Ph.D., Princeton University 
-University of CA, Berkeley  Shawn J. Rosenheim, Professor of English: 1985, B.A., Oberlin College, 
-Allison M. Pacelli, Professor of Mathematics: 1997, B.S., Union College,  1988, M.A., Yale University, 1993, Ph.D., Yale University, on leave 2017-
-2003, Ph.D., Brown University, on leave Spring 2018  2018 
-Joon Suk Park, Visiting Assistant Professor of Computer Science: 2009, B.A.,  Leyla Rouhi, Preston S. Parish '41 Third Century Professor of Romance 
-University of CA, San Diego, 2016, Ph.D., Cornell University  Languages: 1987, B.A., Oxford University, 1988, M.A., Harvard University, 
-Lee Y. Park, William R. Kenan, Jr. Professor of Chemistry: 1986, B.A.,  1995, Ph.D., Harvard University, on leave 2017-2018 
-Wellesley College, 1992, Ph.D., MA Institute of Technology  Mérida M. Rúa, Professor of Latina/o and American Studies: 1993, B.A., 
-Paul C. Park, Senior Lecturer in English: 1975, B.A., Hampshire College  University of IL, 1995, M.Ed., University of IL, 2004, Ph.D., University of MI 
-Janine M. Parker, Artist-in-Residence in Dance   Sophie F. Saint-Just, Assistant Professor of French and Francophone 
-Jay M. Pasachoff, Field Memorial Professor of Astronomy: 1963, A.B.,  Studies: 1991, B.A., University of Paris VIII, 2004, M.Phil., City University 
-Harvard University, 1965, A.M., Harvard University, 1969, Ph.D., Harvard  of NY, 2013, Ph.D., City University of NY 
-University  Michael Samson, Senior Lecturer in Economics: 1983, B.A., Yale University, 
-Darel E. Paul, Professor of Political Science: 1990, B.A., University of MN,  1994, Ph.D., Stanford University 
-1994, M.A., George Washington University, 2000, Ph.D., University of MN  Marlene J. Sandstrom, Hales Professor of Psychology: 1991, B.A., Yale 
-Enrique Peacock-López, Professor of Chemistry: 1974, B.S., University Nac  University, 1993, M.A., Duke University, 1996, Ph.D., Duke University 
-Autonoma, 1976, M.S., University of CA, Riverside, 1982, Ph.D., University  Noah J. Sandstrom, Professor of Psychology: 1994, B.A., Knox College, 
-of CA, San Diego, on leave Spring 2018  1997, M.A., Duke University, 1999, Ph.D., Duke University 
-Lori A. Pedersen, Lecturer in Mathematics: 1982, B.A., College of Wooster,  Omar A. Sangare, Associate Professor of Theatre: 1993, M.F.A., The Theatre 
-1985, M.A., Brown University  Academy, 2006, Ph.D., The Theatre Academy, on leave 2017-2018 
-Julia A. Pedroni, Lecturer in Philosophy: 1986, B.A., Wells College, 1999,  Robert M. Savage, Professor of Biology: 1987, B.A., Bowdoin College, 1993, 
-Ph.D., Georgetown University  Ph.D., Wesleyan University 
-Peter L. Pedroni, Professor of Economics: 1986, B.A., Miami University,  Kenneth K. Savitsky, Professor of Psychology: 1993, B.A., IN University, 
-1993, M.A., Columbia University, 1993, Ph.D., Columbia University  1997, Ph.D., Cornell University 
-Ileana Perez Velazquez, Professor of Music: 1989, B.M., Higher Inst of Arts,  Jana L. Sawicki, Morris Professor of Rhetoric: 1974, B.A., Sweet Briar 
-1995, M.A., Dartmouth College, 1999, D.M.A., IN University, on leave  College, 1978, M.A., Columbia University, 1983, Ph.D., Columbia 
-Spring 2018  University 
-Sebastian Perez, Gaius Charles Bolin Fellow in Latina/o Studies: 2010, B.A.,  Lucille G. Schmidt, Professor of Economics: 1993, A.B., Smith College, 1997, 
-Yale University, 2016, M.Phil., Yale University  M.A., University of MI, 2003, Ph.D., University of MI 
-James L. Pethica, Senior Lecturer in English and Theatre: 1980, B.A., Oxford  Rachel P. Scudder, Visiting Assistant Professor of Oceanography: 2006, 
-University, 1987, Ph.D., Oxford University  B.A., University of NH, 2009, M.A., Boston University, 2015, Ph.D., Boston 
-Gregory B. Phelan, Assistant Professor of Economics: 2007, B.A., Yale  University 
-University, 2012, M.Phil., Yale University, 2014, Ph.D., Yale University, on  Justin B. Shaddock, Assistant Professor of Philosophy: 2004, B.A., University 
-leave 2017-2018  of Notre Dame, 2011, Ph.D., University of Chicago 
-Lauren E. Philbrook, Visiting Assistant Professor of Psychology: 2009, B.A.,  Cheryl L. Shanks, Professor of Political Science: 1983, B.A., University of CA, 
-Williams College, 2012, M.S., PA State University, 2015, Ph.D., PA State  Santa Cruz, 1988, M.A., University of MI, 1994, Ph.D., University of MI 
-University  James R. Shepard, J. Leland Miller Professor of American History, Literature, 
-Katarzyna M. Pieprzak, Professor of Francophone Literature, French  and Eloquence: 1978, B.A., Trinity College, 1980, M.F.A., Brown University 
-Language, and Comparative Literature: 1995, B.A., Rice University, 1998,  Karen L. Shepard, Senior Lecturer in English: 1987, B.A., Williams College, 
-M.A., University of MI, 2001, Ph.D., University of MI  1992, M.F.A., University of Houston 
-Peter C. Pihos, Visiting Assistant Professor of History: 1999, B.A., Harvard  Stephen C. Sheppard, Class of 2012 Professor of Economics: 1977, B.S., 
-University, 2015, Ph.D., University of PA  University of UT, 1979, M.A., Washington University, 1984, Ph.D., 
-Michelyne J. Pinard, Assistant Professor of Physical Education and Head  Washington University 
-Women's Soccer Coach: 1998, B.A., Dartmouth College, 2002, M.S.,  W. Anthony Sheppard, Professor of Music: 1991, B.A., Amherst College, 
-University of PA  1993, M.F.A., Princeton University, 1996, Ph.D., Princeton University 
-Amy D. Podmore, Professor of Art: 1982, B.S., State University of NY,  Olga Shevchenko, Professor of Sociology: 1996, B.A., Moscow State 
-Buffalo, 1987, M.F.A., University of CA, Davis, on leave Fall 2017  University, 1997, M.A., Central European University, 2002, Ph.D., 
-Sarah E. Politz, Visiting Assistant Professor of Ethnomusicology: 2007, B.M.,  University of PA 
-Oberlin College, 2011, M.A., Wesleyan University, 2017, Ph.D., Harvard  Grant W. Shoffstall, Visiting Assistant Professor of Sociology: 2002, B.A., IL 
-University  State University, 2006, M.A., IL State University, 2014, Ph.D., University of 
-Kailani Polzak, C3 Mellon Postdoctoral Fellow in Art History: 2007, B.A.,  IL 
-University of CA, Santa Cruz, 2012, Ph.D., University of CA, Berkeley  Lara D. Shore-Sheppard, Kimberly A. '96 and Robert R. '62 Henry Professor 
-Daniel E. Prindle, Visiting Instructor in Music: 2003, B.M., Berklee College of  of Economics: 1991, B.A., Amherst College, 1993, M.A., Princeton 
-Music, 2011, M.M., University of MA, Amherst  University, 1996, Ph.D., Princeton University 
-Timothy J. Pusack, Assistant Professor at Williams-Mystic: 2005, B.A.,  Cesar E. Silva, Hagey Family Professor of Mathematics: 1977, B.S., Catholic 
-55 0  
-University of Peru, 1979, M.A., University of Rochester, 1984, Ph.D.,  University, 2009, M.A., London University, 2015, Ph.D., Princeton 
-University of Rochester  University 
-Christina E. Simko, Assistant Professor of Sociology: 2005, B.A., Bridgewater  Zachary R. Wadsworth, Assistant Professor of Music: 2005, B.M., University 
-College, 2007, M.A., University of VA, 2013, Ph.D., University of VA  of Rochester, 2007, M.M., Yale University, 2012, D.M.A., Cornell University 
-Jason B. Simms, Visiting Lecturer in Theatre, Spring 2018  Henry M. Walker, Visiting Professor of Computer Science, Fall 2017 
-Swati Singh, Assistant Professor of Physics: 2004, B.S., McMaster University,  Dorothy J. Wang, Associate Professor of American Studies and Faculty 
-2007, M.S., University of British Columbia, 2012, Ph.D., University of AZ  Affiliate in English: 1985, B.A., Duke University, 1993, M.A., Johns Hopkins 
-Shanti M. Singham, Professor of History: 1980, B.A., Swarthmore College,  University, 1998, Ph.D., University of CA, Berkeley, on leave 2017-2018 
-1982, M.A., Princeton University, 1991, Ph.D., Princeton University  Guowei Wang, Artist in Residence in Chinese Music Performance and 
-Eiko Maruko Siniawer, Professor of History: 1997, B.A., Williams College,  Director of the Williams College Chinese Ensemble 
-1999, M.A., Harvard University, 2003, Ph.D., Harvard University  Christopher M. Waters, Hans W. Gatzke '38 Professor of Modern European 
-Anne R. Skinner, Visiting Instructor in Chemistry: 1961, B.A., Radcliffe  History: 1977, B.A., CA State University, Long Beach, 1979, M.A., Harvard 
-College, 1963, M.S., Yale University, 1965, Ph.D., Yale University, Fall  University, 1985, Ph.D., Harvard University, on leave 2017-2018 
-2017  Tara E. Watson, Professor of Economics: 1996, B.A., Wesleyan University, 
-Laura A. Smalarz, Assistant Professor of Psychology: 2008, B.A., San Diego  2003, Ph.D., Harvard University 
-State University, 2011, M.S., IA State University, 2015, Ph.D., IA State  Phillip J. Webster, Visiting Assistant Professor of Religion 
-University  Bradley C. Wells, Lyell B. Clay Artist in Residence and Director of 
-David C. Smith, Senior Lecturer in Biology: 1968, B.S., Yale University, 1977,  Choral/Vocal Activities, Lecturer in Music: 1984, B.A., Principia College, 
-Ph.D., University of MI  1998, M.M.A., Yale University, 2005, D.M.A., Yale University 
-David L. Smith, John W Chandler Professor of English: 1974, B.A., New  Peter S. Wells, Assistant Professor of Physical Education and Boathouse 
-College, 1975, M.A., University of Chicago, 1980, Ph.D., University of  Manager: 1979, B.A., Williams College 
-Chicago  Carmen T. Whalen, Carl W. Vogt '58 Professor of History: 1985, B.A., 
-Thomas E. Smith, Professor of Chemistry: 1988, B.A., Williams College,  Hampshire College, 1989, M.A., Rutgers University, 1994, Ph.D., Rutgers 
-1996, Ph.D., Stanford University  University 
-Anita R. Sokolsky, Professor of English: 1974, B.A., Oberlin College, 1979,  Alan E. White, Mark Hopkins Professor of Philosophy: 1972, B.A., Tulane 
-M.A., Cornell University, 1983, Ph.D., Cornell University  University, 1976, M.A., PA State University, 1980, Ph.D., PA State 
-Paul R. Solomon, Professor of Psychology: 1970, B.A., State University of  University 
-NY, New Paltz, 1972, M.A., State University of NY, New Paltz, 1975,  Amanda R. Wilcox, Associate Professor of Classics: 1996, B.A., Reed 
-Ph.D., University of MA, Amherst  College, 1999, M.A., University of PA, 2002, Ph.D., University of PA, on 
-Stefanie Solum, Professor of Art: 1991, B.A., University of WI, Madison,  leave 2017-2018 
-1995, M.A., University of CA, Berkeley, 2001, Ph.D., University of CA,  Heather Williams, William Dwight Whitney Professor of Biology: 1977, A.B., 
-Berkeley  Bowdoin College, 1985, Ph.D., Rockefeller University, on leave Spring 
-Steven P. Souza, Senior Lecturer in Astronomy: 1973, B.S., Cooper Union,  2018 
-1979, Ph.D., State University of NY, Stony Brook  Mason B. Williams, Assistant Professor of Leadership Studies and Political 
-Kameron H. Steele, Visiting Lecturer in Theatre: 1991, B.F.A., Northwestern  Science: 2006, B.A., Princeton University, 2009, M.A., Columbia 
-University, 2014, M.F.A., CA Inst of the Arts, Fall 2017  University, 2012, Ph.D., Columbia University 
-Doris J. Stevenson, Lyell B. Clay Artist in Residence, Piano: 1967, B.M., AZ  Lauren L. Williamson, Visiting Assistant Professor of Behavioral 
-State University, 1969, M.M., University of Southern CA  Neuroscience: 2007, B.A., Williams College, 2014, Ph.D., Duke University 
-Mihai Stoiciu, Professor of Mathematics: 1999, B.S., University of Bucharest,  Amy Gehring Winters, Chair and Professor of Chemistry: 1994, B.A., Williams 
-2005, Ph.D., CA Institute of Technology  College, 1998, Ph.D., Harvard University 
-Jason A. Storm, Chair and Associate Professor of Religion: 1999, B.A.,  Reinhard A. Wobus, Edna McConnell Clark Professor of Geology: 1962, B.A., 
-Hampshire College, 2001, M.A., Harvard University, 2006, Ph.D., Stanford  Washington University, 1963, M.A., Harvard University, 1966, Ph.D., 
-University  Stanford University 
-Frederick W. Strauch, Associate Professor of Physics: 1998, B.S., Loyola  Kevin S. Wong, Charles R. Keller Professor of History: 1976, B.A., Rutgers 
-College, 2004, Ph.D., University of MD  University, 1979, M.A., University of MI, 1992, Ph.D., University of MI 
-Laura R. Strauch, Instructor in Chemistry: 1999, B.S., Loyola College  Saadia R. Yacoob, Assistant Professor of Religion: 2003, B.A., American 
-Catherine B. Stroud, Associate Professor of Psychology: 2002, B.A.,  University, 2007, M.A., McGill University, 2015, Ph.D., Duke University 
-University of WI, Madison, 2006, M.A., State University of NY, Stony  Kasumi Yamamoto, Frank M. Gagliardi Professor of Classics: 1980, B.A., 
-Brook, 2009, Ph.D., State University of NY, Stony Brook  Aoyama Gakuin University, 1994, M.A., Cornell University, 2000, Ph.D., 
-Erin L. Sullivan, Assistant Professor of Physical Education, Head Men's  Cornell University 
-Soccer Coach: 1996, B.A., Williams College, 2006, M.B.A., Western New  Li Yu, Chair and Associate Professor of Chinese: 1994, B.A., East China 
-England College  Normal University, 1997, M.A., Ohio State University, 2003, Ph.D., Ohio 
-Mirta Suquet, Visiting Assistant Professor of Spanish: 2008, M.A., University  State University 
-of Santiago de Compostela, 2016, Ph.D., University of Santiago de  Safa R. Zaki, Professor of Psychology: 1989, B.A., American University, 
-Compostela  1993, M.A., AZ State University, 1996, Ph.D., AZ State University 
-Kaj Mikael Svensson, STINT - Research Scholar  Betty Zimmerberg, Howard B. Schow '50 and Nan W. Schow Professor of 
-Anand V. Swamy, Professor of Economics: 1983, B.A., University of Delhi,  Neuroscience: 1971, B.A., Harvard University, 1976, Ph.D., City University 
-1985, M.A., Delhi School of Economics, 1993, Ph.D., Northwestern  of NY 
-University, on leave Fall 2017  David J. Zimmerman, Professor of Economics and Orrin Sage Professor of 
-Steven J. Swoap, Professor of Biology: 1990, B.A., Trinity University, 1994,  Political Economy: 1985, B.A., University of Toronto, 1987, M.A., Princeton 
-Ph.D., University of CA, Irvine  University, 1992, Ph.D., Princeton University 
-Barbara E. Takenaga, Mary A and William Wirt Warren Professor: 1972,  Janneke M. van de Stadt, Professor of Russian: 1988, B.A., Amherst College, 
-B.F.A., University of CO, 1978, M.F.A., University of CO  1994, M.A., University of WI, Madison, 2000, Ph.D., University of WI, 
-Munjulika Tarah, Visiting Assistant Professor of Dance History and Theory:  Madison 
-2006, B.A., Randolph-Macon Woman's College, 2007, M.A., Northwestern 
-University, 2013, Ph.D., Northwestern University 
-John W. Thoman Jr., J. Hodge Markgraf Professor of Chemistry: 1982, B.A., 
-Williams College, 1987, Ph.D., MA Institute of Technology 
-Christian Thorne, Professor of English: 1995, B.A., Wesleyan University, 
-2001, Ph.D., Duke University 
-Stephen J. Tifft, Professor of English: 1975, B.A., Harvard University, 1976, 
-M.A., Cornell University, 1984, Ph.D., Cornell University 
-Claire S. Ting, Professor of Biology: 1986, B.A., Yale University, 1989, M.S., 
-Cornell University, 1994, Ph.D., Cornell University 
-Matthew N. Tokeshi, Assistant Professor of Political Science: 2006, B.A., 
-University of CA, Berkeley, 2012, M.A., Princeton University, 2016, Ph.D., 
-Princeton University, on leave Fall 2017 
-Edwin M. Truman, Visiting Professor of Economics: 1963, B.A., Amherst 
-College, 1964, M.A., Yale University, 1967, Ph.D., Yale University, Spring 
-2018 
-David R. Tucker-Smith, Chair and Professor of Physics: 1995, B.A., Amherst 
-College, 2001, Ph.D., University of CA, Berkeley 
-Laura L. Tupper, Assistant Professor of Statistics: 2008, B.A., Swarthmore 
-College, 2013, M.S., Cornell University, 2016, Ph.D., Cornell University 
-Daniel B. Turek, Assistant Professor of Statistics: 2003, B.S., MA Institute of 
-Technology, 2004, M.Eng., MA Institute of Technology, 2013, Ph.D., 
-University of Otago-Dunedin 
-Damian L. Turner, Assistant Professor of Biology: 2004, B.S., Morgan State 
-University, 2010, Ph.D., University of CT 
-Emily K. Vasiliauskas, Assistant Professor of English: 2007, A.B., Harvard 
-55 1  
-DEGREES CONFERRED JUNE, 2017  Johanna Marie Beattie   Whitehouse Station, New Jersey   Psychology 
-Honorary Degrees  Caroline James Beckmann   St. Louis, Missouri   Political Science 
-Chimamanda Ngozi Adichie, Doctor of Letters  Caitlan Boyd Benell   Pacific Palisades, California   English and Psychology 
-Billy Collins, Doctor of Letters  Hannah Margaret Benson   Jackson, New Hampshire   Comparative 
-William C. Dudley '89, Doctor of Laws  Literature and French 
-Gina McCarthy, Doctor of Laws  Claire Augusta Bergey   Bethesda, Maryland   Psychology 
-Gavin A. Schmidt, Doctor of Science  Natalie Grace Bernstein   Kenilworth, Illinois   Biology 
-  Alexander Joseph Besser   Montclair, New Jersey   Economics 
-Master of Arts in the History of Art  Sierra Winston Betts   Oakland, California   History and Psychology 
-Kerry Bickford   Basking Ridge, New Jersey  Varun Louis Bhadkamkar   Palo Alto, California   Chemistry 
-Margo Isabel Cohen Ristorucci   Brooklyn, New York  Emma Kate Bickel   Fort Myers, Florida   Economics 
-Jacob Eisensmith   Montvale, New Jersey  Brett Ann Bidstrup   Marion, Massachusetts   Psychology 
-Andrés Mariano Galperin   Buenos Aires, Argentina  Megan Katherine Bird   Pittsfield, Massachusetts   Psychology 
-Anna Katherine Kelley   Orono, Maine  Molly Isabel Bodurtha   Stamford, Connecticut   Asian Studies and 
-John Westfall Kimbriel   Chester, Virginia  Philosophy 
-Ariel Kline   Miami, Florida  Nathaniel Hamilton Boley   Westport, Connecticut   History 
-Amanda Katherine Morgan   Miami, Florida  Derrick Joseph Bonafilia   Silverdale, Washington   Computer Science 
-Hilde DeVoin Nelson   Lake Villa, Illinois  Matthew Borin   New York, New York   Economics 
-Thomas H. Price   Cranford, New Jersey  Bridget Fennessy Bousa   Wellesley Hills, Massachusetts   Mathematics 
-Lea Cosette Stephenson   Barnard, Vermont  Brooke Alison Bovier   Port Orange, Florida   Economics 
-Terence Bernard Washington II   Columbia, South Carolina  Alex Evan Brandeis   Roswell, Georgia   Political Science 
-Erin Elizabeth Wrightson   Lexington, Kentucky  Rachel Eleanor Brissette   Larchmont, New York   Economics and English 
-  Phillip Ross Brockman   Thompson, North Dakota   Psychology 
-Master of Arts in Policy Economics  Osama Fadi Brosh   Beirut, Lebanon   Biology and Mathematics 
-Shemshat Amanova   Turkmenistan  Sara Grace Brownrigg   Burlingame, California   Economics and Philosophy 
-Samir Ashraf   Bangladesh  Brigid Kathleen Bruno   Bedminster, New Jersey   Economics 
-Abubaker Ali Ba Abbad   Yemen  Graham Benjamin James Buchan   Toronto, Ontario   Biology 
-Osmar Jasan Bolivar Rosales   Bolivia  Caitlin Ann Cybil Buckley   Mahopac, New York   Political Economy 
-Lucy Hannah Brewah   Sierra Leone  Michelle Jeanne Buncke   Portland, Oregon   Biology 
-Seruwaia Leilani Momoci Cagilaba   Fiji  Yvonne Chelagat Bungei   Eldoret, Kenya   Psychology 
-José Domingos Madeira Cardoso   Mozambique  Jonathon Gregory Kevin Burne   San Pedro, California   Arabic Studies and 
-Othman Seif Chanzi   Tanzania  Political Science 
-Phanin Chhim   Cambodia  Samuel Underhill Burrington   Brookline, Massachusetts   Economics 
-Enkhzaya Demid   Mongolia  Margaret Elizabeth Burroughs   Saint Louis, Missouri   Art and History 
-Halimatou Gambo Illo Daoura   Niger  David Robert Burt   Middlebury, Vermont   Mathematics 
-Chikumbutso Tony Gareta   Malawi  Walford Adaman Campbell   Miami, Florida   English 
-Md. Rakibul Hasan   Bangladesh  Minwei Cao   Timonium, Maryland   Biology and English 
-Francine Inarukundo   Burundi  William Jie Cao   Rochester, Minnesota   Chemistry and Economics 
-Mariana Chifundo Jumbe   Malawi  Melissa Alexandra Caplen   New York, New York   Chemistry and 
-Nikolina Kršić   Bosnia and Herzegovina  Mathematics 
-Joachim Loua   Guinea  Mary Robert Carter   Charlottesville, Virginia   History and Political Science 
-Nobert Machinjike   Zimbabwe  Sabrina Suzy-Q Castle   Rangeley, Maine   Chinese 
-Matiop John Deng Malual   South Sudan  Selena Ashley Castro   Philadelphia, Pennsylvania   American Studies and 
-Libère Nduwimana   Burundi  Chemistry 
-Marina Mavungu Ngoma   Democratic Republic of the Congo  Devon Marie Caveney   Andover, Massachusetts   Political Science 
-Catherine Ninsiima   Uganda  Mei Mei Chan   Bakersfield, California   Art and French 
-Pascal Matthew Owor   Uganda  Cornelius Ward Chandler Jr.   Mableton, Georgia   Women’s, Gender and 
-Shahanaj Pervin   Bangladesh  Sexuality Studies 
-Thu Zar Phyo   Myanmar  Angela Chang   Bellaire, Texas   Economics and Psychology 
-Randrianjanaka Mamonjiarisoa Volatantely   Madagascar  Paige Cree Chardavoyne   Glenmont, New York   Chemistry 
-Rasolofomanana Nirintsoa Veronica   Madagascar  Cassidy Savannah Olga Charles   Brooklyn, New York   Asian Studies 
-Chuluunbaatar Shinebaatar   Mongolia  Kelly Chen   Lexington, Massachusetts   Chemistry 
-Oumou Toure   Mali  Mallory Yi-Min Chen   Monterey Park, California   Psychology 
-Arturo Sanchez Trinidad II   Philippines  Richard Daniel Chen   Redwood City, California   Economics and 
-  Mathematics 
-Bachelor of Arts  Julia Cheng   Alamo, California   Chemistry and Psychology 
-Karim Abou El Fettouh   Cairo, Egypt   Economics and Political Science  Elim Cho   Gaithersburg, Maryland   Art 
-Rebecca Pauline Acree   San Diego, California   Political Science  Jenna Rebecca Chodos   Wilmington, Delaware   Economics and 
-Veronica Addai Mensah   Bronx, New York   Economics  Psychology 
-Adedolapo O. Adebayo   Jamaica, New York   Political Science  Jaeho Choi   New York, New York   Economics, Mathematics and Physics 
-Funmilayo Danielle Adejobi   South Ozone Park, New York   Biology and  Christopher Stanislaw Chorzepa   Newington, Connecticut   History and 
-English  Political Economy 
-Christian Barrett Alcorn   Richmond, Virginia   History and Political Science  Silje Rebecca Christoffersen   Enterprise, Oregon   Environmental Policy 
-Burhan Ahmad Aldroubi   Damascus, Syrian Arab Republic   Economics  Ariel Chu   Eastvale, California   English 
-Bushra Syed Shafat Ali   Dubai, United Arab Emirates   Chinese and  Ivy Adair Ciaburri   Hinsdale, Massachusetts   Biology and French 
-Economics  Olivia Emery Clark   Weston, Connecticut   Art and Psychology 
-Kobie Christofer Allen   Haddon Township, New Jersey   Political Science  Sala Robin Clark   Missoula, Montana   Japanese and Political Economy 
-Gabrielle Marie-Maya Amos-Grosser   Hillsborough, California   Psychology  Rachel Monroe Clemens   Chagrin Falls, Ohio   English 
-Patrick Roark Anderson   Palm City, Florida   Economics and Mathematics  Quentin Victor Cohan   New York, New York   English and History 
-Amelia Lynne Archer   Berkeley, California   Computer Science  Dana Elizabeth Cohen   Ridgefield, Connecticut   English and Mathematics 
-Ashley Elaine Arnold   Boxborough, Massachusetts   Psychology and  Garcelle Elimene Coldros   Brooklyn, New York   Psychology 
-Sociology  Hannah Grace Cole   Honeoye Falls, New York   Chemistry 
-Daniel Callahan Aronowitz   Columbus, Ohio   Political Science  Marcus Christian Colella   Gibsonia, Pennsylvania   English and 
-Nini Arshakuni   Tbilisi, Georgia   Philosophy and Psychology  Mathematics 
-Megumi Angela Asada   Westport, Connecticut   Mathematics  Meghan Ann Collins   Terre Haute, Indiana   Comparative Literature 
-Hannah Danielle Atkinson   Toronto, Ontario   Art and French  May Mechem Congdon   Mill Valley, California   Women’s, Gender and 
-Ava Atri   Syosset, New York   Chemistry  Sexuality Studies 
-Eduardo Avalos   Santa Ana, California   Political Science  Ellen Anderson Coombe   Cincinnati, Ohio   Art and Political Science 
-Yoonsang Bae   Seoul, Republic of Korea   Asian Studies, Economics and  Miranda Eve Cooper   Pittsburgh, Pennsylvania   English 
-Mathematics  Sarah Emlyn Cooperman   Westport, Connecticut   Biology 
-Caleb Raphael Baer   Los Angeles, California   Comparative Literature  Gabriel Eduardo Corrochano   Arlington, Virginia   Economics 
-John Charles Bahr-de Stefano   New York, New York   Political Economy  Luke Thomas Costley   Williamstown, Massachusetts   Art 
-Paul Pierre Baird-Smith   Boulogne, France   Computer Science and  Colin Dafydd Francis Cotton   Cincinnati, Ohio   Economics 
-Mathematics  Alyssa Kathleen Crain   Houston, Texas   Chemistry and Mathematics 
-Michelle Catherine Bal   Fox Point, Wisconsin   History  Duncan McIndoe Cummings   Kentfield, California   Statistics 
-Jonathan Albert Ball   Angola, New York   Arabic Studies and Political  Elizabeth Fall Curtis   Boston, Massachusetts   Women’s, Gender and 
-Economy  Sexuality Studies 
-Kathryn Ward Barnitt   Setauket, New York   English and Statistics  Jane Dai   Cranbury, New Jersey   Biology and Psychology 
-Janae Joelle Barrett   Valley Stream, New York   History and Political  Yuanchu Dang   Henan, China   Computer Science and Mathematics 
-Science  Scott Goldberg Daniel   Oak Park, Illinois   Computer Science and Music 
-Robert Nigel Bates   Hopewell, New Jersey   Biology  Pannatorn Daochai   Bangkok, Thailand   Economics 
-55 2 
+Daniel P. Aalberts, Professor of Physics: 1989, B.S., MA Institute of Technology, 1994, Ph.D., MA Institute of Technology 
+Tomas F. Adalsteinsson, Assistant Professor of Physical Education and Head Women's Golf Coach 
+Colin C. Adams, Thomas T. Read Professor of Mathematics: 1978, B.S., MA Institute of Technology, 1983, Ph.D., University of WI, Madison 
+Zaid R. Adhami, Assistant Professor of Religion: 2010, B.A., Stanford University, 2010, M.A., Stanford University 
+Jeannie R Albrecht, Chair and Professor of Computer Science: 2001, B.S., Gettysburg College, 2003, M.S., Duke University, 2007, Ph.D., University of CA, San Diego 
+Laylah Ali, Professor of Art: 1991, B.A., Williams College, 1994, M.F.A., Washington University 
+Baktygul A. Aliev, Assistant Professor of Russian: 2000, B.A., American University of Central Asia, 2007, M.A., McGill University, 2014, Ph.D., McGill University 
+Kristopher D. Allen, Lyell B. Clay Artist in Residence in Jazz Activities/Lecturer in Music, Director of the Jazz Ensemble: 1998, B.M., University of Hartford, 2004, M.M., State University of NY, Purchase 
+Sarah M. Allen, Associate Professor of Comparative Literature: 1992, A.B., Harvard University, 1996, M.A., University of MI, 2003, Ph.D., Harvard University
+Alex A. Apotsos, Lecturer in Geosciences: 1999, B.S., Duke University, 2007, Ph.D., MA Institute of Technology, on leave 2017-2018 
+Michelle M. Apotsos, Assistant Professor of Art: 1999, B.A., University of NC, Chapel Hill, 2006, M.A., Tufts University, 2013, Ph.D., Stanford University, on leave 2017-2018 
+Kevin M. App, Assistant Professor of Physical Education and Head Men's Basketball Coach: 2007, B.S., Cornell University 
+Zakary D. Arctander, Visiting Assistant Professor of Art: 2010, B.F.A., University of IL, 2015, M.F.A., Yale University 
+Henry W. Art, Rosenburg Professor of Environmental Studies and Biology: 1966, B.A., Dartmouth College, 1969, M.Phil., Yale University, 1971, Ph.D., Yale University, on leave Fall 2017 
+Quamrul H. Ashraf, Associate Professor of Economics: 1999, B.A., Trinity College, 2004, M.A., Brown University, 2009, Ph.D., Brown University 
+Duane A. Bailey, Professor of Computer Science: 1982, B.A., Amherst College, 1984, M.S., University of MA, Amherst, 1988, Ph.D., University of MA, Amherst 
+Robert E. Baker-White, Professor of Theatre: 1980, B.A., Williams College, 1983, M.F.A., University of WA, 1990, Ph.D., Stanford University, on leave Fall 2017 
+Jon M. Bakija, Professor of Economics: 1990, B.A., Wesleyan University, 1995, M.A., University of MI, 2000, Ph.D., University of MI 
+Lois M. Banta, Professor of Biology: 1983, B.A., Johns Hopkins University, 1990, Ph.D., CA Institute of Technology, on leave Spring 2018 
+Daniel W. Barowy, Assistant Professor of Computer Science: 2010, B.S., Boston University, 2013, M.S., Boston University, 2017, Ph.D., University of MA, Amherst 
+Alix H. Barrale, Assistant Professor of Physical Education and Head Field Hockey Coach: 1993, B.A., Williams College, 1996, M.S., Smith College 
+William Barrale, Assistant Professor of Physical Education, Head Baseball Coach: 1994, B.S., Northeastern University, 2004, M.A., Rowan University 
+Andrea Barrett, Senior Lecturer in English: 1974, B.S., Union College 
+Ethan M. Barron, Assistant Professor of Physical Education, Head Men's Track & Field Coach: 2001, B.A., Tufts University, 2005, M.Ed., Middlebury College 
+Melissa J. Barry, Chair and Professor of Philosophy: 1988, B.A., Wheaton College, 1998, Ph.D., University of Notre Dame 
+Ronald D. Bassar, Assistant Professor of Biology: 2001, B.A., Prescott College, 2011, Ph.D., University of CA, Riverside 
+Kirsten S. Beck, Visiting Assistant Professor of Arabic Studies: 2006, B.A., Barnard College, 2007, M.A., Columbia University, 2016, Ph.D., University of TX, Austin 
+Leslie E. Beldo Jr., Mellon Postdoctoral Fellow in Environmental Studies: 2003, B.S., Central MI University, 2014, Ph.D., University of Chicago 
+Esther S. Bell, Lecturer in the Graduate Program in Art History, Spring 2018
+Robert H. Bell, Frederick Latimer Wells Professor of English: 1967, B.A., Dartmouth College, 1968, M.A., Harvard University, 1972, Ph.D., Harvard University 
+Gene H. Bell-Villada, Professor of Romance Languages: 1963, B.A., University of AZ, 1967, M.A., University of CA, Berkeley, 1974, Ph.D., Harvard University 
+Henry H. Benedict III, Lecturer in Art: 1973, B.A., Yale University, 1976, M.Arch., Yale University 
+Mary K. Bercaw Edwards, Visiting Associate Professor at Williams-Mystic: 1979, B.A., Northeastern University, 1981, M.A., Northeastern University, 1984, Ph.D., Northeastern University 
+Magnus T. Bernhardsson, Brown Professor of History and Faculty Affiliate in Arabic Studies, Leadership Studies and Religion: 1990, B.A., University of Iceland, 1992, M.A., Yale University, 1999, Ph.D., Yale University, on leave Spring 2018 
+Alexander Bevilacqua, Assistant Professor of History: 2007, B.A., Harvard University, 2010, M.A., Princeton University 
+Maria T. Binnie, Assistant Professor of Art: 2005, B.A., Northwestern University, 2011, M.A., University of TX, Austin 
+Julie C. Blackwood, Assistant Professor of Mathematics: 2010, Ph.D., University of CA, Davis 
+James Abellera Blair, Assistant Professor of Chemistry: 2002, B.A., Carleton College, 2008, Ph.D., University of CA, Berkeley 
+Mary Jennifer Bloxam, Herbert H Lehman Professor of Music: 1979, B.M., University of IL, 1982, M.A., Yale University, 1987, Ph.D., Yale University 
+Thomas P. Blumenauer, Lecturer in Physical Education, Assistant Football Coach: 2007, B.S., Ithaca College, 2012, M.Ed., Saint Lawrence University 
+Christopher A. Bolton, Professor of Comparative and Japanese Literature: 1989, B.A., Harvard University, 1998, Ph.D., Stanford University 
+William D. Bowers, Visiting Lecturer in Theatre, Spring 2018 
+Ralph M. Bradburd, Chair of CES and David A. Wells Professor of Political Economy: 1970, B.A., Columbia College, 1975, M.A., Columbia University, 1976, Ph.D., Columbia University 
+Rashida K. Braggs, Associate Professor of Africana Studies and Faculty Affiliate in Comparative Literature and American Studies: 1998, B.A., Yale University, 2000, M.S., Boston College, 2006, Ph.D., Northwestern University 
+Janis E. Bravo, Instructor in Biology: 1980, B.S., Cornell University, 1990, Ph.D., Rutgers University 
+Victoria J. Brooks, Visiting Lecturer in the Graduate Program in Art History: 2001, B.A., University of Bristol, 2006, M.A., Royal College of Art 
+Deborah A. Brothers, Costume Director and Lecturer in Theatre: 1976, B.F.A., University of New Orleans, 1979, M.F.A., CA Inst of the Arts 
+Nicole G. Brown, Assistant Professor of Classics: 2001, B.A., Mount Holyoke College, 2003, M.A., Princeton University, 2017, Ph.D., Princeton University 
+Denise K. Buell, Cluett Professor of Religion: 1987, B.A., Princeton University, 1990, M.Div., Harvard University, 1995, Ph.D., Harvard University, on leave 2017-2018 
+Sandra L. Burton, Lipp Family Director of Dance and Senior Lecturer in Dance: 1983, B.A., City College of NY, 1987, M.F.A., Bennington College
+Andrew T. Bydlon, Visiting Assistant Professor of Mathematics: 2012, B.S., PA State University, 2017, Ph.D., University of UT 
+Corinna S. Campbell, Assistant Professor of Music: 2003, B.M., Northwestern University, 2005, M.M., Bowling Green State University, 2012, Ph.D., Harvard University, on leave 2017-2018 
+Gerard Caprio Jr., Chair of the Executive Committee for the Center of Development Economics and William Brough Professor of Economics: 1972, B.A., Williams College, 1974, M.A., University of MI, 1976, Ph.D., University of MI 
+Donald R. Carlson, Class of 1946 Visiting Distinguished Professor of Environmental Studies: 1983, B.A., Williams College, 1986, J.D., Harvard University, Fall 2017 
+Anthony J. Carrasquillo, Assistant Professor of Chemistry: 2007, B.A., Bowdoin College, 2015, Ph.D., MA Institute of Technology 
+Matthew E. Carter, Assistant Professor of Biology: 2000, B.A., Whitman College, 2010, Ph.D., Stanford University 
+Alison A. Case, Professor of English: 1984, B.A., Oberlin College, 1988, M.A., Cornell University, 1991, Ph.D., Cornell University, on leave Fall 2017 
+Julie A. Cassiday, Willcox B. and Harriet M. Adsit Professor of Russian: 1986, B.A., Grinnell College, 1990, M.A., Stanford University, 1995, Ph.D., Stanford University, on leave 2017-2018 
+Maria Elena Cepeda, Professor of Latina/o Studies: 1995, B.A., Kenyon College, 1997, M.A., University of MI, 2003, Ph.D., University of MI, on leave Spring 2018
+G. Donald Chandler, George R. Goethals Distinguished Visiting Professor of Leadership Studies: 1972, B.A., Williams College, 1978, M.B.A., Harvard University 
+Cecilia Chang, Professor of Chinese: 1981, B.A., Fu-Jen University, 1987, M.A., University of CA, LA, 2004, Ph.D., University of MA, Amherst 
+Jinhwa Chang, Visiting Lecturer in Japanese: 1994, B.A., Kyungpook National University 
+Matthew C. Chao, Assistant Professor of Economics: 2006, B.A., Dartmouth College, 2015, Ph.D., CA Institute of Technology 
+Jessica M. Chapman, Associate Professor of History: 1999, B.A., Valparaiso University, 2001, M.A., University of CA, Santa Barbara, 2006, Ph.D., University of CA, Santa Barbara, on leave 2017-2018
+C. Ondine L. Chavoya, Professor of Art: 1992, B.A., University of CA, Santa Cruz, 1996, M.A., University of Rochester, 2002, Ph.D., University of Rochester 
+Pei-Wen Chen, Assistant Professor of Biology: 2001, B.S., National YangMing University, 2003, M.S., Albert Einstein College of Medicine, 2008, Ph.D., Albert Einstein College of Medicine 
+Shayok Chowdhury, Arthur Levitt, Jr. '52 Artist-in-Residence: 2007, B.A., Stanford University, 2016, M.F.A., Columbia University 
+Kerry A. Christensen, Garfield Professor of Ancient Languages: 1981, B.A., Swarthmore College, 1983, M.A., Princeton University, 1993, Ph.D., Princeton University 
+Jennifer E. Chuks, Assistant Professor of Physical Education and Assistant Athletic Director/Student Athlete Services: 2006, B.A., University of Hartford, 2009, M.B.A., University of New Haven 
+Allana M. Clarke, Visiting Assistant Professor of Art 
+Jay A. Clarke, Lecturer in the Graduate Program in Art History: 1988, B.A., Holy Cross College, 1991, M.A., Brown University, 1999, Ph.D., Brown University, Spring 2018 
+Cassandra J. Cleghorn, Senior Lecturer in English and American Studies: 1983, B.A., University of CA, Santa Cruz, 1988, M.A., Yale University, 1995, Ph.D., Yale University 
+Phoebe A. Cohen, Assistant Professor of Geosciences: 2002, B.A., Cornell University, 2010, Ph.D., Harvard University, on leave Fall 2017
+Cory H. Colbert, Gaius Charles Bolin Fellow in Mathematics: 2011, B.S., VA Commonwealth University, 2013, M.A., University of TX, Austin 
+Meredith F. Coleman-Tobias, Gaius Charles Bolin Fellow in Religion and Africana Studies: 2006, B.A., Spelman College, 2009, M.Div., Yale Divinity School
+Marguerite A. Conan, Visiting Lecturer in Physical Education and Head Women's Crew Coach, Fall 2017 
+Jeremy D. Cone, Assistant Professor of Psychology: 2012, Ph.D., Cornell University 
+Michael P. Conforti, Lecturer in the Graduate Program in Art History: 1968, B.A., Trinity College, 1973, M.A., Harvard University, 1977, Ph.D., Harvard University 
+José A. Constantine, Assistant Professor of Geosciences: 1999, B.S., College of William and Mary, 2002, M.S., University of CA, Davis, 2008, Ph.D., University of CA, Santa Barbara 
+Mea S. Cook, Associate Professor of Geosciences: 1999, B.A., Princeton University, 2006, Ph.D., MA Institute of Technology 
+Andrew R. Cornell, Visiting Assistant Professor of American Studies: 2000, B.A., University of MI, 2011, Ph.D., NY University 
+Ronadh Cox, Chair and Professor of Geosciences: 1985, B.S., University College Dublin, 1993, Ph.D., Stanford University 
+Stephen P. Cramer, Visiting Professor of Chemistry, Spring 2018 George T. Crane, W. Van Alan Clark '41 Third Century Professor in the Social Sciences: 1979, B.A., State University of NY, Purchase, 1981, M.A., University of WI, Madison, 1986, Ph.D., University of WI, Madison, on leave 2017-2018 
+Marshall K. Creighton, Lecturer in Physical Education and Assistant Strength & Conditioning Coach: 2002, B.A., Williams College 
+Justin E. Crowe, Associate Professor of Political Science: 2003, B.A., Williams College, 2005, M.A., Princeton University, 2007, Ph.D., Princeton University 
+Joseph L. Cruz, Professor of Philosophy: 1991, B.A., Williams College, 1999, Ph.D., University of AZ 
+Annelle M. Curulla, Assistant Professor of French Literature and Language: 1999, B.A., CT College, 2001, M.A., Middlebury College, 2012, Ph.D., Columbia University 
+Erica A. Dankmeyer, Artist-in-Residence in Dance: 1991, B.A., Williams College 
+Andrea Danyluk, Dennis A. Meenan '54 Third Century Professor of Computer Science: 1984, A.B., Vassar College, 1986, M.S., Columbia University, 1992, Ph.D., Columbia University 
+Alan W. De Gooyer, Lecturer in English: 1987, B.A., CO State University, 1991, M.A., University of Denver, 1994, Ph.D., University of VA 
+Richard D. De Veaux, C. Carlisle and Margaret Tippit Professor of Statistics: 1973, A.B., Princeton University, 1980, M.A., Stanford University, 1986, Ph.D., Stanford University, on leave 2017-2018 
+Derek Dean, Lecturer in Biology: 1994, B.A., Oberlin College, 2004, Ph.D., Cornell University 
+Edan Dekel, Chair and Professor of Classics: 1996, B.A., Brown University, 1998, M.A., University of CA, Berkeley, 2005, Ph.D., University of CA, Berkeley 
+John P. Demos, Bennett Boskey Visiting Professor of History Nicole S. Desrosiers, Lecturer in Romance Languages: 1973, M.A., University of MA, Amherst, 1980, Ph.D., University of MA, Amherst
+David P. Dethier, Edward Brust Professor of Geology and Mineralogy: 1972, A.B., Dartmouth College, 1974, M.S., University of WA, 1977, Ph.D., University of WA 
+Charles B. Dew, Ephraim Williams Professor of American History: 1958, B.A., Williams College, 1964, Ph.D., Johns Hopkins University 
+Stephen Charles Doret, Assistant Professor of Physics: 2002, B.A., Williams College, 2006, A.M., Harvard University, 2010, Ph.D., Harvard University, on leave 2017-2018 
+Walfrido Dorta, Visiting Assistant Professor of Spanish: 2010, M.A., University of Santiago de Compostela, 2016, Ph.D., City University of NY 
+Kenneth M. Draper, Visiting Assistant Professor of Classics: 2005, B.A., Northwestern University, 2008, M.A., Indiana University, 2015, Ph.D., Indiana University 
+Georges B. Dreyfus, Jackson Professor of Religion: 1969, B.A., La Chaux-deFonds, 1987, M.A., University of VA, 1991, Ph.D., University of VA 
+Helga Druxes, Chair of German and Russian and Professor of German: 1982, B.A., Westfalische Wilhelms-University, 1985, M.A., Brown University, 1987, Ph.D., Brown University 
+Nina L. Dubin, Robert Sterling Clark Visiting Professor of Art History, Spring 2018 
+Sara L. Dubow, Associate Professor of History: 1991, B.A., Williams College, 1996, M.A., University of MA, Amherst, 2003, Ph.D., Rutgers University, on leave Spring 2018 
+Susan Dunn, Massachusetts Professor of Humanities: 1966, B.A., Smith College, 1973, Ph.D., Harvard University, on leave Spring 2018 
+David B. Edwards, James N. Lambert '39 Professor of Anthropology: 1975, B.A., Princeton University, 1979, M.A., University of MI, 1986, Ph.D., University of MI, on leave Fall 2017 
+Frances C. Edwards, Senior Lecturer in Art: 1975, B.A., Princeton University, 1981, M.A., University of MI, 1990, Ph.D., NY University Institute of Fine Arts 
+Joan Edwards, Chair and Samuel Fessenden Clarke Professor of Biology: 1971, B.A., University of MI, 1972, M.S., University of MI, 1978, Ph.D., University of MI 
+Susan L. Engel, Senior Lecturer in Psychology: 1980, B.A., Sarah Lawrence College, 1985, Ph.D., City University of NY, on leave Fall 2017
+Laura D. Ephraim, Assistant Professor of Political Science: 2000, B.A., Pomona College, 2010, Ph.D., Northwestern University 
+David Eppel, Professor of Theatre: 1971, B.A., University of Cape Town, 1986, M.F.A., Columbia University 
+Amal Eqeiq, Assistant Professor of Comparative Literature: 1997, B.A., Hebrew University-Jerusalem, 2006, M.A., University of OR, 2013, Ph.D., University of WA 
+Kimberly Anne Faler, Visiting Lecturer in Art: 2002, B.F.A., OH Wesleyan University, 2008, M.F.A., Cranbrook Academy of Art, Fall 2017 
+Adam F. Falk, Professor of Physics: 1987, B.S., University of NC, Chapel Hill, 1989, M.A., Harvard University, 1991, Ph.D., Harvard University 
+Peter K. Farwell, Assistant Professor of Physical Education, Head Cross Country Coach, and Assistant Coach Men's and Women's Track: 1973, B.A., Williams College, 1990, M.A., Central MI University 
+Steven Fein, Chair and Professor of Psychology: 1986, A.B., Princeton University, 1991, Ph.D., University of MI 
+Thomas P. Feist, Visiting Instructor in Chemistry: 1985, B.A., Williams College, 1990, Ph.D., University of PA
+Ezra D. Feldman, Visiting Assistant Professor of English: 2002, A.B., Harvard University, 2008, M.F.A., Cornell University, 2017, Ph.D., Cornell University
+Ronald L. Feldman, Artist in Residence in Orchestral and Instrumental Activities/Lecturer in Music, Director of the Berkshire Symphony: 1971, B.M., Boston University 
+Zirka Z. Filipczak, J. Kirk T. Varnedoe '67 Professor of Art: 1964, B.A., Barnard College, 1965, M.A., Harvard University, 1973, Ph.D., Harvard University 
+Jessica M. Fisher, Assistant Professor of English: 1998, B.A., Swarthmore College, 2003, M.A., University of CA, Berkeley, 2009, Ph.D., University of CA, Berkeley, on leave Fall 2017 
+Stephen E. Fix, Robert G Scott '68 Professor of English: 1974, B.A., Boston College, 1977, M.A., Cornell University, 1980, Ph.D., Cornell University, on leave 2017-2018 
+Antonia E. Foias, Chair and Professor of Anthropology: 1987, B.A., Harvard University, 1996, Ph.D., Vanderbilt University 
+VaNatta S. Ford, Assistant Professor of Africana Studies: 2000, B.S., IL State University, 2005, M.Div., Howard University, 2011, Ph.D., Howard University 
+Michael Fortunato, Visiting Professor of Economics: 1976, A.B., Columbia University, 1982, M.A., Harvard University, 1984, Ph.D., Harvard University, Fall 2017 
+Soledad Fox, Professor of Romance Languages: 1990, B.A., Sarah Lawrence College, 1997, M.A., City University of NY, 2001, Ph.D., City University of NY 
+Jennifer L. French, Chair of Romance Languages and Professor of Spanish: 1995, B.A., College of William and Mary, 1997, M.A., Rutgers University, 2001, Ph.D., Rutgers University 
+Stephen N. Freund, Professor of Computer Science: 1995, B.S., Stanford University, 1998, M.S., Stanford University, 2000, Ph.D., Stanford University, on leave 2017-2018 
+Alexandra Garbarini, Professor of History: 1994, B.A., Williams College, 1997, M.A., University of CA, LA, 2003, Ph.D., University of CA, LA, on leave 2017-2018 
+Thomas A. Garrity, Webster Atwell Class of 1921 Professor of Mathematics: 1981, B.S., University of TX, Austin, 1986, Ph.D., Brown University 
+Jackson G. Gay, Visiting Lecturer in Theatre, Spring 2018 William M. Gentry, Professor of Economics: 1986, B.S., MA Institute of Technology, 1991, M.A., Princeton University, 1991, Ph.D., Princeton University 
+Steven B. Gerrard, Professor of Philosophy: 1978, B.A., Amherst College, 1982, M.A., University of Chicago, 1987, Ph.D., University of Chicago 
+Christopher P. Gibson, Stanley Kaplan Visiting Professor of American Foreign Policy: 1986, B.A., Siena College, 1998, Ph.D., Cornell University 
+Matthew D. Gibson, Assistant Professor of Economics: 2005, A.B., Harvard University, 2015, Ph.D., University of CA, San Diego
+Lisa A. Gilbert, Associate Professor of Geosciences and Marine Sciences at Williams-Mystic: 1997, A.B., Dartmouth College, 1999, M.S., University of WA, 2004, Ph.D., University of WA, on leave 2017-2018 
+Meghan K. Gillis, Assistant Professor of Physical Education and Head Coach of Women's Ice Hockey: 2007, B.A., Bowdoin College, 2009, M.S., University of MA, Amherst 
+Catherine Girard, Visiting Assistant Professor of Art: 2003, B.A., University of Montreal, 2006, M.A., University of Montreal, 2014, Ph.D., Harvard University, Fall 2017 
+Michael A. Glier, Alexander Falck Class of 1899 Professor of Art: 1976, B.A., Williams College, 1977, M.A., Hunter College, City University of NY 
+Susan Godlonton, Assistant Professor of Economics: 2003, B.A., University of Cape Town, 2007, M.A., University of Cape Town, 2013, Ph.D., University of MI, on leave 2017-2018 
+Christopher Goh, Associate Professor of Chemistry: 1989, B.S., University of Durham, 1996, Ph.D., Harvard University 
+Sarah L. Goh, Professor of Chemistry: 1996, B.S., University of MI, 1998, M.S., University of MA, Amherst, 2004, Ph.D., University of CA, Berkeley 
+Matthew A. Gold, Artist in Residence in Percussion and Contemporary Music Performance Leo I. Goldmakher, Assistant Professor of Mathematics: 2004, B.A., Princeton University, 2009, Ph.D., University of MI, on leave Fall 2017 
+Barry Goldstein, Visiting Professor of Humanities: 1973, B.S., Union College, 1976, M.S., University of Rochester, 1982, Ph.D., University of Rochester, Fall 2017 
+Edward Gollin, Professor of Music: 1992, B.S., MA Institute of Technology, 1995, M.A., Queens College, 2000, Ph.D., Harvard University 
+Glenn S. Gordinier, Associate Professor at Williams-Mystic: 1969, B.A., West Chester University, 1981, M.A., Lehigh University, 2001, Ph.D., University of CT 
+Marc Gotlieb, Director of the Graduate Program in Art History and Class of 1955 Memorial Professor of Art: 1980, B.A., University of Toronto, 1984, M.A., Johns Hopkins University, 1990, Ph.D., Johns Hopkins University, on leave Fall 2017 
+Kai M. Green, Assistant Professor of Women's, Gender and Sexuality Studies 
+Daniel R. Greenberg, Assistant Professor of Physical Education and Head Coach of Men's Tennis: 2008, B.A., Williams College, 2013, M.Ed., MA College of Liberal Arts 
+David E. Gurcay-Morris, Associate Professor of Theatre: 1996, B.A., Williams College, 2001, M.F.A., University of WA, on leave Fall 2017 
+Kim I. Gutschow, Lecturer in Religion and Anthropology/Sociology: 1988, B.A., Harvard University, 1995, M.A., Harvard University, 1998, Ph.D., Harvard University 
+Catherine R. Hall, Associate Professor at Williams-Mystic: 1985, B.A., University of RI, 1989, J.D., Vermont Law School 
+Amie A. Hane, Associate Professor of Psychology: 1996, B.A., University of MD, 1999, M.A., University of MD, 2002, Ph.D., University of MD 
+Rachel E. Harding, Sterling Brown '22 Visiting Professor of Africana Studies, Spring 2018 Nicole T. Harrington, Visiting Assistant Professor of Psychology: 1987, B.A., Boston College, 1995, Ph.D., University of VT, Spring 2018
+Pamela E. Harris, Assistant Professor of Mathematics: 2005, B.S., Marquette University, 2008, M.S., University of WI, Milwaukee, 2012, Ph.D., University of WI, Milwaukee 
+Ilana Y. Harris-Babou, Visiting Assistant Professor: 2013, B.A., Yale University, 2016, M.F.A., Columbia University 
+Kathryn M. Hart, Assistant Professor of Chemistry: 2004, B.S., Haverford College, 2013, Ph.D., University of CA, Berkeley 
+Mamoru Hatakeyama, Visiting Lecturer in Japanese: 1995, B.A., Waseda University, 2000, M.A., University of WI, Madison, 2015, Ph.D., Carnegie Mellon University 
+Brynn M. Hatton, Visiting Assistant Professor of Art: 2003, B.A., University of CA, Berkeley, 2012, M.A., Northwestern University, 2016, Ph.D., Northwestern University 
+Man He, Assistant Professor of Chinese: 2000, B.A., Renmin University, 2009, M.A., Ohio State University, 2015, Ph.D., Ohio State University 
+Laurie Heatherington, Edward Dorr Griffin Professor of Psychology: 1976, B.A., Miami University, 1981, Ph.D., University of CT 
+Guy M. Hedreen, Amos Lawrence Professor of Art: 1981, B.A., Pomona College, 1983, M.A., Bryn Mawr College, 1988, Ph.D., Bryn Mawr College, on leave 2017-2018 
+Brent A. Heeringa, Associate Professor of Computer Science: 1999, B.A., University of MN, 2002, M.S., University of MA, Amherst, 2006, Ph.D., University of MA, Amherst, on leave 2017-2018 
+Brianna C. Heggeseth, Assistant Professor of Statistics: 2008, B.A., Saint Olaf College, 2013, Ph.D., University of CA, Berkeley 
+Peter S. Heller, Visiting Professor of Economics: 1967, B.A., Trinity College, 1972, Ph.D., Harvard University, Spring 2018 
+Kristin M. Herman, Assistant Professor of Physical Education, Head Softball Coach: 1986, B.A., Tufts University, 1989, M.A., Tufts University 
+Christopher P. Heuer, Lecturer in the Graduate Program in Art History: 1994, A.B., Bowdoin College, 1997, A.M., University of Southern CA, 2003, Ph.D., University of CA, Berkeley, Fall 2017 
+Jacqueline Hidalgo, Associate Professor of Latina/o Studies and Religion: 2000, B.A., Columbia University, 2003, M.A., Union Theological Seminary, 2010, Ph.D., Claremont Graduate University 
+Chad M. Higdon-Topaz, Professor of Mathematics: 1996, A.B., Harvard University, 1997, M.S., Northwestern University, 2002, Ph.D., Northwestern University 
+Joshua D. Hillman, Lecturer in Physical Education and Head Men's Golf Coach: 2000, B.A., University of RI 
+Alan Hirsch, Lecturer in Humanities: 1981, B.A., Amherst College, 1985, J.D., Yale University 
+Marjorie W. Hirsch, Chair and Professor of Music: 1982, B.A., Yale University, 1985, M.Phil., Yale University, 1989, Ph.D., Yale University 
+Nathan D. Hoey, Assistant Professor of Physical Education, Head Women's Track & Field Coach: 2000, B.S., Slippery Rock University 
+Amy S. Holzapfel, Chair and Associate Professor of Theatre: 1996, B.A., Brown University, 2001, M.F.A., Yale School of Drama, 2006, D.F.A., Yale School of Drama 
+Kiaran Honderich, Lecturer in Women's, Gender and Sexuality Studies: 1983, B.A., Oxford University, 1984, M.A., Columbia University, 1991, Ph.D., University of MA, Amherst 
+Scott D. Honecker, Assistant Professor of Physical Education and Head Coach of Wrestling: 2010, B.S., East Carolina University 
+Catherine N. Howe, Lecturer in Art: 1997, B.A., Barnard College, 2005, M.A., University of CA, Santa Barbara, 2012, Ph.D., University of CA, Santa Barbara 
+Nicolas C. Howe, Associate Professor of Environmental Studies and Faculty Affiliate in Anthropology and Sociology: 1998, B.A., Columbia University, 2003, M.A., University of CA, LA, 2009, Ph.D., University of CA, LA 
+Iris K. Howley, Assistant Professor of Computer Science: 2008, B.S., Drexel University, 2012, Ph.D., Carnegie Mellon University 
+Vivian L. Huang, Assistant Professor of Women's, Gender, and Sexuality Studies: 2008, B.A., University of CA, Berkeley, 2009, M.A., NY University 
+Jeffrey I. Israel, Assistant Professor of Religion: 1999, B.A., Oberlin College, 2001, M.A., University of Chicago, 2011, Ph.D., University of Chicago 
+Vladimir V. Ivantsov, Visiting Assistant Professor of Russian: 2014, Ph.D., McGill University
+G. Robert Jackall, Willmott Family Third Century Professor Sociology & Public Affairs: 1963, B.A., Fordham University, 1964, Ph.L, Woodstock College, St. Ignatius, 1976, Ph.D., New School for Social Research 
+Charles F. Jackson, Visiting Lecturer in Art: 1984, B.F.A., VA Commonwealth University, 1990, M.F.A., University of CA, Davis, Spring 2018 
+Sarah A. Jacobson, Associate Professor of Economics: 1998, B.S., Harvey Mudd College, 2005, M.A., GA State University, 2010, Ph.D., GA State University, on leave Spring 2018 
+Joy A. James, Francis Christopher Oakley Third Century Professor of Humanities: 1980, B.A., Saint Mary's University, 1982, M.A., Fordham University, 1987, Ph.D., Fordham University 
+Ju-Yu Scarlett Jang, Professor of Art: 1969, B.A., National Cheng-Chih University, 1984, M.A., University of CA, Berkeley, 1989, Ph.D., University of CA, Berkeley 
+William K. Jannen, Assistant Professor of Computer Science: 2009, B.A., Williams College 
+Katharine E. Jensen, Assistant Professor of Physics: 2004, A.B., Princeton University, 2013, Ph.D., Harvard University 
+Cathy M. Johnson, James Phinney Baxter III Professor of Political Science: 1979, B.A., Dartmouth College, 1986, Ph.D., University of MI
+S. Elizabeth Johnson, Professor of Art: 1992, B.A., Williams College, 1995, M.F.A., University of CA, San Diego, , on leave 2017-2018 
+Stewart D. Johnson, Professor of Mathematics: 1979, B.A., Fort Lewis College, 1985, Ph.D., Stanford University 
+Walter A. Johnston, Visiting Assistant Professor of English: 2002, B.A., Bard College, 2007, M.A., Princeton University, 2012, Ph.D., Princeton University 
+Kevin M. Jones, William Edward McElfresh Professor of Physics: 1977, B.A., Williams College, 1983, Ph.D., Stanford University 
+Kelly M. Josephs, Sterling Brown '22 Visiting Professor of Africana Studies: 1998, B.A., University of Miami, 2001, M.A., FL International University, 2006, Ph.D., Rutgers University 
+Peter Just, Professor of Anthropology: 1972, B.A., University of Chicago, 1979, M.A., University of PA, 1986, Ph.D., University of PA 
+Shinko Kagaya, Professor of Japanese: 1989, B.A., Aoyama Gakuin University, 1991, M.A., Ohio State University, 1999, Ph.D., Ohio State University 
+William R. Kangas, Assistant Professor of Physical Education and Head Men's Ice Hockey Coach: 1982, B.A., University of VT, 1994, M.Ed., MA College of Liberal Arts, , on leave 2017-2018 
+Aparna Kapadia, Assistant Professor of History: 1998, B.A., St Xavier's College, Mumbai University, 2005, M.Phil., Jawaharlal Nehru University, 2010, Ph.D., University of London, on leave Fall 2017 
+Lawrence J. Kaplan, Halford R. Clark Professor of Natural Sciences: 1964, B.S., University of Pittsburgh, 1970, Ph.D., Purdue University Paul M. Karabinos, 
+Paul M. Karabinos, Charles L. MacMillan Professor in Natural Sciences: 1975, B.S., University of CT, 1981, Ph.D., Johns Hopkins University 
+Georgios Karamalegkos, Visiting Lecturer in Theatre, Fall 2017 
+Catherine M. Kealhofer, Assistant Professor of Physics: 2003, A.B., Princeton University, 2013, Ph.D., Stanford University
+Christiann L. Kelsey, Assistant Professor of Physical Education and Head Women's Volleyball Coach: 2000, B.S., Purdue University, 2012, M.S., Northeastern University 
+Kathryn R. Kent, Chair and Professor of English: 1988, B.A., Williams College, 1993, M.A., Duke University, 1996, Ph.D., Duke University 
+Elizabeth A. Kieffer, Lecturer in German: 1977, B.A., Rutgers University 
+Anthony Kim, Visiting Assistant Professor of American Studies 
+Jeremy R. King, Sorkin Visiting Professor of History: 1985, B.A., Yale University, 1998, Ph.D., Columbia University, Spring 2018 
+Karen L. King, Croghan Bicentennial Professor in Biblical and Early Christian Studies, Fall 2017 
+Kris N. Kirby, Professor of Psychology: 1985, B.A., Marshall University, 1991, Ph.D., Harvard University 
+Roger A. Kittleson, Professor of History: 1985, B.A., Northwestern University, 1990, M.A., University of WI, Madison, 1997, Ph.D., University of WI, Madison 
+John E. Kleiner, Professor of English: 1983, B.A., Amherst College, 1988, M.A., Stanford University, 1991, Ph.D., Stanford University 
+Bernhard Klingenberg, Professor of Statistics: 1996, B.A., Technical University, 1998, M.S., Technical University, 2004, Ph.D., University of FL
+Eric C. Knibbs, Assistant Professor of History and Faculty Affiliate in Religion: 2004, B.A., University of PA, 2009, Ph.D., Yale University 
+Pia M. Kohler, Assistant Professor of Environmental Studies: 1998, B.S., McGill University, 2001, M.E.S., Yale School of Forestry & Environmental Studies, 2006, Ph.D., MA Institute of Technology 
+Thomas A. Kohut, Chair & Sue and Edgar Wachenheim III Professor of History: 1972, B.A., Oberlin College, 1975, M.A., University of MN, 1983, Ph.D., University of MN 
+Anjuli F. Kolb, Assistant Professor of English: 2003, B.A., Columbia University, 2008, M.Phil., Columbia University, 2013, Ph.D., Columbia University, on leave Fall 2017 
+Elizabeth R. Kolbert, Class of 1946 Environmental Fellow-in-Residence: 1983, B.A., Yale University 
+Christophe A. Koné, Assistant Professor of German: 2006, M.A., Université Lumière Lyon 2, 2013, Ph.D., Rutgers University 
+Nathan Kornell, Associate Professor of Psychology: 1996, B.A., Reed College, 2001, M.A., Columbia University, 2005, Ph.D., Columbia University
+Cornelius C. Kubler, Stanfield Professor of Asian Studies: 1972, B.A., Cornell University, 1978, M.A., National Taiwan University, 1981, Ph.D., Cornell University 
+Joanna Kurkowicz, Lyell B. Clay Artist in Residence, Violin and Concertmaster, Berkshire Symphony: 1994, M.M., University of MA, Amherst 
+Steven J. Kuster, Assistant Professor of Physical Education and Head Swim Coach: 1993, B.A., University of PA, 1999, M.Ed., Harvard University 
+Kenneth N. Kuttner, Chair Robert F. White Class of 1952 Professor of Economics: 1982, B.A., University of CA, Berkeley, 1989, Ph.D., Harvard University 
+Karen B. Kwitter, Chair and Ebenezer Fitch Professor of Astronomy: 1972, B.A., Wellesley College, 1974, M.A., University of CA, LA, 1979, Ph.D., University of CA, LA 
+Sara LaLumia, Associate Professor of Economics: 2000, B.A., Youngstown State University, 2006, Ph.D., University of MI 
+Edwin I. Lawrence, Artist Associate in Harpsichord, Piano and Organ and Lecturer in Music: 1969, B.M., State University of NY, Fredonia 
+Tim J. Lebestky, Associate Professor of Biology: 1995, B.S., University of KS, 2002, Ph.D., University of CA, LA 
+Alice Lee, Assistant Professor of Physical Education and Head Women's Lacrosse Coach: 2009, B.S., Central CT State University, 2015, M.S., University of MA, Amherst 
+Joel G. Lee, Assistant Professor of Anthropology: 1998, B.A., Kenyon College, 2008, M.A., Columbia University, 2015, Ph.D., Columbia University 
+Jason R. Lemieux, Assistant Professor of Physical Education and Head Nordic Ski Coach: 2001, B.A., Williams College 
+William J. Lenhart, A. Barton Hepburn Professor of Computer Science: 1977, B.S., Saint Josephs College, 1979, M.A., Dartmouth College, 1983, Ph.D., Dartmouth College 
+Kelsey Levine, Assistant Professor of Physical Education and Head Alpine Ski Coach: 2010, B.A., Williams College 
+Chad M. Levinson, Stanley Kaplan Visiting Postdoctoral Fellow in the Department of Political Science and Leadership Studies Program: 2017, Ph.D., University of Chicago 
+Zafrir Levy, Assistant Professor of Physical Education and Head Squash Coach: 2001, B.A., Williams College 
+Michael J. Lewis, Faison-Pierson-Stoddard Professor of Art History: 1980, B.A., Haverford College, 1989, Ph.D., University of PA 
+Scott A. Lewis, Assistant Professor of Physical Education and Director of Outing Club: 1980, B.S., Stanford, 1985, M.Ed., Stanford 
+John K. Limon, John J Gibson Professor of English: 1974, B.A., Harvard University, 1981, Ph.D., University of CA, Berkeley, on leave 2017-2018 
+Haydee M. A. Lindo, Assistant Professor of Mathematics: 2008, B.A., Williams College, 2012, M.S., University of NE, Lincoln, 2016, Ph.D., University of UT 
+Robert A. Livingstone, Lecturer in Physical Education, Head Strength and Conditioning Coach: 2000, B.S., Jacksonville State University, 2001, M.S., Jacksonville State University 
+David W. Loehlin, Assistant Professor of Biology: 2003, A.B., University of Chicago, 2011, Ph.D., University of Rochester 
+Susan R. Loepp, Chair and Professor of Mathematics: 1989, B.S., Bethel College, 1994, Ph.D., University of TX, Austin 
+Margaret G. Long, Professor of History and Director of the Williams-Exeter Programme at Oxford University: 1989, B.A., Wesleyan University, 1994, M.A., University of Chicago, 2003, Ph.D., University of Chicago 
+David A. Love, Professor of Economics: 1996, B.A., University of MI, 1998, M.A., Yale University, 2003, Ph.D., Yale University 
+Heather K. Love, Margaret Bundy Scott Professor of English, Spring 2018 
+Kimberly S. Love, Assistant Professor of English: 2010, B.A., Tuskegee University, 2017, Ph.D., University of VA 
+Charles M. Lovett Jr., Philip and Dorothy Schein Professor of Chemistry: 1979, B.S., CA State Polytech University, 1980, M.S., CA State Polytech University, 1985, Ph.D., Cornell University 
+Peter D. Low, Chair and Professor of Art: 1994, B.A., University of Toronto, 1995, M.A., Johns Hopkins University, 2001, Ph.D., Johns Hopkins University 
+Natalie E. Lozinski-Veach, Visiting Assistant Professor of German, Spring 2018 
+Daniel V. Lynch, Professor of Biology: 1979, B.S., University of MA, Lowell, 1983, Ph.D., University of TX, Austin, on leave Spring 2018 
+Michael D. MacDonald, Frederick L. Schuman Professor of International Relations: 1972, B.A., University of CA, Berkeley, 1974, M.A., University of CA, Berkeley, 1983, Ph.D., University of CA, Berkeley 
+Jennifer L. MacIntire, Lecturer in Biology and Chemistry: 1992, B.A., University of VT 
+James E. Mahon Jr., Woodrow Wilson Professor of Political Science: 1977, B.A., Dartmouth College, 1983, M.A., University of CA, Berkeley, 1989, Ph.D., University of CA, Berkeley 
+Protik K. Majumder, Barclay Jermain Professor of Natural Philosophy: 1982, B.S., Yale University, 1989, Ph.D., Harvard University 
+Shervin Malekzadeh, Visiting Assistant Professor of Political Science: 1996, A.B., Stanford University, 2006, M.A., Georgetown University 
+Katherine S. Maloney, Assistant Professor of Physical Education and Head Coach of Women's Crew: 2001, B.A., University of WA, on leave Fall 2017 
+Nicole W. Maloof, Visiting Assistant Professor of Art: 2006, B.F.A., Boston University, 2015, M.F.A., Columbia University 
+James A. Manigault-Bryant, Associate Professor of Africana Studies: 1995, B.A., Tulane University, 2002, Ph.D., Brown University 
+LeRhonda S. Manigault-Bryant, Associate Professor of Africana Studies and Faculty Affiliate in Religion: 1999, A.B., Duke University, 2002, M.Div., Emory University, 2007, Ph.D., Emory University 
+Patricia M. Manning, Assistant Professor of Physical Education and Head Women's Basketball Coach: 1977, B.S., State University of NY, Cortland, 1988, M.S., Smith College 
+Thabane V. Maphai, Class of 1955 Visiting Professor of International Studies: 1976, B.Phil., Université catholique de Louvain, 1978, M.A., Université catholique de Louvain, 1991, Ph.D., University of Natal 
+George E. Marcus, Professor of Political Science: 1964, B.A., Columbia University, 1965, M.A., Northwestern University, 1968, Ph.D., Northwestern University, on leave 2017-2018 
+Luana S. Maroja, Associate Professor of Biology: 1999, B.S., Universidade Federal do Rio de Janeiro, 2001, M.S., Universidade Federal do Rio de Janeiro, 2008, Ph.D., Cornell University 
+Brian Martin, Professor of French & Comparative Literature: 1993, A.B., Harvard University, 1999, M.A., Harvard University, 2003, Ph.D., Harvard University 
+Laura J. Martin, Assistant Professor of Environmental Studies: 2006, S.B., Brown University, 2010, M.S., Cornell University, 2015, Ph.D., Cornell University 
+Martha J. Marvin, Lecturer in Neuroscience: 1984, B.A., University of CA, Berkeley, 1995, Ph.D., MA Institute of Technology 
+Aleksandar Matovski, Mellon Postdoctoral Fellow in Political Science 
+James McAllister, Chair and Fred Greene Third Century Professor of Political Science: 1986, B.A., State University of NY, Buffalo, 1989, M.A., Columbia University, 1999, Ph.D., Columbia University 
+George M. McCormack, Assistant Professor of Physical Education, Head Men's Lacrosse Coach: 1987, B.S., Ithaca College, 2007, M.Ed., Boston University 
+Mark T. McDonough, Lecturer in Physical Education, Assistant Football Coach: 2002, B.S., Ithaca College 
+Elizabeth P. McGowan, Professor of Art: 1979, B.A., Princeton University, 1981, M.A., NY University Inst of Fine Arts, 1983, Ph.D., NY University Inst of Fine Arts, on leave 2017-2018 
+Morgan S. McGuire, Associate Professor of Computer Science: 2000, B.S., MA Institute of Technology, 2003, M.S., Brown University, 2006, Ph.D., Brown University, on leave 2017-2018 
+Keith E. McPartland, Associate Professor of Philosophy: 1994, B.A., Rutgers University, 1998, M.A., Cornell University, 2007, Ph.D., Cornell University, on leave 2017-2018 
+Gage C. McWeeny, Professor of English: 1993, B.A., Columbia University, 1998, M.A., Princeton University, 2003, Ph.D., Princeton University 
+Lisa M. Melendy, Chair, Director of Athletics and Assistant Professor in Physical Education: 1982, A.B., Smith College, 1985, M.S., University of MA, Amherst 
+Nicole E. Mellow, Professor of Political Science: 1992, B.A., Vassar College, 2003, Ph.D., University of TX, Austin, on leave Spring 2018 
+Karen R. Merrill, Frederick Rudolph '42 - Class of 1965 Professor of American Culture: 1986, B.A., Oberlin College, 1988, M.A., University of Denver, 1994, Ph.D., University of MI, on leave Fall 2017 
+Olivier Meslay, Lecturer in the Graduate Program in Art History 
+Brian E. Messier, Artist in Residence in Winds and Director of the Wind Ensemble: 2003, B.M., Ithaca College, 2011, M.M., University of MA, Amherst, 2014, D.M., University of MN 
+Carolyn D. Miles, Assistant Professor of Physical Education and Associate Director/Student Athlete Services: 1998, B.S., University of NH, 2008, M.S., Columbia University 
+Steven J. Miller, Associate Professor of Mathematics: 1996, B.S., Yale University, 1998, M.A., Princeton University, 2002, Ph.D., Princeton University 
+Marion S. Min-Barron, Visiting Assistant Professor 
+Gregory C. Mitchell, Assistant Professor of Women's, Gender and Sexuality Studies and Faculty Affiliate in Anthropology/Sociology: 2000, B.S., IL State University, 2007, M.A., University of Chicago, 2012, Ph.D., Northwestern University 
+Bojana Mladenovic, Professor of Philosophy: 1984, B.A., University of Belgrade, 1987, M.A., McGill University, 1996, Ph.D., University of CA, Berkeley, on leave 2017-2018 
+Mariko Moher, Assistant Professor of Psychology: 2005, B.A., Yale University, 2007, M.A., Johns Hopkins University, 2011, Ph.D., Johns Hopkins University, on leave 2017-2018 
+Michele Monserrati, Visiting Assistant Professor of Comparative Literature and Romance Languages: 2009, M.A., Rutgers University, 2012, Ph.D., Rutgers University 
+Michael Monti, Visiting Assistant Professor of Physical Education and Head Men's Ice Hockey Coach: 2009, B.A., Western New England College, 2012, M.B.A., Western New England College 
+Peter J. Montiel, Fairleigh S. Dickinson, Jr. '41 Professor of Economics: 1973, B.A., Yale University, 1973, Ph.D., MA Institute of Technology 
+Manuel A. Morales, Professor of Biology: 1994, A.B., Kenyon College, 1999, Ph.D., University of CT 
+Ralph E. Morrison, Assistant Professor of Mathematics: 2010, B.A., Williams College, 2015, Ph.D., University of CA, Berkeley 
+Ngonidzashe Munemo, Associate Professor of Political Science: 2000, B.A., Bard College, 2001, M.A., Columbia University, 2008, Ph.D., Columbia University 
+Tendai Muparutsa, Artist in Residence in African Music Performance, Lecturer in Music, Director of Zambezi, Co-Director of Kusika: 2012, Ph.D., University of Alberta 
+Peter T. Murphy, John Hawley Roberts Professor of English: 1981, B.A., Yale University, 1986, Ph.D., Johns Hopkins University 
+Thomas P. Murtagh, Professor of Computer Science: 1974, A.B., Princeton University, 1976, M.S., Cornell University, 1983, Ph.D., Cornell University 
+Kenda B. Mutongi, Professor of History: 1989, B.A., Coe College, 1993, M.A., University of VA, 1996, Ph.D., University of VA, on leave 2017-2018 
+Steven E. Nafziger, Associate Professor of Economics: 2000, B.A., Northwestern University, 2003, M.Phil., Yale University, 2006, Ph.D., Yale University 
+Lama Nassif, Assistant Professor of Comparative Literature: 1994, B.A., Damascus University, 2007, M.A., Middlebury Institute of International Studies at Monterey, 2014, Ph.D., University of TX, Austin 
+Gail M. Newman, Director of Arabic Studies and Harold J. Henry Professor of German: 1976, B.A., Northwestern University, 1981, M.A., University of MN, 1984, Ph.D., University of MN, on leave Spring 2018 
+Wairimu R. Njoya, Assistant Professor of Political Science: 2002, B.A., Macalester College, 2004, M.A., University of Amsterdam, 2010, Ph.D., Rutgers University, on leave Fall 2017 
+James L. Nolan Jr., Washington Gladden 1859 Professor of Sociology: 1984, B.A., University of CA, Davis, 1992, M.A., University of VA, 1995, Ph.D., University of VA
+Daniel J. Norton, Visiting Assistant Professor of Psychology: 2005, B.A., Gordon College, 2011, M.A., Boston University, 2015, Ph.D., Boston University 
+Christopher M. B. Nugent, Professor of Chinese: 1991, B.A., Brown University, 2004, Ph.D., Harvard University 
+Carol J. Ockman, Robert Sterling Clark Professor of Art: 1972, B.A., Stanford University, 1975, M.A., Yale University, 1982, Ph.D., Yale University 
+William W. Olney, Associate Professor of Economics: 2002, B.A., Wesleyan University, 2010, Ph.D., University of CO, on leave Spring 2018 
+Brooke Suzanne Olson Blair, Instructor in Chemistry: 2003, B.A., University of Saint Thomas, Houston, 2005, M.S., University of CA, Berkeley, on leave Fall 2017 
+Ianna Hawkins Owen, Assistant Professor of English: 2008, B.A., City University of NY, 2010, M.A., University of CA, Berkeley, 2016, Ph.D., University of CA, Berkeley 
+Allison M. Pacelli, Professor of Mathematics: 1997, B.S., Union College, 2003, Ph.D., Brown University, on leave Spring 2018 
+Joon Suk Park, Visiting Assistant Professor of Computer Science: 2009, B.A., University of CA, San Diego, 2016, Ph.D., Cornell University 
+Lee Y. Park, William R. Kenan, Jr. Professor of Chemistry: 1986, B.A., Wellesley College, 1992, Ph.D., MA Institute of Technology 
+Paul C. Park, Senior Lecturer in English: 1975, B.A., Hampshire College 
+Janine M. Parker, Artist-in-Residence in Dance 
+Jay M. Pasachoff, Field Memorial Professor of Astronomy: 1963, A.B., Harvard University, 1965, A.M., Harvard University, 1969, Ph.D., Harvard University 
+Darel E. Paul, Professor of Political Science: 1990, B.A., University of MN, 1994, M.A., George Washington University, 2000, Ph.D., University of MN 
+Enrique Peacock-López, Professor of Chemistry: 1974, B.S., University Nac Autonoma, 1976, M.S., University of CA, Riverside, 1982, Ph.D., University of CA, San Diego, on leave Spring 2018 
+Lori A. Pedersen, Lecturer in Mathematics: 1982, B.A., College of Wooster, 1985, M.A., Brown University 
+Julia A. Pedroni, Lecturer in Philosophy: 1986, B.A., Wells College, 1999, Ph.D., Georgetown University 
+Peter L. Pedroni, Professor of Economics: 1986, B.A., Miami University, 1993, M.A., Columbia University, 1993, Ph.D., Columbia University 
+Ileana Perez Velazquez, Professor of Music: 1989, B.M., Higher Inst of Arts, 1995, M.A., Dartmouth College, 1999, D.M.A., IN University, on leave Spring 2018 
+Sebastian Perez, Gaius Charles Bolin Fellow in Latina/o Studies: 2010, B.A., Yale University, 2016, M.Phil., Yale University 
+James L. Pethica, Senior Lecturer in English and Theatre: 1980, B.A., Oxford University, 1987, Ph.D., Oxford University 
+Gregory B. Phelan, Assistant Professor of Economics: 2007, B.A., Yale University, 2012, M.Phil., Yale University, 2014, Ph.D., Yale University, on leave 2017-2018 
+Lauren E. Philbrook, Visiting Assistant Professor of Psychology: 2009, B.A., Williams College, 2012, M.S., PA State University, 2015, Ph.D., PA State University
+Katarzyna M. Pieprzak, Professor of Francophone Literature, French Language, and Comparative Literature: 1995, B.A., Rice University, 1998, M.A., University of MI, 2001, Ph.D., University of MI 
+Peter C. Pihos, Visiting Assistant Professor of History: 1999, B.A., Harvard University, 2015, Ph.D., University of PA 
+Michelyne J. Pinard, Assistant Professor of Physical Education and Head Women's Soccer Coach: 1998, B.A., Dartmouth College, 2002, M.S., University of PA
+Amy D. Podmore, Professor of Art: 1982, B.S., State University of NY, Buffalo, 1987, M.F.A., University of CA, Davis, on leave Fall 2017 
+Sarah E. Politz, Visiting Assistant Professor of Ethnomusicology: 2007, B.M., Oberlin College, 2011, M.A., Wesleyan University, 2017, Ph.D., Harvard University 
+Kailani Polzak, C3 Mellon Postdoctoral Fellow in Art History: 2007, B.A., University of CA, Santa Cruz, 2012, Ph.D., University of CA, Berkeley 
+Daniel E. Prindle, Visiting Instructor in Music: 2003, B.M., Berklee College of Music, 2011, M.M., University of MA, Amherst 
+Timothy J. Pusack, Assistant Professor at Williams-Mystic: 2005, B.A.,Colgate University, 2013, Ph.D., OR State University 
+Christopher L. Pye, Class of 1924 Professor of English: 1975, B.A., Oberlin College, 1977, M.A., University College, 1984, Ph.D., Cornell University 
+Lawrence E. Raab, Harry C. Payne Professor of Poetry: 1968, B.A., Middlebury College, 1972, M.A., Syracuse University 
+Faiz J. Ragep, Richmond Visiting Professor of Arabic Studies, Fall 2017 
+Ashok S. Rai, Associate Professor of Economics: 1992, B.A., Stanford University, 1997, Ph.D., University of Chicago 
+Neal J. Rappaport, Visiting Assistant Professor of Economics: 1994, Ph.D., MA Institute of Technology 
+Mark R. Raymond, Assistant Professor of Physical Education and Head Coach of Football Anne Reinhardt, Associate Professor of History: 1990, B.A., Harvard University, 1994, M.A., University of CA, Berkeley, 2002, Ph.D., Princeton University
+Mark T. Reinhardt, Class of 1956 Professor of American Civilization: 1983, B.A., Wesleyan University, 1991, Ph.D., University of CA, Santa Cruz 
+Bernard J. Rhie, Associate Professor of English: 1997, B.A., University of CA, Berkeley, 2001, M.A., University of PA, 2005, Ph.D., University of PA 
+David P. Richardson, William R. Kenan, Jr. Professor of Chemistry: 1979, B.S., University of MI, 1984, Ph.D., University of CA, Berkeley 
+Kathryn L. Ringer-Hilfinger, Visiting Assistant Professor of Spanish: 2003, B.A., State University of NY, Geneseo, 2004, M.A., Middlebury College, 2013, Ph.D., State University of NY, Albany, on leave Fall 2017 
+Mary L. Roberts, Robert Sterling Clark Visiting Professor of Art History: 1987, B.A., University of Sydney, 1995, Ph.D., University of Melbourne, Fall 2017 
+Neil Roberts, Associate Professor of Africana Studies and Faculty Affiliate in Political Science: 1998, B.A., Brown University, 2003, M.A., University of Chicago, 2007, Ph.D., University of Chicago 
+Tyler J. Rogers, Gaius Charles Bolin Fellow in American Studies: 2012, B.A., Brown University, 2015, M.Phil., Yale University 
+Nelly A. Rosario, W. Ford Schumann Visiting Professor in Democratic Studies: 1994, S.B., MA Inst of Tech, 1998, M.F.A., Columbia University 
+Emmelyn B. Rosen, Postdoctoral Research Fellow in the Graduate Program in Art History: 2006, B.A., Columbia University, 2009, M.A., Princeton University, 2015, Ph.D., Princeton University 
+Shawn J. Rosenheim, Professor of English: 1985, B.A., Oberlin College, 1988, M.A., Yale University, 1993, Ph.D., Yale University, on leave 2017-2018 
+Leyla Rouhi, Preston S. Parish '41 Third Century Professor of Romance Languages: 1987, B.A., Oxford University, 1988, M.A., Harvard University, 1995, Ph.D., Harvard University, on leave 2017-2018 
+Mérida M. Rúa, Professor of Latina/o and American Studies: 1993, B.A., University of IL, 1995, M.Ed., University of IL, 2004, Ph.D., University of MI 
+Sophie F. Saint-Just, Assistant Professor of French and Francophone Studies: 1991, B.A., University of Paris VIII, 2004, M.Phil., City University of NY, 2013, Ph.D., City University of NY 
+Michael Samson, Senior Lecturer in Economics: 1983, B.A., Yale University, 1994, Ph.D., Stanford University 
+Marlene J. Sandstrom, Hales Professor of Psychology: 1991, B.A., Yale University, 1993, M.A., Duke University, 1996, Ph.D., Duke University
+Noah J. Sandstrom, Professor of Psychology: 1994, B.A., Knox College, 1997, M.A., Duke University, 1999, Ph.D., Duke University 
+Omar A. Sangare, Associate Professor of Theatre: 1993, M.F.A., The Theatre Academy, 2006, Ph.D., The Theatre Academy, on leave 2017-2018 
+Robert M. Savage, Professor of Biology: 1987, B.A., Bowdoin College, 1993, Ph.D., Wesleyan University 
+Kenneth K. Savitsky, Professor of Psychology: 1993, B.A., IN University, 1997, Ph.D., Cornell University 
+Jana L. Sawicki, Morris Professor of Rhetoric: 1974, B.A., Sweet Briar College, 1978, M.A., Columbia University, 1983, Ph.D., Columbia University
+Lucille G. Schmidt, Professor of Economics: 1993, A.B., Smith College, 1997, M.A., University of MI, 2003, Ph.D., University of MI 
+Rachel P. Scudder, Visiting Assistant Professor of Oceanography: 2006, B.A., University of NH, 2009, M.A., Boston University, 2015, Ph.D., Boston University 
+Justin B. Shaddock, Assistant Professor of Philosophy: 2004, B.A., University of Notre Dame, 2011, Ph.D., University of Chicago
+Cheryl L. Shanks, Professor of Political Science: 1983, B.A., University of CA, Santa Cruz, 1988, M.A., University of MI, 1994, Ph.D., University of MI 
+James R. Shepard, J. Leland Miller Professor of American History, Literature, and Eloquence: 1978, B.A., Trinity College, 1980, M.F.A., Brown University 
+Karen L. Shepard, Senior Lecturer in English: 1987, B.A., Williams College, 1992, M.F.A., University of Houston 
+Stephen C. Sheppard, Class of 2012 Professor of Economics: 1977, B.S., University of UT, 1979, M.A., Washington University, 1984, Ph.D., Washington University 
+W. Anthony Sheppard, Professor of Music: 1991, B.A., Amherst College, 1993, M.F.A., Princeton University, 1996, Ph.D., Princeton University 
+Olga Shevchenko, Professor of Sociology: 1996, B.A., Moscow State University, 1997, M.A., Central European University, 2002, Ph.D., University of PA 
+Grant W. Shoffstall, Visiting Assistant Professor of Sociology: 2002, B.A., IL State University, 2006, M.A., IL State University, 2014, Ph.D., University of IL 
+Lara D. Shore-Sheppard, Kimberly A. '96 and Robert R. '62 Henry Professor of Economics: 1991, B.A., Amherst College, 1993, M.A., Princeton University, 1996, Ph.D., Princeton University 
+Cesar E. Silva, Hagey Family Professor of Mathematics: 1977, B.S., Catholic University of Peru, 1979, M.A., University of Rochester, 1984, Ph.D., University of Rochester 
+Christina E. Simko, Assistant Professor of Sociology: 2005, B.A., Bridgewater College, 2007, M.A., University of VA, 2013, Ph.D., University of VA 
+Jason B. Simms, Visiting Lecturer in Theatre, Spring 2018 
+Swati Singh, Assistant Professor of Physics: 2004, B.S., McMaster University, 2007, M.S., University of British Columbia, 2012, Ph.D., University of AZ 
+Shanti M. Singham, Professor of History: 1980, B.A., Swarthmore College, 1982, M.A., Princeton University, 1991, Ph.D., Princeton University 
+Eiko Maruko Siniawer, Professor of History: 1997, B.A., Williams College, 1999, M.A., Harvard University, 2003, Ph.D., Harvard University 
+Anne R. Skinner, Visiting Instructor in Chemistry: 1961, B.A., Radcliffe College, 1963, M.S., Yale University, 1965, Ph.D., Yale University, Fall 2017 
+Laura A. Smalarz, Assistant Professor of Psychology: 2008, B.A., San Diego State University, 2011, M.S., IA State University, 2015, Ph.D., IA State University
+David C. Smith, Senior Lecturer in Biology: 1968, B.S., Yale University, 1977, Ph.D., University of MI 
+David L. Smith, John W Chandler Professor of English: 1974, B.A., New College, 1975, M.A., University of Chicago, 1980, Ph.D., University of Chicago 
+Thomas E. Smith, Professor of Chemistry: 1988, B.A., Williams College, 1996, Ph.D., Stanford University 
+Anita R. Sokolsky, Professor of English: 1974, B.A., Oberlin College, 1979, M.A., Cornell University, 1983, Ph.D., Cornell University 
+Paul R. Solomon, Professor of Psychology: 1970, B.A., State University of NY, New Paltz, 1972, M.A., State University of NY, New Paltz, 1975, Ph.D., University of MA, Amherst 
+Stefanie Solum, Professor of Art: 1991, B.A., University of WI, Madison, 1995, M.A., University of CA, Berkeley, 2001, Ph.D., University of CA, Berkeley 
+Steven P. Souza, Senior Lecturer in Astronomy: 1973, B.S., Cooper Union, 1979, Ph.D., State University of NY, Stony Brook 
+Kameron H. Steele, Visiting Lecturer in Theatre: 1991, B.F.A., Northwestern University, 2014, M.F.A., CA Inst of the Arts, Fall 2017 
+Doris J. Stevenson, Lyell B. Clay Artist in Residence, Piano: 1967, B.M., AZ State University, 1969, M.M., University of Southern CA 
+Mihai Stoiciu, Professor of Mathematics: 1999, B.S., University of Bucharest, 2005, Ph.D., CA Institute of Technology 
+Jason A. Storm, Chair and Associate Professor of Religion: 1999, B.A., Hampshire College, 2001, M.A., Harvard University, 2006, Ph.D., Stanford University 
+Frederick W. Strauch, Associate Professor of Physics: 1998, B.S., Loyola College, 2004, Ph.D., University of MD 
+Laura R. Strauch, Instructor in Chemistry: 1999, B.S., Loyola College 
+Catherine B. Stroud, Associate Professor of Psychology: 2002, B.A., University of WI, Madison, 2006, M.A., State University of NY, Stony Brook, 2009, Ph.D., State University of NY, Stony Brook 
+Erin L. Sullivan, Assistant Professor of Physical Education, Head Men's Soccer Coach: 1996, B.A., Williams College, 2006, M.B.A., Western New England College 
+Mirta Suquet, Visiting Assistant Professor of Spanish: 2008, M.A., University of Santiago de Compostela, 2016, Ph.D., University of Santiago de Compostela 
+Kaj Mikael Svensson, STINT - Research Scholar Anand V. Swamy, Professor of Economics: 1983, B.A., University of Delhi, 1985, M.A., Delhi School of Economics, 1993, Ph.D., Northwestern University, on leave Fall 2017 
+Steven J. Swoap, Professor of Biology: 1990, B.A., Trinity University, 1994, Ph.D., University of CA, Irvine 
+Barbara E. Takenaga, Mary A and William Wirt Warren Professor: 1972, B.F.A., University of CO, 1978, M.F.A., University of CO 
+Munjulika Tarah, Visiting Assistant Professor of Dance History and Theory: 2006, B.A., Randolph-Macon Woman's College, 2007, M.A., Northwestern University, 2013, Ph.D., Northwestern University 
+John W. Thoman Jr., J. Hodge Markgraf Professor of Chemistry: 1982, B.A., Williams College, 1987, Ph.D., MA Institute of Technology 
+Christian Thorne, Professor of English: 1995, B.A., Wesleyan University, 2001, Ph.D., Duke University 
+Stephen J. Tifft, Professor of English: 1975, B.A., Harvard University, 1976, M.A., Cornell University, 1984, Ph.D., Cornell University 
+Claire S. Ting, Professor of Biology: 1986, B.A., Yale University, 1989, M.S., Cornell University, 1994, Ph.D., Cornell University 
+Matthew N. Tokeshi, Assistant Professor of Political Science: 2006, B.A., University of CA, Berkeley, 2012, M.A., Princeton University, 2016, Ph.D., Princeton University, on leave Fall 2017 
+Edwin M. Truman, Visiting Professor of Economics: 1963, B.A., Amherst College, 1964, M.A., Yale University, 1967, Ph.D., Yale University, Spring 2018 
+David R. Tucker-Smith, Chair and Professor of Physics: 1995, B.A., Amherst College, 2001, Ph.D., University of CA, Berkeley 
+Laura L. Tupper, Assistant Professor of Statistics: 2008, B.A., Swarthmore College, 2013, M.S., Cornell University, 2016, Ph.D., Cornell University 
+Daniel B. Turek, Assistant Professor of Statistics: 2003, B.S., MA Institute of Technology, 2004, M.Eng., MA Institute of Technology, 2013, Ph.D., University of Otago-Dunedin 
+Damian L. Turner, Assistant Professor of Biology: 2004, B.S., Morgan State University, 2010, Ph.D., University of CT 
+Emily K. Vasiliauskas, Assistant Professor of English: 2007, A.B., Harvard University, 2009, M.A., London University, 2015, Ph.D., Princeton University 
+Zachary R. Wadsworth, Assistant Professor of Music: 2005, B.M., University of Rochester, 2007, M.M., Yale University, 2012, D.M.A., Cornell University 
+Henry M. Walker, Visiting Professor of Computer Science, Fall 2017 
+Dorothy J. Wang, Associate Professor of American Studies and Faculty Affiliate in English: 1985, B.A., Duke University, 1993, M.A., Johns Hopkins University, 1998, Ph.D., University of CA, Berkeley, on leave 2017-2018 
+Guowei Wang, Artist in Residence in Chinese Music Performance and Director of the Williams College Chinese Ensemble 
+Christopher M. Waters, Hans W. Gatzke '38 Professor of Modern European History: 1977, B.A., CA State University, Long Beach, 1979, M.A., Harvard University, 1985, Ph.D., Harvard University, on leave 2017-2018 
+Tara E. Watson, Professor of Economics: 1996, B.A., Wesleyan University, 2003, Ph.D., Harvard University 
+Phillip J. Webster, Visiting Assistant Professor of Religion 
+Bradley C. Wells, Lyell B. Clay Artist in Residence and Director of Choral/Vocal Activities, Lecturer in Music: 1984, B.A., Principia College, 1998, M.M.A., Yale University, 2005, D.M.A., Yale University 
+Peter S. Wells, Assistant Professor of Physical Education and Boathouse Manager: 1979, B.A., Williams College 
+Carmen T. Whalen, Carl W. Vogt '58 Professor of History: 1985, B.A., Hampshire College, 1989, M.A., Rutgers University, 1994, Ph.D., Rutgers University 
+Alan E. White, Mark Hopkins Professor of Philosophy: 1972, B.A., Tulane University, 1976, M.A., PA State University, 1980, Ph.D., PA State University
+Amanda R. Wilcox, Associate Professor of Classics: 1996, B.A., Reed College, 1999, M.A., University of PA, 2002, Ph.D., University of PA, on leave 2017-2018 
+Heather Williams, William Dwight Whitney Professor of Biology: 1977, A.B., Bowdoin College, 1985, Ph.D., Rockefeller University, on leave Spring 2018 
+Mason B. Williams, Assistant Professor of Leadership Studies and Political Science: 2006, B.A., Princeton University, 2009, M.A., Columbia University, 2012, Ph.D., Columbia University 
+Lauren L. Williamson, Visiting Assistant Professor of Behavioral Neuroscience: 2007, B.A., Williams College, 2014, Ph.D., Duke University 
+Amy Gehring Winters, Chair and Professor of Chemistry: 1994, B.A., Williams College, 1998, Ph.D., Harvard University 
+Reinhard A. Wobus, Edna McConnell Clark Professor of Geology: 1962, B.A., Washington University, 1963, M.A., Harvard University, 1966, Ph.D., Stanford University
+Kevin S. Wong, Charles R. Keller Professor of History: 1976, B.A., Rutgers University, 1979, M.A., University of MI, 1992, Ph.D., University of MI 
+Saadia R. Yacoob, Assistant Professor of Religion: 2003, B.A., American University, 2007, M.A., McGill University, 2015, Ph.D., Duke University 
+Kasumi Yamamoto, Frank M. Gagliardi Professor of Classics: 1980, B.A., Aoyama Gakuin University, 1994, M.A., Cornell University, 2000, Ph.D., Cornell University 
+Li Yu, Chair and Associate Professor of Chinese: 1994, B.A., East China Normal University, 1997, M.A., Ohio State University, 2003, Ph.D., Ohio State University
+Safa R. Zaki, Professor of Psychology: 1989, B.A., American University, 1993, M.A., AZ State University, 1996, Ph.D., AZ State University
+Betty Zimmerberg, Howard B. Schow '50 and Nan W. Schow Professor of Neuroscience: 1971, B.A., Harvard University, 1976, Ph.D., City University of NY 
+David J. Zimmerman, Professor of Economics and Orrin Sage Professor of Political Economy: 1985, B.A., University of Toronto, 1987, M.A., Princeton University, 1992, Ph.D., Princeton University 
+Janneke M. van de Stadt, Professor of Russian: 1988, B.A., Amherst College, 1994, M.A., University of WI, Madison, 2000, Ph.D., University of WI, Madison
