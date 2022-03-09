@@ -77,6 +77,56 @@ for line in lines:
 
     # deal with middle name / initial problem 
     line[0][0] = line[0][0].split(" ", maxsplit=2)
-    print(line)
 
-    # cleaned.append(line)
+    cleaned.append(line)
+
+last = []
+first = []
+middle = []
+title = []
+degrees = []
+leave = []
+visiting = []
+for faculty in cleaned: 
+    if (len(faculty) < 4): 
+        print(faculty)
+        print(len(faculty))
+        print("\n")
+        break
+    
+    # deal with first, middle, and last name 
+    if (len(faculty[0][0]) == 2): 
+        last.append(faculty[0][0][1])
+        middle.append(None)
+        first.append(faculty[0][0][0])
+
+    elif (len(faculty[0][0]) == 3): 
+        last.append(faculty[0][0][2])
+        middle.append(faculty[0][0][1])
+        first.append(faculty[0][0][0])
+
+    # populate list of dept names 
+    title.append(faculty[0][1])
+
+    degrees.append(faculty[1])
+
+    # populate list of leave info 
+    leave.append(faculty[2])
+
+    # populate list of visiting info 
+    visiting.append(faculty[3])
+    
+df = pd.DataFrame()
+df['last'] = last
+df['first'] = first
+df['middle'] = middle 
+df['title'] = title
+df['degrees'] = degrees
+df['leave'] = leave
+df['visiting'] = visiting
+
+# # df.sort_values('last', inplace=True)
+
+filepath = Path('/Users/laurenmccarey/math308/12-13/faculty12-13.csv')  
+filepath.parent.mkdir(parents=True, exist_ok=True)  
+df.to_csv(filepath)  
