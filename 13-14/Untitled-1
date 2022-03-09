@@ -1,0 +1,10 @@
+
+(defun my-replace x
+    (cond 
+        ((eq x 3) 6)
+        (t 
+            (x)
+        )
+    )
+)
+(mapcar #'(lambda (x) ((eq x 3) 6)) '(1 2 3 4 5 6))
