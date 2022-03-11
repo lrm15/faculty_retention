@@ -16,19 +16,71 @@ with open ('catalog_2006-07.txt') as f:
     lines = f.readlines()
 
 
-for line in lines: 
+degree_list = ["b.a.", "b.s.", "ph.d", "b.f.a", "a.b", "b.m", "ba", "c.a.p.e.s", "bachelors", "a.m", "s.b", "b.mus", "m.a", "b.c", "ed.m", "b.comm", "m.f.a"]
+degs = []
+
+count = 0 
+new_lines = []
+i = 0 
+for i in range(len(lines)): 
+    line = lines[i]
     line = line.lower()
 
-    if ("b.a." in line): 
-        line = line.replace("b.a.", "; b.a.")
+    # check whether each line starts with a degree - if so, mark with semicolon and store index in degs 
+    for item in degree_list: 
+        if (line[0:len(item)] == item): 
+            line = line.replace(item, ";" + item)
+            count += 1
+            degs.append(i)
     
-    elif ("b.s." in line): 
-        line = line.replace("b.s.", "; b.s.")
-        line = line.strip()
+    new_lines.append(line)
 
-    elif("associate" in line): 
-        line = line.replace("associate", ", associate")
+    i += 1
+
+j = 0
+merged = []
+while (j < len(new_lines)): 
+    if (not j in degs) and ((j + 1) in degs): 
+        print(new_lines[j] + new_lines[j + 1])
+        # merged.append(new_lines[i] + new_lines[j])
+
+# while (i <= length(data)){
+#   if (i+1 %in% degreelines){
+#     data2 <- c(data2,paste0(data[i],";",data[i+1]))
+#     i <- i + 2
+#   } else {
+#     data2 <- c(data2,data[i])
+#     i <- i + 1
+#   }
+# }
 
 
-    with open ('catalog_temp.txt', 'a') as f: 
-        f.write(line)
+            
+# new_lines = []
+# with open('temp.txt') as f: 
+#     new_lines = f.readlines()
+
+# i = 0 
+# for i in range(len(new_lines) - 1):
+
+
+#     for j in range(len(new_lines)): 
+        
+#         if (new_lines[j][0] == ";"): 
+#             new_lines[i] = new_lines[i] + new_lines[j]
+
+#         j += 1
+
+#     print(new_lines[i])
+#     i += 1
+   
+
+# new_lines = []
+# with open ('catalog_temp.txt') as f: 
+#     new_lines = f.readlines()
+
+# print(new_lines)
+
+# for line in new_lines: 
+#     if line[0] == ";": 
+#         print(line)
