@@ -41,18 +41,12 @@ j = 0
 merged = []
 while (j < len(new_lines)): 
     if (not j in degs) and ((j + 1) in degs): 
-        print(new_lines[j] + new_lines[j + 1])
+        x = [new_lines[j], new_lines[j + 1]]
+        # print(new_lines[j].join(new_lines[j + 1]))
+        print(' '.join(x).replace("\n", ""))
         # merged.append(new_lines[i] + new_lines[j])
 
-# while (i <= length(data)){
-#   if (i+1 %in% degreelines){
-#     data2 <- c(data2,paste0(data[i],";",data[i+1]))
-#     i <- i + 2
-#   } else {
-#     data2 <- c(data2,data[i])
-#     i <- i + 1
-#   }
-# }
+    j = j + 1
 
 
             
