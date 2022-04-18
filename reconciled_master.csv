@@ -1,12 +1,12 @@
 College,Year,Last,First,Middle,Department,Position,Title,Tenured,Visiting,Leave,Education,Entire Line
-Hamilton,2015,'02,alexandra,plakias,philosophy,assistant prof.,assistant professor of philosophy,N,N,NA,NA,NA
-Colby,2012,'75,karen,kusiak,education,assistant prof.,assistant professor of education,N,N,NA,"e.ed.* 1 (colby, lesley, maine)",NA
-Colby,2013,'75,karen,kusiak,education,assistant prof.,assistant professor of education,N,N,NA,"ph.d. (colby, lesley, maine)",NA
-Colby,2014,'75,karen,kusiak,education,assistant prof.,assistant professor of education,N,N,NA,"ph.d.1 (colby, lesley, maine)",NA
-Colby,2015,'75,karen,kusiak,education,assistant prof.,assistant professor of education,N,N,NA,"ph.d. 1 (colby, lesley, maine)",NA
-Colby,2016,'75,karen,kusiak,education,assistant prof.,assistant professor of education,N,N,NA,"ph.d.1 (colby, lesley, maine)",NA
-Colby,2017,'75,karen,kusiak,education,assistant prof.,assistant professor of education,N,N,NA,"(colby, lesley, maine)",NA
-Colby,2018,'75,karen,kusiak,education,assistant prof.,assistant professor of education,N,N,NA,"(colby, lesley, maine)",NA
+Hamilton,2015,plakias,alexandra,NA,philosophy,assistant prof.,assistant professor of philosophy,N,N,NA,NA,NA
+Colby,2012,kusiak,karen,NA,education,assistant prof.,assistant professor of education,N,N,NA,"e.ed.* 1 (colby, lesley, maine)",NA
+Colby,2013,kusiak,karen,NA,education,assistant prof.,assistant professor of education,N,N,NA,"ph.d. (colby, lesley, maine)",NA
+Colby,2014,kusiak,karen,NA,education,assistant prof.,assistant professor of education,N,N,NA,"ph.d.1 (colby, lesley, maine)",NA
+Colby,2015,kusiak,karen,NA,education,assistant prof.,assistant professor of education,N,N,NA,"ph.d. 1 (colby, lesley, maine)",NA
+Colby,2016,kusiak,karen,NA,education,assistant prof.,assistant professor of education,N,N,NA,"ph.d.1 (colby, lesley, maine)",NA
+Colby,2017,kusiak,karen,NA,education,assistant prof.,assistant professor of education,N,N,NA,"(colby, lesley, maine)",NA
+Colby,2018,kusiak,karen,NA,education,assistant prof.,assistant professor of education,N,N,NA,"(colby, lesley, maine)",NA
 Colby,2014,’00,karen,macke,sociology,instructor,instructor in sociology,N,N,NA,"m.a., (colby, syracuse)",NA
 Colby,2011,’01,milan,babik,government,assistant prof.,visiting assistant professor of government,N,Y,NA,"ph.d.1 (colby, lse [england], oxford)",NA
 Colby,2019,’90,ole,amundsen,environmental studies,instructor,visiting instructor of environmental studies,N,Y,NA,m.s. (mit),NA
